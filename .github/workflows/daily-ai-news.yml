@@ -29,12 +29,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
+          # Checkout the branch head, not the old run SHA, so re-runs do not push from stale history.
+          ref: ${{ github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: "pip"
@@ -48,21 +50,29 @@ jobs:
           CREATE_GITHUB_ISSUE: ${{ vars.CREATE_GITHUB_ISSUE || 'false' }}
           NO_AI: ${{ github.event_name == 'workflow_dispatch' && inputs.no_ai || 'false' }}
         run: |
+          set -euo pipefail
           EXTRA=""
           if [ "$NO_AI" = "true" ]; then EXTRA="--no-ai"; fi
           python src/ai_news_aggregator/main.py --config config/sources.yml $EXTRA
 
       - name: Commit generated digest
         run: |
-          if git diff --quiet; then
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage first so untracked daily files are included in the change check.
+          git add digests docs data
+          if git diff --cached --quiet; then
             echo "No generated changes to commit."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add digests docs data
-            git commit -m "chore: update daily AI news digest"
-            git push
+            exit 0
           fi
+
+          git commit -m "chore: update daily AI news digest"
+
+          # If the branch moved while this job was running, rebase before pushing.
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
