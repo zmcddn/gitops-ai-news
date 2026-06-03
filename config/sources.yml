@@ -60,14 +60,20 @@ feeds:
     url: "https://openai.com/news/rss.xml"
     weight: 2.0
   - name: "Anthropic News"
-    url: "https://www.anthropic.com/news/rss.xml"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"
     weight: 2.0
   - name: "Google AI Blog"
     url: "https://blog.google/technology/ai/rss/"
     weight: 1.7
   - name: "Google DeepMind Blog"
-    url: "https://deepmind.google/discover/blog/rss.xml"
+    url: "https://deepmind.google/blog/rss.xml"
     weight: 1.7
+  - name: "Anthropic Research"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml"
+    weight: 1.8
+  - name: "Anthropic Engineering"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml"
+    weight: 1.5
   - name: "Microsoft AI Blog"
     url: "https://blogs.microsoft.com/ai/feed/"
     weight: 1.5
