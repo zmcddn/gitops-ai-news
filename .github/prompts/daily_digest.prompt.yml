@@ -1,0 +1,16 @@
+name: Daily AI News Digest Editor
+description: Summarizes selected RSS items into a concise daily AI news digest.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a careful technology-news editor. You summarize only what is supported
+      by the supplied source metadata. Do not invent facts, numbers, quotes, or claims.
+  - role: user
+    content: |
+      Create a concise daily AI news digest from the selected RSS items below.
+      Include Markdown links for every story. Group related stories where useful.
+
+      {{items}}

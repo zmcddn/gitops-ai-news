@@ -1,0 +1,103 @@
+site:
+  title: "Daily AI News"
+  timezone: "America/Vancouver"
+  hours_back: 36
+  max_items: 18
+  max_per_source: 4
+  min_score: 1.0
+  suppress_seen_days: 14
+  polite_delay_seconds: 0.2
+  digest_dir: "digests"
+  docs_dir: "docs"
+  data_dir: "data/items"
+  seen_path: "data/seen_urls.json"
+  model: "openai/gpt-4o-mini"
+  temperature: 0.2
+  max_completion_tokens: 2200
+  editor_notes: "Focus on AI models, developer tools, safety, regulation, chips, open source, and product launches."
+
+keywords:
+  high:
+    - "openai"
+    - "anthropic"
+    - "deepmind"
+    - "gemini"
+    - "gpt"
+    - "claude"
+    - "llama"
+    - "mistral"
+    - "model"
+    - "agent"
+    - "ai safety"
+    - "benchmark"
+    - "inference"
+    - "training"
+    - "gpu"
+    - "chip"
+    - "github copilot"
+    - "mcp"
+    - "regulation"
+  medium:
+    - "machine learning"
+    - "robotics"
+    - "multimodal"
+    - "open source"
+    - "research"
+    - "startup"
+    - "funding"
+    - "privacy"
+    - "security"
+    - "developer"
+    - "enterprise"
+  penalty:
+    - "sponsored"
+    - "podcast"
+    - "webinar"
+    - "coupon"
+
+feeds:
+  - name: "OpenAI Blog"
+    url: "https://openai.com/news/rss.xml"
+    weight: 2.0
+  - name: "Anthropic News"
+    url: "https://www.anthropic.com/news/rss.xml"
+    weight: 2.0
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    weight: 1.7
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/discover/blog/rss.xml"
+    weight: 1.7
+  - name: "Microsoft AI Blog"
+    url: "https://blogs.microsoft.com/ai/feed/"
+    weight: 1.5
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    weight: 1.5
+  - name: "AWS Machine Learning Blog"
+    url: "https://aws.amazon.com/blogs/machine-learning/feed/"
+    weight: 1.2
+  - name: "NVIDIA AI Blog"
+    url: "https://blogs.nvidia.com/blog/category/deep-learning/feed/"
+    weight: 1.3
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    weight: 1.2
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    weight: 1.1
+  - name: "VentureBeat AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    weight: 1.0
+  - name: "MIT Technology Review AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    weight: 1.1
+  - name: "arXiv cs.AI"
+    url: "https://export.arxiv.org/rss/cs.AI"
+    weight: 1.0
+  - name: "arXiv cs.CL"
+    url: "https://export.arxiv.org/rss/cs.CL"
+    weight: 1.0
+  - name: "arXiv stat.ML"
+    url: "https://export.arxiv.org/rss/stat.ML"
+    weight: 1.0
