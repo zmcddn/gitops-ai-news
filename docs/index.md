@@ -1,6 +1,6 @@
 # Daily AI News
 
-_Last updated: 2026-06-03T10:18:38.533630-07:00._
+_Last updated: 2026-06-03T14:06:09.149670-07:00._
 
 [Read the latest digest](digests/2026-06-03.md)
 

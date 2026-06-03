@@ -1,6 +1,6 @@
 {
   "digest_date": "2026-06-03",
-  "generated_at": "2026-06-03T10:18:38.533630-07:00",
+  "generated_at": "2026-06-03T14:06:09.149670-07:00",
   "items": [
     {
       "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
@@ -191,19 +191,32 @@
       "url": "https://arxiv.org/abs/2604.23099"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries",
-      "published": "2026-06-02T14:44:21+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "published": "2026-06-03T17:45:35+00:00",
       "reasons": [
-        "fresh <30h",
-        "anthropic",
-        "claude",
-        "security"
+        "fresh <12h",
+        "gemini",
+        "agent"
       ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly […]",
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published": "2026-06-03T13:15:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "research"
+      ],
+      "score": 6.8,
+      "source": "OpenAI Blog",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
     },
     {
       "canonical_url": "https://openai.com/index/frontier-safety-blueprint",
@@ -262,20 +275,6 @@
       "summary": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the right customization strategy for your data and task, to configuring the training parameters that most influence outcomes, like learning rate, batch size, and checkpointing. We also cover the common mistakes that lead to wasted training runs and how to catch them early, so you can improve domain performance without degrading general capabilities or burning through compute on avoidable fai…",
       "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
       "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "published": "2026-06-02T07:00:00+00:00",
-      "reasons": [
-        "recent <72h",
-        "openai",
-        "ai safety"
-      ],
-      "score": 6.1,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
     }
   ]
 }
