@@ -1,0 +1,281 @@
+{
+  "digest_date": "2026-06-03",
+  "generated_at": "2026-06-03T10:18:38.533630-07:00",
+  "items": [
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "published": "2026-06-03T14:04:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "agent",
+        "security"
+      ],
+      "score": 9.3,
+      "source": "The Verge AI",
+      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's […]",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03641",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
+        "model"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2606.03641v1 Announce Type: new Abstract: We investigate whether large language models produce different medical triage recommendations for identical neurological symptoms when only the patient's stated gender and age vary. Using three model families--Gemini 3.5 Flash, Claude Sonnet 4.6, and GPT-5.4-mini--we present a standardized symptom profile (persistent headache, blurred vision, morning nausea, visual disturbances) across seven demographic conditions: three age groups (25, 38, 65) x two genders (male, female), plus a gender-unspecified baseline (n = 30 per condition per model, 630 total trials). We find a stark, systemic gender-de…",
+      "title": "Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency",
+      "url": "https://arxiv.org/abs/2606.03641"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03657",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2606.03657v1 Announce Type: new Abstract: Large language models for code generation often need to use APIs that are absent from their pretraining data. This requires more than recalling a function name: models must coordinate signatures, module paths, input-output contracts, semantics, and executable usage patterns. Existing novel-API benchmarks are typically static, rely on coarse pass/fail metrics, or use synthetic APIs that may not reflect real library evolution. We introduce NovelAPIBench, a fully automated dynamic benchmark that, for any base model and target library, discovers novel APIs, extracts decomposed knowledge bundles, ge…",
+      "title": "Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition",
+      "url": "https://arxiv.org/abs/2606.03657"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03304",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "model",
+        "benchmark",
+        "inference"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2606.03304v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated in multilingual settings, yet their inference behavior in low-resource African languages remains underexplored especially under pure prompting without fine-tuning. We present a systematic study of prompting strategies for Natural Language Inference (NLI) in Swahili, Yoruba, and Hausa using the AfriXNLI benchmark. We evaluate five prompting strategies Baseline (zero-shot), Script-Aware, Language Specific, Contrastive, and Native-Label Self-Translation (NL-STP) across two mid-sized open weight models (Llama3.2-3B and Gemma3-4B). To isolate t…",
+      "title": "From Script to Semantics: Prompting Strategies for African NLI",
+      "url": "https://arxiv.org/abs/2606.03304"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai",
+      "published": "2026-06-03T15:56:50+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.",
+      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03236",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2606.03236v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have substantially advanced mobile agents, yet proactive mobile assistance remains challenging because agents must decide \\emph{when} to intervene before determining \\emph{how} to assist. Existing systems often implement these two decisions within a unified MLLM-based pipeline, leading to goal misalignment between conservative intervention filtering and comprehensive assistance generation, as well as redundant inference when the agent should remain silent. To address these limitations, we propose the \\textbf{Pre-Reasoning Perception Framework (PRPF)}, a…",
+      "title": "Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents",
+      "url": "https://arxiv.org/abs/2606.03236"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03435",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2606.03435v1 Announce Type: new Abstract: Cell Painting combines multiplexed fluorescent staining, high-content imaging, and quantitative analysis to generate high-dimensional phenotypic readouts to support diverse downstream tasks such as mechanism-of-action (MoA) inference, toxicity prediction, and construction of drug-disease atlases. However, existing workflows are slow, costly and difficult to interpret. Approaches for drug screening modeling predominantly focus on molecular representation learning, while neglecting actual experimental context (e.g., cell line, dosing schedule, etc.), limiting generalization and MoA resolution. We…",
+      "title": "CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations",
+      "url": "https://arxiv.org/abs/2606.03435"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03165",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2606.03165v1 Announce Type: new Abstract: The language used by digital chat assistants such as ChatGPT can diverge from human expectations (misalignment). Research, mostly on Scientific English, has described both what divergences occur and, to some extent, why, linking them to the training stage of human preference learning. Yet, existing approaches rely on manual curation. This paper introduces two curation-free, assumption-light evaluation metrics: the Lexical Alignment Score, which identifies lexical overuse, and the Triangulated Preference Shift, which quantifies how much of such shifts can be attributed to human preference learni…",
+      "title": "Fully Automated Identification of Lexical Alignment and Preference-Stage Shifts in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.03165"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03291",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2606.03291v1 Announce Type: new Abstract: Large language models (LLMs) can memorize sensitive facts, motivating unlearning methods that remove targeted knowledge without costly retraining. However, unlearning research remains heavily English-centric. We study multilingual unlearning by extending the TOFU benchmark to five languages, and fine-tune, unlearn, and query our models with different permutations of languages. We find that unlearning transfer, the ability of an unlearned model to \"forget\" facts in languages other than the unlearning language, is highly variable: e.g., it is strongest between languages sharing scripts and famili…",
+      "title": "Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility",
+      "url": "https://arxiv.org/abs/2606.03291"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.02955",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2606.02955v1 Announce Type: new Abstract: Diffusion large language models promise parallel token generation, yet inference remains bottlenecked by deciding which masked tokens can be safely committed together. Fast-dLLM addressed this with KV caching and confidence-guided parallel decoding, but its decoding theory uses a homogeneous high-confidence assumption that effectively reduces each candidate set to its weakest selected token. We argue that this leaves speed on the table because real decoding steps exhibit heterogeneous confidence profiles. We propose \\textbf{Fast-dLLM++}, a training-free extension that introduces \\emph{Fr\\'{e}ch…",
+      "title": "Fast-dLLM++: Fr\\'{e}chet Profile Decoding for Faster Diffusion LLM Inference",
+      "url": "https://arxiv.org/abs/2606.02955"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2507.10419",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2507.10419v3 Announce Type: replace-cross Abstract: We propose LoRA-MCL, a training scheme that extends next-token prediction in language models with a method designed to decode diverse, plausible sentence continuations at inference time. Traditional language modeling is an intrinsically ill-posed problem: given a context, multiple futures may be equally plausible. Our approach leverages Multiple Choice Learning (MCL) and the winner-takes-all loss to efficiently handle ambiguity through Low-Rank Adaptation. We provide a theoretical interpretation of applying MCL to language modeling, assuming the data is generated from a mixture of dis…",
+      "title": "Multiple Choice Learning of Low-Rank Adapters for Language Modeling",
+      "url": "https://arxiv.org/abs/2507.10419"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2604.23099",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "inference"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2604.23099v2 Announce Type: replace-cross Abstract: Evaluating generative AI models is increasingly resource-intensive due to slow inference, expensive raters, and a rapidly growing landscape of models and benchmarks. We propose ProEval, a proactive evaluation framework that leverages transfer learning to efficiently estimate performance and identify failure cases. ProEval employs pre-trained Gaussian Processes (GPs) as surrogates for the performance score function, mapping model inputs to metrics such as the severity of errors or safety violations. By framing performance estimation as Bayesian quadrature (BQ) and failure discovery as…",
+      "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation",
+      "url": "https://arxiv.org/abs/2604.23099"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries",
+      "published": "2026-06-02T14:44:21+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic",
+        "claude",
+        "security"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "2026-06-03T10:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "security"
+      ],
+      "score": 6.8,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.02589",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "multimodal"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2606.02589v1 Announce Type: cross Abstract: Integrating over model uncertainty in factorial designs via Bayesian model averaging is hindered by the combinatorial explosion of interpretable interaction effects, often yielding a multimodal posterior, where standard Markov chain Monte Carlo algorithms encounter significant convergence issues. We propose a general computational framework that repurposes Rashomon sets, collections of high-performing models traditionally valued for prediction and interpretability, as a strategic \"warm start\" for estimating the full posterior. Our method, Rashomon-seeded annealing, initializes annealed import…",
+      "title": "Rashomon-Seeded Annealing for Robust Bayesian Inference in Factorial Designs",
+      "url": "https://arxiv.org/abs/2606.02589"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.03211",
+      "published": "2026-06-03T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2606.03211v1 Announce Type: cross Abstract: Active Statistical Inference is a new framework to make precise claims about population parameters with provable statistical guarantees. It uses a predictive \"black-box\" machine learning (ML) model to strategically decide which data points to label, roughly prioritizing samples for which the ML model is unsure about their label values. A major issue is that the framework can be brittle when uncertainty estimates are noisy. This paper introduces OPAL (Optimized Policy for Allocation of Labels), which learns a labeling strategy within a tractable class of smooth policies to yield estimators wit…",
+      "title": "Optimized Labeling Resource Allocation for Prediction-Assisted Inference via OPAL",
+      "url": "https://arxiv.org/abs/2606.03211"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge",
+      "published": "2026-06-02T17:39:03+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the right customization strategy for your data and task, to configuring the training parameters that most influence outcomes, like learning rate, batch size, and checkpointing. We also cover the common mistakes that lead to wasted training runs and how to catch them early, so you can improve domain performance without degrading general capabilities or burning through compute on avoidable fai…",
+      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "published": "2026-06-02T07:00:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "openai",
+        "ai safety"
+      ],
+      "score": 6.1,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+    }
+  ]
+}
