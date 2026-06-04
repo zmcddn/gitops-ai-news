@@ -34,6 +34,21 @@ Optional issue delivery is included: set repository variable `CREATE_GITHUB_ISSU
 
 The workflow is scheduled for 5:17 AM in `America/Vancouver`. Change this in `.github/workflows/daily-ai-news.yml`.
 
+## Architecture and workflow
+
+![High-level architecture](images/architecture.png)
+
+<details>
+<summary><strong>Detailed Workflow</strong></summary>
+
+![Daily Workflow](images/workflow.png)
+
+![Digest Generation](images/digest_generation.png)
+
+![Repository Map](images/repo_map.png)
+
+</details>
+
 ## GitHub Models setup
 
 Inside GitHub Actions, no extra model secret is needed. The workflow grants:
