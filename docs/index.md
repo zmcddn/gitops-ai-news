@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-03T14:37:29.117776-07:00._
+_Last updated: 2026-06-04T08:44:34.761486-07:00._
 
-[Read the latest digest](digests/2026-06-03.html)
+[Read the latest digest](digests/2026-06-04.html)
 
 ## Latest top links
 
-- [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition) — The Verge AI
-- [Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency](https://arxiv.org/abs/2606.03641) — arXiv cs.AI
-- [Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition](https://arxiv.org/abs/2606.03657) — arXiv cs.AI
-- [From Script to Semantics: Prompting Strategies for African NLI](https://arxiv.org/abs/2606.03304) — arXiv cs.CL
-- [Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
-- [Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents](https://arxiv.org/abs/2606.03236) — arXiv cs.AI
-- [CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations](https://arxiv.org/abs/2606.03435) — arXiv cs.AI
-- [Fully Automated Identification of Lexical Alignment and Preference-Stage Shifts in Large Language Models](https://arxiv.org/abs/2606.03165) — arXiv cs.CL
+- [Can Generalist Agents Automate Data Curation?](https://arxiv.org/abs/2606.04261) — arXiv cs.AI
+- [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) — arXiv cs.AI
+- [DiffAero: A GPU-Accelerated Differentiable Simulation Framework for Efficient Quadrotor Policy Learning](https://arxiv.org/abs/2509.10247) — arXiv cs.AI
+- [Long Live Fine-Tuning: Task-Specific Transformers Outperform Zero-Shot LLMs for Misinformation Response Classification on Reddit](https://arxiv.org/abs/2606.04274) — arXiv cs.CL
+- [Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification](https://arxiv.org/abs/2606.04037) — arXiv cs.AI
+- [LifeSide: Benchmarking Agents as Lifelong Digital Companions](https://arxiv.org/abs/2606.04660) — arXiv cs.CL
+- [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) — OpenAI Blog
+- [Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models](https://arxiv.org/abs/2606.04109) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-04](digests/2026-06-04.html)
 - [2026-06-03](digests/2026-06-03.html)
 
 ## About this site
