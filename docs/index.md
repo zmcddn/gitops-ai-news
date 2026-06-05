@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-04T08:44:34.761486-07:00._
+_Last updated: 2026-06-05T08:28:45.495053-07:00._
 
-[Read the latest digest](digests/2026-06-04.html)
+[Read the latest digest](digests/2026-06-05.html)
 
 ## Latest top links
 
-- [Can Generalist Agents Automate Data Curation?](https://arxiv.org/abs/2606.04261) — arXiv cs.AI
-- [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) — arXiv cs.AI
-- [DiffAero: A GPU-Accelerated Differentiable Simulation Framework for Efficient Quadrotor Policy Learning](https://arxiv.org/abs/2509.10247) — arXiv cs.AI
-- [Long Live Fine-Tuning: Task-Specific Transformers Outperform Zero-Shot LLMs for Misinformation Response Classification on Reddit](https://arxiv.org/abs/2606.04274) — arXiv cs.CL
-- [Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification](https://arxiv.org/abs/2606.04037) — arXiv cs.AI
-- [LifeSide: Benchmarking Agents as Lifelong Digital Companions](https://arxiv.org/abs/2606.04660) — arXiv cs.CL
-- [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) — OpenAI Blog
-- [Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models](https://arxiv.org/abs/2606.04109) — arXiv cs.CL
+- [CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](https://arxiv.org/abs/2606.05793) — arXiv cs.CL
+- [Tree-Based Formalization of Multi-Agent Complementarity in Human-AI Interactions](https://arxiv.org/abs/2606.04779) — arXiv cs.AI
+- [AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?](https://arxiv.org/abs/2606.05080) — arXiv cs.AI
+- [Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO](https://arxiv.org/abs/2606.05174) — arXiv cs.CL
+- [Using Large Language Models to Support High Volume Application Review for an Undergraduate Research Program](https://arxiv.org/abs/2606.05564) — arXiv cs.CL
+- [PlanBench-V: A Spatial Planning Map Benchmark for Vision-Language Models](https://arxiv.org/abs/2606.05744) — arXiv cs.CL
+- [The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?](https://arxiv.org/abs/2606.04455) — arXiv cs.AI
+- [AIP: A Graph Representation for Learning and Governing Agent Skills](https://arxiv.org/abs/2606.04781) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-06-05](digests/2026-06-05.html)
 - [2026-06-04](digests/2026-06-04.html)
 - [2026-06-03](digests/2026-06-03.html)
 
