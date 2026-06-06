@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-05T08:28:45.495053-07:00._
+_Last updated: 2026-06-06T07:08:00.675618-07:00._
 
-[Read the latest digest](digests/2026-06-05.html)
+[Read the latest digest](digests/2026-06-06.html)
 
 ## Latest top links
 
-- [CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](https://arxiv.org/abs/2606.05793) — arXiv cs.CL
-- [Tree-Based Formalization of Multi-Agent Complementarity in Human-AI Interactions](https://arxiv.org/abs/2606.04779) — arXiv cs.AI
-- [AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?](https://arxiv.org/abs/2606.05080) — arXiv cs.AI
-- [Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO](https://arxiv.org/abs/2606.05174) — arXiv cs.CL
-- [Using Large Language Models to Support High Volume Application Review for an Undergraduate Research Program](https://arxiv.org/abs/2606.05564) — arXiv cs.CL
-- [PlanBench-V: A Spatial Planning Map Benchmark for Vision-Language Models](https://arxiv.org/abs/2606.05744) — arXiv cs.CL
-- [The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?](https://arxiv.org/abs/2606.04455) — arXiv cs.AI
-- [AIP: A Graph Representation for Learning and Governing Agent Skills](https://arxiv.org/abs/2606.04781) — arXiv cs.AI
+- [Evaluation of LLMs for Mathematical Formalization in Lean](https://arxiv.org/abs/2606.05632) — arXiv cs.AI
+- [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304) — arXiv cs.AI
+- [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342) — arXiv cs.AI
+- [Zero knowledge verification for frontier AI training is possible](https://arxiv.org/abs/2606.05433) — arXiv cs.AI
+- [Persona Atlas: Mapping How Famous Minds Think](https://huggingface.co/blog/build-small-hackathon/persona-atlas) — Hugging Face Blog
+- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/) — TechCrunch AI
+- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/) — TechCrunch AI
+- [The ‘together tech’ wave might be the most intriguing startup bet of 2026](https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-06](digests/2026-06-06.html)
 - [2026-06-05](digests/2026-06-05.html)
 - [2026-06-04](digests/2026-06-04.html)
 - [2026-06-03](digests/2026-06-03.html)
