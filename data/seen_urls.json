@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T14:08:00.675618+00:00",
+  "updated_at": "2026-06-07T14:20:28.445917+00:00",
   "urls": {
     "https://arxiv.org/abs/2507.10419": "2026-06-03T21:37:29.117776+00:00",
     "https://arxiv.org/abs/2509.10247": "2026-06-04T15:44:34.761486+00:00",
@@ -47,6 +47,7 @@
     "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge": "2026-06-03T21:37:29.117776+00:00",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026": "2026-06-06T14:08:00.675618+00:00",
     "https://huggingface.co/blog/build-small-hackathon/persona-atlas": "2026-06-06T14:08:00.675618+00:00",
+    "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": "2026-06-07T14:20:28.445917+00:00",
     "https://huggingface.co/blog/hf-cli-for-agents": "2026-06-04T15:44:34.761486+00:00",
     "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety": "2026-06-05T15:28:45.495053+00:00",
     "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": "2026-06-03T17:18:38.533630+00:00",
@@ -62,13 +63,19 @@
     "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform": "2026-06-05T15:28:45.495053+00:00",
     "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute": "2026-06-06T14:08:00.675618+00:00",
     "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days": "2026-06-06T14:08:00.675618+00:00",
+    "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks": "2026-06-07T14:20:28.445917+00:00",
+    "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor": "2026-06-07T14:20:28.445917+00:00",
+    "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai": "2026-06-07T14:20:28.445917+00:00",
+    "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates": "2026-06-07T14:20:28.445917+00:00",
     "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026": "2026-06-06T14:08:00.675618+00:00",
     "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone": "2026-06-06T14:08:00.675618+00:00",
     "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos": "2026-06-05T15:28:45.495053+00:00",
     "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition": "2026-06-03T21:37:29.117776+00:00",
     "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise": "2026-06-03T21:37:29.117776+00:00",
+    "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators": "2026-06-07T14:20:28.445917+00:00",
     "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood": "2026-06-06T14:08:00.675618+00:00",
     "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles": "2026-06-06T14:08:00.675618+00:00",
+    "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center": "2026-06-07T14:20:28.445917+00:00",
     "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast": "2026-06-06T14:08:00.675618+00:00",
     "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini": "2026-06-06T14:08:00.675618+00:00"
   }

@@ -1,22 +1,22 @@
 # Daily AI News
 
-_Last updated: 2026-06-06T07:08:00.675618-07:00._
+_Last updated: 2026-06-07T07:20:28.445917-07:00._
 
-[Read the latest digest](digests/2026-06-06.html)
+[Read the latest digest](digests/2026-06-07.html)
 
 ## Latest top links
 
-- [Evaluation of LLMs for Mathematical Formalization in Lean](https://arxiv.org/abs/2606.05632) — arXiv cs.AI
-- [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304) — arXiv cs.AI
-- [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342) — arXiv cs.AI
-- [Zero knowledge verification for frontier AI training is possible](https://arxiv.org/abs/2606.05433) — arXiv cs.AI
-- [Persona Atlas: Mapping How Famous Minds Think](https://huggingface.co/blog/build-small-hackathon/persona-atlas) — Hugging Face Blog
-- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/) — TechCrunch AI
-- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/) — TechCrunch AI
-- [The ‘together tech’ wave might be the most intriguing startup bet of 2026](https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/) — TechCrunch AI
+- [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) — TechCrunch AI
+- [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers) — Hugging Face Blog
+- [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) — TechCrunch AI
+- [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators) — The Verge AI
+- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) — TechCrunch AI
+- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/) — TechCrunch AI
+- [The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center) — The Verge AI
 
 ## Recent digests
 
+- [2026-06-07](digests/2026-06-07.html)
 - [2026-06-06](digests/2026-06-06.html)
 - [2026-06-05](digests/2026-06-05.html)
 - [2026-06-04](digests/2026-06-04.html)
