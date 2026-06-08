@@ -1,21 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-07T07:20:28.445917-07:00._
+_Last updated: 2026-06-08T09:20:43.531721-07:00._
 
-[Read the latest digest](digests/2026-06-07.html)
+[Read the latest digest](digests/2026-06-08.html)
 
 ## Latest top links
 
-- [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) — TechCrunch AI
-- [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers) — Hugging Face Blog
-- [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) — TechCrunch AI
-- [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators) — The Verge AI
-- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) — TechCrunch AI
-- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/) — TechCrunch AI
-- [The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center) — The Verge AI
+- [When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations](https://arxiv.org/abs/2606.07237) — arXiv cs.CL
+- [TorchKM: A GPU-Oriented Library for Kernel Learning and Model Selection](https://arxiv.org/abs/2606.06742) — arXiv stat.ML
+- [The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective](https://arxiv.org/abs/2606.07017) — arXiv cs.AI
+- [Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](https://arxiv.org/abs/2606.07462) — arXiv cs.AI
+- [Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration](https://arxiv.org/abs/2606.06545) — arXiv cs.AI
+- [M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402) — arXiv cs.CL
+- [Causal Evaluation of Membership Inference Attacks](https://arxiv.org/abs/2602.02819) — arXiv stat.ML
+- [Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required](https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-06-08](digests/2026-06-08.html)
 - [2026-06-07](digests/2026-06-07.html)
 - [2026-06-06](digests/2026-06-06.html)
 - [2026-06-05](digests/2026-06-05.html)

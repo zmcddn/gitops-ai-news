@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-06-07T14:20:28.445917+00:00",
+  "updated_at": "2026-06-08T16:20:43.531721+00:00",
   "urls": {
     "https://arxiv.org/abs/2507.10419": "2026-06-03T21:37:29.117776+00:00",
     "https://arxiv.org/abs/2509.10247": "2026-06-04T15:44:34.761486+00:00",
     "https://arxiv.org/abs/2509.23385": "2026-06-04T15:44:34.761486+00:00",
+    "https://arxiv.org/abs/2602.02819": "2026-06-08T16:20:43.531721+00:00",
     "https://arxiv.org/abs/2604.23099": "2026-06-03T21:37:29.117776+00:00",
     "https://arxiv.org/abs/2605.27991": "2026-06-05T15:28:45.495053+00:00",
     "https://arxiv.org/abs/2606.02589": "2026-06-03T21:37:29.117776+00:00",
@@ -41,6 +42,20 @@
     "https://arxiv.org/abs/2606.05744": "2026-06-05T15:28:45.495053+00:00",
     "https://arxiv.org/abs/2606.05793": "2026-06-05T15:28:45.495053+00:00",
     "https://arxiv.org/abs/2606.06368": "2026-06-05T15:28:45.495053+00:00",
+    "https://arxiv.org/abs/2606.06545": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.06712": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.06742": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.06879": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.06923": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07017": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07237": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07247": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07402": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07457": "2026-06-08T16:20:43.531721+00:00",
+    "https://arxiv.org/abs/2606.07462": "2026-06-08T16:20:43.531721+00:00",
+    "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions": "2026-06-08T16:20:43.531721+00:00",
+    "https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe": "2026-06-08T16:20:43.531721+00:00",
+    "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required": "2026-06-08T16:20:43.531721+00:00",
     "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart": "2026-06-04T15:44:34.761486+00:00",
     "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai": "2026-06-03T21:37:29.117776+00:00",
     "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart": "2026-06-05T15:28:45.495053+00:00",
@@ -48,8 +63,10 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026": "2026-06-06T14:08:00.675618+00:00",
     "https://huggingface.co/blog/build-small-hackathon/persona-atlas": "2026-06-06T14:08:00.675618+00:00",
     "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": "2026-06-07T14:20:28.445917+00:00",
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3": "2026-06-08T16:20:43.531721+00:00",
     "https://huggingface.co/blog/hf-cli-for-agents": "2026-06-04T15:44:34.761486+00:00",
     "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety": "2026-06-05T15:28:45.495053+00:00",
+    "https://huggingface.co/blog/openenv-agentic-rl": "2026-06-08T16:20:43.531721+00:00",
     "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": "2026-06-03T17:18:38.533630+00:00",
     "https://openai.com/index/chatgpt-memory-dreaming": "2026-06-05T15:28:45.495053+00:00",
     "https://openai.com/index/endava-frontiers": "2026-06-04T15:44:34.761486+00:00",
@@ -77,6 +94,7 @@
     "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles": "2026-06-06T14:08:00.675618+00:00",
     "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center": "2026-06-07T14:20:28.445917+00:00",
     "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast": "2026-06-06T14:08:00.675618+00:00",
-    "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini": "2026-06-06T14:08:00.675618+00:00"
+    "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini": "2026-06-06T14:08:00.675618+00:00",
+    "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update": "2026-06-08T16:20:43.531721+00:00"
   }
 }
