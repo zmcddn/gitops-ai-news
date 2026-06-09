@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-08T09:20:43.531721-07:00._
+_Last updated: 2026-06-09T08:28:05.838808-07:00._
 
-[Read the latest digest](digests/2026-06-08.html)
+[Read the latest digest](digests/2026-06-09.html)
 
 ## Latest top links
 
-- [When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations](https://arxiv.org/abs/2606.07237) — arXiv cs.CL
-- [TorchKM: A GPU-Oriented Library for Kernel Learning and Model Selection](https://arxiv.org/abs/2606.06742) — arXiv stat.ML
-- [The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective](https://arxiv.org/abs/2606.07017) — arXiv cs.AI
-- [Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](https://arxiv.org/abs/2606.07462) — arXiv cs.AI
-- [Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration](https://arxiv.org/abs/2606.06545) — arXiv cs.AI
-- [M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402) — arXiv cs.CL
-- [Causal Evaluation of Membership Inference Attacks](https://arxiv.org/abs/2602.02819) — arXiv stat.ML
-- [Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required](https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/) — AWS Machine Learning Blog
+- [VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation](https://arxiv.org/abs/2606.07992) — arXiv cs.AI
+- [Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems](https://arxiv.org/abs/2606.07805) — arXiv cs.AI
+- [Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models](https://arxiv.org/abs/2606.07808) — arXiv cs.AI
+- [Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression](https://arxiv.org/abs/2606.07819) — arXiv cs.AI
+- [Auditing Training Data in Domain-adapted LLMs: LoRA-MINT](https://arxiv.org/abs/2606.06946) — arXiv cs.CL
+- [OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios](https://arxiv.org/abs/2606.06959) — arXiv cs.CL
+- [MADE: Beyond Scoring via a Multilingual Agentic Diagnosing Engine for Fine-Grained Evaluation Insights](https://arxiv.org/abs/2606.07020) — arXiv cs.CL
+- [Beyond Rubrics: Exploration-Guided Evaluation Skills for Reward Modeling](https://arxiv.org/abs/2606.07040) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-09](digests/2026-06-09.html)
 - [2026-06-08](digests/2026-06-08.html)
 - [2026-06-07](digests/2026-06-07.html)
 - [2026-06-06](digests/2026-06-06.html)
