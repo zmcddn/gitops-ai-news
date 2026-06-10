@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-09T08:28:05.838808-07:00._
+_Last updated: 2026-06-10T09:08:43.334592-07:00._
 
-[Read the latest digest](digests/2026-06-09.html)
+[Read the latest digest](digests/2026-06-10.html)
 
 ## Latest top links
 
-- [VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation](https://arxiv.org/abs/2606.07992) — arXiv cs.AI
-- [Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems](https://arxiv.org/abs/2606.07805) — arXiv cs.AI
-- [Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models](https://arxiv.org/abs/2606.07808) — arXiv cs.AI
-- [Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression](https://arxiv.org/abs/2606.07819) — arXiv cs.AI
-- [Auditing Training Data in Domain-adapted LLMs: LoRA-MINT](https://arxiv.org/abs/2606.06946) — arXiv cs.CL
-- [OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios](https://arxiv.org/abs/2606.06959) — arXiv cs.CL
-- [MADE: Beyond Scoring via a Multilingual Agentic Diagnosing Engine for Fine-Grained Evaluation Insights](https://arxiv.org/abs/2606.07020) — arXiv cs.CL
-- [Beyond Rubrics: Exploration-Guided Evaluation Skills for Reward Modeling](https://arxiv.org/abs/2606.07040) — arXiv cs.CL
+- [Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents](https://arxiv.org/abs/2606.10209) — arXiv cs.AI
+- [Who Brought Easter Eggs to Eid? Auditing Cultural Translation of Math Word Problems Across Diverse Languages and Regions](https://arxiv.org/abs/2606.11009) — arXiv cs.CL
+- [What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045) — arXiv cs.AI
+- [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://arxiv.org/abs/2606.11150) — arXiv cs.AI
+- [Anthropic’s Claude Fable 5 is a version of Mythos the public can access today](https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/) — TechCrunch AI
+- [Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — TechCrunch AI
+- [Advancing the State-of-the-Art in Empirical Privacy Auditing](https://arxiv.org/abs/2606.10481) — arXiv stat.ML
+- [Build an agentic incident triage assistant with Amazon Quick and New Relic](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-06-10](digests/2026-06-10.html)
 - [2026-06-09](digests/2026-06-09.html)
 - [2026-06-08](digests/2026-06-08.html)
 - [2026-06-07](digests/2026-06-07.html)
