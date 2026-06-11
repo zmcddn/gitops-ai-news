@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-10T09:08:43.334592-07:00._
+_Last updated: 2026-06-11T09:21:13.886212-07:00._
 
-[Read the latest digest](digests/2026-06-10.html)
+[Read the latest digest](digests/2026-06-11.html)
 
 ## Latest top links
 
-- [Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents](https://arxiv.org/abs/2606.10209) — arXiv cs.AI
-- [Who Brought Easter Eggs to Eid? Auditing Cultural Translation of Math Word Problems Across Diverse Languages and Regions](https://arxiv.org/abs/2606.11009) — arXiv cs.CL
-- [What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045) — arXiv cs.AI
-- [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://arxiv.org/abs/2606.11150) — arXiv cs.AI
-- [Anthropic’s Claude Fable 5 is a version of Mythos the public can access today](https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/) — TechCrunch AI
-- [Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — TechCrunch AI
-- [Advancing the State-of-the-Art in Empirical Privacy Auditing](https://arxiv.org/abs/2606.10481) — arXiv stat.ML
-- [Build an agentic incident triage assistant with Amazon Quick and New Relic](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/) — AWS Machine Learning Blog
+- [Benchmarking Large Language Models for Safety Data Extraction](https://arxiv.org/abs/2606.11204) — arXiv cs.CL
+- [MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning](https://arxiv.org/abs/2606.12018) — arXiv cs.AI
+- [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](https://arxiv.org/abs/2606.11257) — arXiv cs.CL
+- [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) — Google DeepMind Blog
+- [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally) — The Verge AI
+- [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) — The Verge AI
+- [SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior](https://arxiv.org/abs/2606.11543) — arXiv cs.AI
+- [Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](https://arxiv.org/abs/2606.11634) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-06-11](digests/2026-06-11.html)
 - [2026-06-10](digests/2026-06-10.html)
 - [2026-06-09](digests/2026-06-09.html)
 - [2026-06-08](digests/2026-06-08.html)
