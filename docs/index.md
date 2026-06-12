@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-11T09:21:13.886212-07:00._
+_Last updated: 2026-06-12T08:39:56.200443-07:00._
 
-[Read the latest digest](digests/2026-06-11.html)
+[Read the latest digest](digests/2026-06-12.html)
 
 ## Latest top links
 
-- [Benchmarking Large Language Models for Safety Data Extraction](https://arxiv.org/abs/2606.11204) — arXiv cs.CL
-- [MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning](https://arxiv.org/abs/2606.12018) — arXiv cs.AI
-- [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](https://arxiv.org/abs/2606.11257) — arXiv cs.CL
-- [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) — Google DeepMind Blog
-- [Microsoft restricts Claude Fable for employees over data retention concerns](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally) — The Verge AI
-- [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) — The Verge AI
-- [SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior](https://arxiv.org/abs/2606.11543) — arXiv cs.AI
-- [Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](https://arxiv.org/abs/2606.11634) — arXiv cs.AI
+- [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](https://arxiv.org/abs/2606.12674) — arXiv cs.AI
+- [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) — arXiv cs.AI
+- [Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization](https://arxiv.org/abs/2606.12854) — arXiv cs.CL
+- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://arxiv.org/abs/2606.13192) — arXiv cs.AI
+- [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451) — arXiv cs.AI
+- [LoHoSearch: Benchmarking Long-Horizon Search Agents Beyond the Human Difficulty Ceiling](https://arxiv.org/abs/2606.12837) — arXiv cs.CL
+- [SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents](https://arxiv.org/abs/2606.12908) — arXiv cs.CL
+- [EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge](https://arxiv.org/abs/2606.13120) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-12](digests/2026-06-12.html)
 - [2026-06-11](digests/2026-06-11.html)
 - [2026-06-10](digests/2026-06-10.html)
 - [2026-06-09](digests/2026-06-09.html)
