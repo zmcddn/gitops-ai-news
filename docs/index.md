@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-12T08:39:56.200443-07:00._
+_Last updated: 2026-06-13T07:26:52.910716-07:00._
 
-[Read the latest digest](digests/2026-06-12.html)
+[Read the latest digest](digests/2026-06-13.html)
 
 ## Latest top links
 
-- [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](https://arxiv.org/abs/2606.12674) — arXiv cs.AI
-- [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) — arXiv cs.AI
-- [Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization](https://arxiv.org/abs/2606.12854) — arXiv cs.CL
-- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://arxiv.org/abs/2606.13192) — arXiv cs.AI
-- [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451) — arXiv cs.AI
-- [LoHoSearch: Benchmarking Long-Horizon Search Agents Beyond the Human Difficulty Ceiling](https://arxiv.org/abs/2606.12837) — arXiv cs.CL
-- [SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents](https://arxiv.org/abs/2606.12908) — arXiv cs.CL
-- [EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge](https://arxiv.org/abs/2606.13120) — arXiv cs.CL
+- [Building Supercharger: How Rocket Close optimized title operations with agentic AI](https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/) — AWS Machine Learning Blog
+- [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work) — OpenAI Blog
+- [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — TechCrunch AI
+- [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/) — TechCrunch AI
+- [It’s hot IPO summer, and the MANGOS are ripe](https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/) — TechCrunch AI
+- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/) — TechCrunch AI
+- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) — Hugging Face Blog
+- [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer) — The Verge AI
 
 ## Recent digests
 
+- [2026-06-13](digests/2026-06-13.html)
 - [2026-06-12](digests/2026-06-12.html)
 - [2026-06-11](digests/2026-06-11.html)
 - [2026-06-10](digests/2026-06-10.html)
