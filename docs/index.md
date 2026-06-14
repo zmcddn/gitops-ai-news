@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-13T07:26:52.910716-07:00._
+_Last updated: 2026-06-14T07:28:36.327583-07:00._
 
-[Read the latest digest](digests/2026-06-13.html)
+[Read the latest digest](digests/2026-06-14.html)
 
 ## Latest top links
 
-- [Building Supercharger: How Rocket Close optimized title operations with agentic AI](https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/) — AWS Machine Learning Blog
-- [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work) — OpenAI Blog
-- [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — TechCrunch AI
-- [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/) — TechCrunch AI
-- [It’s hot IPO summer, and the MANGOS are ripe](https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/) — TechCrunch AI
-- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/) — TechCrunch AI
-- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) — Hugging Face Blog
-- [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer) — The Verge AI
+- [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — TechCrunch AI
+- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — TechCrunch AI
+- [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) — The Verge AI
+- [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) — The Verge AI
+- [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — TechCrunch AI
+- [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing) — The Verge AI
+- [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai) — The Verge AI
+- [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-14](digests/2026-06-14.html)
 - [2026-06-13](digests/2026-06-13.html)
 - [2026-06-12](digests/2026-06-12.html)
 - [2026-06-11](digests/2026-06-11.html)
