@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-14T07:28:36.327583-07:00._
+_Last updated: 2026-06-15T07:27:00.648435-07:00._
 
-[Read the latest digest](digests/2026-06-14.html)
+[Read the latest digest](digests/2026-06-15.html)
 
 ## Latest top links
 
-- [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — TechCrunch AI
-- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — TechCrunch AI
-- [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) — The Verge AI
-- [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) — The Verge AI
-- [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — TechCrunch AI
-- [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing) — The Verge AI
-- [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai) — The Verge AI
-- [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — TechCrunch AI
+- [WorkBench Revisited: Workplace Agents Two Years On](https://arxiv.org/abs/2606.13715) — arXiv cs.AI
+- [CacheRL:Multi-Turn Tool-Calling Agents via Cached Rollouts and Hybrid Reward](https://arxiv.org/abs/2606.14179) — arXiv cs.CL
+- [AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties](https://arxiv.org/abs/2606.14240) — arXiv cs.AI
+- [GAGPO: Generalized Advantage Grouped Policy Optimization](https://arxiv.org/abs/2605.13217) — arXiv cs.AI
+- [The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation](https://arxiv.org/abs/2606.13685) — arXiv cs.AI
+- [The Culture Funnel: You Can't Align What isn't in the Data](https://arxiv.org/abs/2606.13808) — arXiv cs.CL
+- [Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940) — arXiv cs.CL
+- [OdysSim: Building Foundation Models for Human Behavior Simulation](https://arxiv.org/abs/2606.14199) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-15](digests/2026-06-15.html)
 - [2026-06-14](digests/2026-06-14.html)
 - [2026-06-13](digests/2026-06-13.html)
 - [2026-06-12](digests/2026-06-12.html)
