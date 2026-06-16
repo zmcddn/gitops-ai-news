@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-15T07:27:00.648435-07:00._
+_Last updated: 2026-06-16T07:08:48.521563-07:00._
 
-[Read the latest digest](digests/2026-06-15.html)
+[Read the latest digest](digests/2026-06-16.html)
 
 ## Latest top links
 
-- [WorkBench Revisited: Workplace Agents Two Years On](https://arxiv.org/abs/2606.13715) — arXiv cs.AI
-- [CacheRL:Multi-Turn Tool-Calling Agents via Cached Rollouts and Hybrid Reward](https://arxiv.org/abs/2606.14179) — arXiv cs.CL
-- [AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties](https://arxiv.org/abs/2606.14240) — arXiv cs.AI
-- [GAGPO: Generalized Advantage Grouped Policy Optimization](https://arxiv.org/abs/2605.13217) — arXiv cs.AI
-- [The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation](https://arxiv.org/abs/2606.13685) — arXiv cs.AI
-- [The Culture Funnel: You Can't Align What isn't in the Data](https://arxiv.org/abs/2606.13808) — arXiv cs.CL
-- [Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940) — arXiv cs.CL
-- [OdysSim: Building Foundation Models for Human Behavior Simulation](https://arxiv.org/abs/2606.14199) — arXiv cs.CL
+- [Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents](https://arxiv.org/abs/2606.15017) — arXiv cs.CL
+- [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](https://arxiv.org/abs/2606.14935) — arXiv cs.AI
+- [A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](https://arxiv.org/abs/2606.15569) — arXiv stat.ML
+- [The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages](https://arxiv.org/abs/2606.15821) — arXiv cs.CL
+- [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) — The Verge AI
+- [Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning](https://arxiv.org/abs/2606.15107) — arXiv cs.AI
+- [Attribute Inference from Interactive Targeted Ads](https://arxiv.org/abs/2606.15209) — arXiv cs.AI
+- [Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds](https://arxiv.org/abs/2606.15385) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-06-16](digests/2026-06-16.html)
 - [2026-06-15](digests/2026-06-15.html)
 - [2026-06-14](digests/2026-06-14.html)
 - [2026-06-13](digests/2026-06-13.html)
