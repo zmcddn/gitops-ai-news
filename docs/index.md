@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-16T07:08:48.521563-07:00._
+_Last updated: 2026-06-17T06:32:51.039889-07:00._
 
-[Read the latest digest](digests/2026-06-16.html)
+[Read the latest digest](digests/2026-06-17.html)
 
 ## Latest top links
 
-- [Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents](https://arxiv.org/abs/2606.15017) — arXiv cs.CL
-- [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](https://arxiv.org/abs/2606.14935) — arXiv cs.AI
-- [A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](https://arxiv.org/abs/2606.15569) — arXiv stat.ML
-- [The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages](https://arxiv.org/abs/2606.15821) — arXiv cs.CL
-- [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) — The Verge AI
-- [Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning](https://arxiv.org/abs/2606.15107) — arXiv cs.AI
-- [Attribute Inference from Interactive Targeted Ads](https://arxiv.org/abs/2606.15209) — arXiv cs.AI
-- [Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds](https://arxiv.org/abs/2606.15385) — arXiv cs.AI
+- [Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems](https://arxiv.org/abs/2606.17443) — arXiv cs.AI
+- [The Critical Role of Model Selection in Causal Inference: A Comparative Analysis of Classification Models within the InferBERT Framework for Pharmacovigilance](https://arxiv.org/abs/2606.17113) — arXiv cs.CL
+- [Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation](https://arxiv.org/abs/2606.17459) — arXiv cs.AI
+- [PseudoBench: Measuring How Agentic Auto-Research Fuels Pseudoscience](https://arxiv.org/abs/2606.18060) — arXiv cs.AI
+- [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) — arXiv cs.AI
+- [Self-Generated Error Training for Token Editing in Diffusion Language Models](https://arxiv.org/abs/2606.17175) — arXiv cs.CL
+- [The Benchmark Illusion: Pruned LLMs Can Pass Multiple Choice but Fail to Answer](https://arxiv.org/abs/2606.17609) — arXiv cs.CL
+- [From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning](https://arxiv.org/abs/2606.17682) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-17](digests/2026-06-17.html)
 - [2026-06-16](digests/2026-06-16.html)
 - [2026-06-15](digests/2026-06-15.html)
 - [2026-06-14](digests/2026-06-14.html)
