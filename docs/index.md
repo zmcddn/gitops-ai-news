@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-17T06:32:51.039889-07:00._
+_Last updated: 2026-06-18T06:29:52.147013-07:00._
 
-[Read the latest digest](digests/2026-06-17.html)
+[Read the latest digest](digests/2026-06-18.html)
 
 ## Latest top links
 
-- [Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems](https://arxiv.org/abs/2606.17443) — arXiv cs.AI
-- [The Critical Role of Model Selection in Causal Inference: A Comparative Analysis of Classification Models within the InferBERT Framework for Pharmacovigilance](https://arxiv.org/abs/2606.17113) — arXiv cs.CL
-- [Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation](https://arxiv.org/abs/2606.17459) — arXiv cs.AI
-- [PseudoBench: Measuring How Agentic Auto-Research Fuels Pseudoscience](https://arxiv.org/abs/2606.18060) — arXiv cs.AI
-- [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) — arXiv cs.AI
-- [Self-Generated Error Training for Token Editing in Diffusion Language Models](https://arxiv.org/abs/2606.17175) — arXiv cs.CL
-- [The Benchmark Illusion: Pruned LLMs Can Pass Multiple Choice but Fail to Answer](https://arxiv.org/abs/2606.17609) — arXiv cs.CL
-- [From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning](https://arxiv.org/abs/2606.17682) — arXiv cs.CL
+- [Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications](https://arxiv.org/abs/2606.18502) — arXiv cs.CL
+- [Caring Without Feeling: Affective Dynamics as the Control Layer of Human-AI Agent Collaboration](https://arxiv.org/abs/2606.18259) — arXiv cs.AI
+- [SafeClawBench: Separating Semantic, Audit-Evidence, and Sandbox Harm in Tool-Using LLM Agents](https://arxiv.org/abs/2606.18356) — arXiv cs.AI
+- [VISUALSKILL: Multimodal Skills for Computer-Use Agents](https://arxiv.org/abs/2606.18448) — arXiv cs.CL
+- [Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336) — arXiv cs.CL
+- [WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](https://arxiv.org/abs/2606.18847) — arXiv cs.AI
+- [Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents](https://arxiv.org/abs/2606.18947) — arXiv cs.AI
+- [LegalWorld: A Life-Cycle Interactive Environment for Legal Agents](https://arxiv.org/abs/2606.18728) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-18](digests/2026-06-18.html)
 - [2026-06-17](digests/2026-06-17.html)
 - [2026-06-16](digests/2026-06-16.html)
 - [2026-06-15](digests/2026-06-15.html)
