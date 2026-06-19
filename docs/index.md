@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-18T06:29:52.147013-07:00._
+_Last updated: 2026-06-19T06:28:34.785260-07:00._
 
-[Read the latest digest](digests/2026-06-18.html)
+[Read the latest digest](digests/2026-06-19.html)
 
 ## Latest top links
 
-- [Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications](https://arxiv.org/abs/2606.18502) — arXiv cs.CL
-- [Caring Without Feeling: Affective Dynamics as the Control Layer of Human-AI Agent Collaboration](https://arxiv.org/abs/2606.18259) — arXiv cs.AI
-- [SafeClawBench: Separating Semantic, Audit-Evidence, and Sandbox Harm in Tool-Using LLM Agents](https://arxiv.org/abs/2606.18356) — arXiv cs.AI
-- [VISUALSKILL: Multimodal Skills for Computer-Use Agents](https://arxiv.org/abs/2606.18448) — arXiv cs.CL
-- [Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336) — arXiv cs.CL
-- [WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](https://arxiv.org/abs/2606.18847) — arXiv cs.AI
-- [Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents](https://arxiv.org/abs/2606.18947) — arXiv cs.AI
-- [LegalWorld: A Life-Cycle Interactive Environment for Legal Agents](https://arxiv.org/abs/2606.18728) — arXiv cs.CL
+- [Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies](https://arxiv.org/abs/2606.18649) — arXiv cs.CL
+- [Benchmarking Agentic Review Systems](https://arxiv.org/abs/2606.19749) — arXiv cs.AI
+- [Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?](https://arxiv.org/abs/2606.19388) — arXiv cs.CL
+- [ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?](https://arxiv.org/abs/2606.19787) — arXiv cs.AI
+- [TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability](https://arxiv.org/abs/2606.19821) — arXiv cs.AI
+- [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) — arXiv cs.AI
+- [Pruning via Causal Attribution Preserves Reasoning Performance in Large Language Models](https://arxiv.org/abs/2606.19350) — arXiv cs.CL
+- [Where Does Social Reasoning Come From? Capability Provenance in Language Models](https://arxiv.org/abs/2606.19625) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-19](digests/2026-06-19.html)
 - [2026-06-18](digests/2026-06-18.html)
 - [2026-06-17](digests/2026-06-17.html)
 - [2026-06-16](digests/2026-06-16.html)
