@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-19T06:28:34.785260-07:00._
+_Last updated: 2026-06-20T05:55:17.365035-07:00._
 
-[Read the latest digest](digests/2026-06-19.html)
+[Read the latest digest](digests/2026-06-20.html)
 
 ## Latest top links
 
-- [Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies](https://arxiv.org/abs/2606.18649) — arXiv cs.CL
-- [Benchmarking Agentic Review Systems](https://arxiv.org/abs/2606.19749) — arXiv cs.AI
-- [Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?](https://arxiv.org/abs/2606.19388) — arXiv cs.CL
-- [ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?](https://arxiv.org/abs/2606.19787) — arXiv cs.AI
-- [TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability](https://arxiv.org/abs/2606.19821) — arXiv cs.AI
-- [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) — arXiv cs.AI
-- [Pruning via Causal Attribution Preserves Reasoning Performance in Large Language Models](https://arxiv.org/abs/2606.19350) — arXiv cs.CL
-- [Where Does Social Reasoning Come From? Capability Provenance in Language Models](https://arxiv.org/abs/2606.19625) — arXiv cs.CL
+- [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) — arXiv cs.AI
+- [Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents](https://arxiv.org/abs/2606.19704) — arXiv cs.AI
+- [Reward as An Agent for Embodied World Models](https://arxiv.org/abs/2606.19990) — arXiv cs.AI
+- [Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/) — AWS Machine Learning Blog
+- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) — TechCrunch AI
+- [The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care](https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/) — TechCrunch AI
+- [MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments](https://arxiv.org/abs/2606.19893) — arXiv cs.AI
+- [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-20](digests/2026-06-20.html)
 - [2026-06-19](digests/2026-06-19.html)
 - [2026-06-18](digests/2026-06-18.html)
 - [2026-06-17](digests/2026-06-17.html)
