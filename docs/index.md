@@ -1,22 +1,19 @@
 # Daily AI News
 
-_Last updated: 2026-06-20T05:55:17.365035-07:00._
+_Last updated: 2026-06-21T05:59:07.397667-07:00._
 
-[Read the latest digest](digests/2026-06-20.html)
+[Read the latest digest](digests/2026-06-21.html)
 
 ## Latest top links
 
-- [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) — arXiv cs.AI
-- [Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents](https://arxiv.org/abs/2606.19704) — arXiv cs.AI
-- [Reward as An Agent for Embodied World Models](https://arxiv.org/abs/2606.19990) — arXiv cs.AI
-- [Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/) — AWS Machine Learning Blog
-- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) — TechCrunch AI
-- [The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care](https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/) — TechCrunch AI
-- [MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments](https://arxiv.org/abs/2606.19893) — arXiv cs.AI
-- [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) — TechCrunch AI
+- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) — TechCrunch AI
+- [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) — The Verge AI
+- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) — TechCrunch AI
+- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-21](digests/2026-06-21.html)
 - [2026-06-20](digests/2026-06-20.html)
 - [2026-06-19](digests/2026-06-19.html)
 - [2026-06-18](digests/2026-06-18.html)
