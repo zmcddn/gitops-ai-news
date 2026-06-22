@@ -1,18 +1,21 @@
 # Daily AI News
 
-_Last updated: 2026-06-21T05:59:07.397667-07:00._
+_Last updated: 2026-06-22T07:12:24.571826-07:00._
 
-[Read the latest digest](digests/2026-06-21.html)
+[Read the latest digest](digests/2026-06-22.html)
 
 ## Latest top links
 
-- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) — TechCrunch AI
-- [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) — The Verge AI
-- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) — TechCrunch AI
-- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) — TechCrunch AI
+- [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) — OpenAI Blog
+- [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) — TechCrunch AI
+- [The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/) — TechCrunch AI
+- [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face Blog
+- [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps) — The Verge AI
+- [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-22](digests/2026-06-22.html)
 - [2026-06-21](digests/2026-06-21.html)
 - [2026-06-20](digests/2026-06-20.html)
 - [2026-06-19](digests/2026-06-19.html)
