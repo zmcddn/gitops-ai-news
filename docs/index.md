@@ -1,20 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-22T07:12:24.571826-07:00._
+_Last updated: 2026-06-23T06:17:32.285672-07:00._
 
-[Read the latest digest](digests/2026-06-22.html)
+[Read the latest digest](digests/2026-06-23.html)
 
 ## Latest top links
 
-- [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) — OpenAI Blog
-- [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) — TechCrunch AI
-- [The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/) — TechCrunch AI
-- [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face Blog
-- [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps) — The Verge AI
-- [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) — TechCrunch AI
+- [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) — OpenAI Blog
+- [Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/) — AWS Machine Learning Blog
+- [Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/) — AWS Machine Learning Blog
+- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) — MIT Technology Review AI
+- [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) — OpenAI Blog
+- [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) — Hugging Face Blog
+- [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) — TechCrunch AI
+- [How Omio is building the future of conversational travel](https://openai.com/index/omio) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-06-23](digests/2026-06-23.html)
 - [2026-06-22](digests/2026-06-22.html)
 - [2026-06-21](digests/2026-06-21.html)
 - [2026-06-20](digests/2026-06-20.html)
