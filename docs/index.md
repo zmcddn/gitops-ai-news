@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-23T06:17:32.285672-07:00._
+_Last updated: 2026-06-24T06:05:40.653338-07:00._
 
-[Read the latest digest](digests/2026-06-23.html)
+[Read the latest digest](digests/2026-06-24.html)
 
 ## Latest top links
 
-- [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) — OpenAI Blog
-- [Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/) — AWS Machine Learning Blog
-- [Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/) — AWS Machine Learning Blog
-- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) — MIT Technology Review AI
-- [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) — OpenAI Blog
-- [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) — Hugging Face Blog
-- [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) — TechCrunch AI
-- [How Omio is building the future of conversational travel](https://openai.com/index/omio) — OpenAI Blog
+- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) — OpenAI Blog
+- [MedBench v5: A Dynamic, Process-Oriented, and Hallucination-Aware Benchmark for Clinical Multimodal Models](https://arxiv.org/abs/2606.24155) — arXiv cs.CL
+- [Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data](https://arxiv.org/abs/2606.23871) — arXiv stat.ML
+- [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](https://arxiv.org/abs/2606.24026) — arXiv cs.AI
+- [Decentralised AI Training and Inference with BlockTrain](https://arxiv.org/abs/2606.24722) — arXiv cs.AI
+- [Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment](https://arxiv.org/abs/2606.23700) — arXiv cs.CL
+- [When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents](https://arxiv.org/abs/2606.23937) — arXiv cs.CL
+- [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-24](digests/2026-06-24.html)
 - [2026-06-23](digests/2026-06-23.html)
 - [2026-06-22](digests/2026-06-22.html)
 - [2026-06-21](digests/2026-06-21.html)
