@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-24T06:05:40.653338-07:00._
+_Last updated: 2026-06-25T06:05:36.013704-07:00._
 
-[Read the latest digest](digests/2026-06-24.html)
+[Read the latest digest](digests/2026-06-25.html)
 
 ## Latest top links
 
-- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) — OpenAI Blog
-- [MedBench v5: A Dynamic, Process-Oriented, and Hallucination-Aware Benchmark for Clinical Multimodal Models](https://arxiv.org/abs/2606.24155) — arXiv cs.CL
-- [Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data](https://arxiv.org/abs/2606.23871) — arXiv stat.ML
-- [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](https://arxiv.org/abs/2606.24026) — arXiv cs.AI
-- [Decentralised AI Training and Inference with BlockTrain](https://arxiv.org/abs/2606.24722) — arXiv cs.AI
-- [Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment](https://arxiv.org/abs/2606.23700) — arXiv cs.CL
-- [When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents](https://arxiv.org/abs/2606.23937) — arXiv cs.CL
-- [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526) — arXiv cs.CL
+- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) — arXiv cs.CL
+- [OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno) — The Verge AI
+- [Multifidelity-Augmented Gaussian Process Inputs for Surrogate Modeling from Scarce Data](https://arxiv.org/abs/2603.22050) — arXiv stat.ML
+- [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work) — OpenAI Blog
+- [Small edits, large models: How Wikipedia advocacy shapes LLM values](https://arxiv.org/abs/2606.24890) — arXiv cs.CL
+- [Beyond Next-Observation Prediction: Agent-Authored World Modeling for Sequential Decision Making](https://arxiv.org/abs/2606.25421) — arXiv cs.CL
+- [Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning](https://arxiv.org/abs/2606.25568) — arXiv cs.CL
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-06-25](digests/2026-06-25.html)
 - [2026-06-24](digests/2026-06-24.html)
 - [2026-06-23](digests/2026-06-23.html)
 - [2026-06-22](digests/2026-06-22.html)
