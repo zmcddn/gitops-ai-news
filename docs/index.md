@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-25T06:05:36.013704-07:00._
+_Last updated: 2026-06-26T06:00:58.041599-07:00._
 
-[Read the latest digest](digests/2026-06-25.html)
+[Read the latest digest](digests/2026-06-26.html)
 
 ## Latest top links
 
-- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) — arXiv cs.CL
-- [OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno) — The Verge AI
-- [Multifidelity-Augmented Gaussian Process Inputs for Surrogate Modeling from Scarce Data](https://arxiv.org/abs/2603.22050) — arXiv stat.ML
-- [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work) — OpenAI Blog
-- [Small edits, large models: How Wikipedia advocacy shapes LLM values](https://arxiv.org/abs/2606.24890) — arXiv cs.CL
-- [Beyond Next-Observation Prediction: Agent-Authored World Modeling for Sequential Decision Making](https://arxiv.org/abs/2606.25421) — arXiv cs.CL
-- [Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning](https://arxiv.org/abs/2606.25568) — arXiv cs.CL
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) — TechCrunch AI
+- [Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](https://arxiv.org/abs/2606.26102) — arXiv cs.CL
+- [Thinking Like a Scientist? A Structural Study of LLM-Generated Research Methods](https://arxiv.org/abs/2606.26130) — arXiv cs.CL
+- [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/) — AWS Machine Learning Blog
+- [Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/) — AWS Machine Learning Blog
+- [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) — The Verge AI
+- [Life After Benchmark Saturation: A Case Study of CORE-Bench](https://arxiv.org/abs/2606.26158) — arXiv cs.AI
+- [OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents](https://arxiv.org/abs/2606.26350) — arXiv cs.AI
+- [Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models](https://arxiv.org/abs/2606.26366) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-06-26](digests/2026-06-26.html)
 - [2026-06-25](digests/2026-06-25.html)
 - [2026-06-24](digests/2026-06-24.html)
 - [2026-06-23](digests/2026-06-23.html)
