@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-26T06:00:58.041599-07:00._
+_Last updated: 2026-06-27T05:46:03.004538-07:00._
 
-[Read the latest digest](digests/2026-06-26.html)
+[Read the latest digest](digests/2026-06-27.html)
 
 ## Latest top links
 
-- [Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](https://arxiv.org/abs/2606.26102) — arXiv cs.CL
-- [Thinking Like a Scientist? A Structural Study of LLM-Generated Research Methods](https://arxiv.org/abs/2606.26130) — arXiv cs.CL
-- [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/) — AWS Machine Learning Blog
-- [Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/) — AWS Machine Learning Blog
-- [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) — The Verge AI
-- [Life After Benchmark Saturation: A Case Study of CORE-Bench](https://arxiv.org/abs/2606.26158) — arXiv cs.AI
-- [OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents](https://arxiv.org/abs/2606.26350) — arXiv cs.AI
-- [Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models](https://arxiv.org/abs/2606.26366) — arXiv cs.AI
+- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) — OpenAI Blog
+- [Diagnosing Task Insensitivity in Language Agents](https://arxiv.org/abs/2606.26918) — arXiv cs.AI
+- [Where Do CoT Training Gains Land in LLM based Agents?](https://arxiv.org/abs/2606.26935) — arXiv cs.AI
+- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) — TechCrunch AI
+- [It’s not about Anthropic vs. OpenAI anymore](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/) — TechCrunch AI
+- [OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia](https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/) — TechCrunch AI
+- [Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — TechCrunch AI
+- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) — The Verge AI
 
 ## Recent digests
 
+- [2026-06-27](digests/2026-06-27.html)
 - [2026-06-26](digests/2026-06-26.html)
 - [2026-06-25](digests/2026-06-25.html)
 - [2026-06-24](digests/2026-06-24.html)
