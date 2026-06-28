@@ -1,22 +1,21 @@
 # Daily AI News
 
-_Last updated: 2026-06-27T05:46:03.004538-07:00._
+_Last updated: 2026-06-28T05:46:41.710732-07:00._
 
-[Read the latest digest](digests/2026-06-27.html)
+[Read the latest digest](digests/2026-06-28.html)
 
 ## Latest top links
 
-- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) — OpenAI Blog
-- [Diagnosing Task Insensitivity in Language Agents](https://arxiv.org/abs/2606.26918) — arXiv cs.AI
-- [Where Do CoT Training Gains Land in LLM based Agents?](https://arxiv.org/abs/2606.26935) — arXiv cs.AI
-- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) — TechCrunch AI
-- [It’s not about Anthropic vs. OpenAI anymore](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/) — TechCrunch AI
-- [OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia](https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/) — TechCrunch AI
-- [Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — TechCrunch AI
-- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) — The Verge AI
+- [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — TechCrunch AI
+- [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) — TechCrunch AI
+- [Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — TechCrunch AI
+- [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — TechCrunch AI
+- [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) — The Verge AI
+- [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech) — The Verge AI
 
 ## Recent digests
 
+- [2026-06-28](digests/2026-06-28.html)
 - [2026-06-27](digests/2026-06-27.html)
 - [2026-06-26](digests/2026-06-26.html)
 - [2026-06-25](digests/2026-06-25.html)
