@@ -1,20 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-28T05:46:41.710732-07:00._
+_Last updated: 2026-06-29T06:47:47.456564-07:00._
 
-[Read the latest digest](digests/2026-06-28.html)
+[Read the latest digest](digests/2026-06-29.html)
 
 ## Latest top links
 
-- [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — TechCrunch AI
-- [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) — TechCrunch AI
-- [Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — TechCrunch AI
-- [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — TechCrunch AI
-- [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) — The Verge AI
-- [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech) — The Verge AI
+- [Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents](https://arxiv.org/abs/2606.27472) — arXiv cs.AI
+- [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) — The Verge AI
+- [EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction](https://arxiv.org/abs/2606.27550) — arXiv cs.CL
+- [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](https://arxiv.org/abs/2606.27483) — arXiv cs.AI
+- [Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents](https://arxiv.org/abs/2606.27806) — arXiv cs.AI
+- [ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents](https://arxiv.org/abs/2606.27814) — arXiv cs.AI
+- [Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026](https://arxiv.org/abs/2606.27446) — arXiv cs.CL
+- [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://arxiv.org/abs/2606.27669) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-06-29](digests/2026-06-29.html)
 - [2026-06-28](digests/2026-06-28.html)
 - [2026-06-27](digests/2026-06-27.html)
 - [2026-06-26](digests/2026-06-26.html)
