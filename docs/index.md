@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-29T06:47:47.456564-07:00._
+_Last updated: 2026-06-30T05:59:34.536205-07:00._
 
-[Read the latest digest](digests/2026-06-29.html)
+[Read the latest digest](digests/2026-06-30.html)
 
 ## Latest top links
 
-- [Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents](https://arxiv.org/abs/2606.27472) — arXiv cs.AI
-- [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) — The Verge AI
-- [EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction](https://arxiv.org/abs/2606.27550) — arXiv cs.CL
-- [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](https://arxiv.org/abs/2606.27483) — arXiv cs.AI
-- [Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents](https://arxiv.org/abs/2606.27806) — arXiv cs.AI
-- [ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents](https://arxiv.org/abs/2606.27814) — arXiv cs.AI
-- [Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026](https://arxiv.org/abs/2606.27446) — arXiv cs.CL
-- [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://arxiv.org/abs/2606.27669) — arXiv cs.CL
+- [Can OCR-VLMs Read Devanagari? A Stress-Test Benchmark and Post-Correction Study](https://arxiv.org/abs/2606.29213) — arXiv cs.CL
+- [GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes](https://arxiv.org/abs/2606.28514) — arXiv cs.AI
+- [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) — arXiv cs.AI
+- [Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries](https://arxiv.org/abs/2606.28960) — arXiv cs.AI
+- [How AI settled the complexity of the oldest SGD algorithm](https://arxiv.org/abs/2606.29593) — arXiv stat.ML
+- [Labeling Training Data for Entity Matching Using Large Language Models](https://arxiv.org/abs/2606.28823) — arXiv cs.CL
+- [How much of an LLM-generated clinical corpus is actually new? A production-scale measurement of content redundancy for provenance classification](https://arxiv.org/abs/2606.29605) — arXiv cs.CL
+- [Pair Nova 2 Lite with Claude for cost-optimized document processing](https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-06-30](digests/2026-06-30.html)
 - [2026-06-29](digests/2026-06-29.html)
 - [2026-06-28](digests/2026-06-28.html)
 - [2026-06-27](digests/2026-06-27.html)
