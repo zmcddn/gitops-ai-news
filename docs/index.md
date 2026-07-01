@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-06-30T05:59:34.536205-07:00._
+_Last updated: 2026-07-01T06:14:24.809225-07:00._
 
-[Read the latest digest](digests/2026-06-30.html)
+[Read the latest digest](digests/2026-07-01.html)
 
 ## Latest top links
 
-- [Can OCR-VLMs Read Devanagari? A Stress-Test Benchmark and Post-Correction Study](https://arxiv.org/abs/2606.29213) — arXiv cs.CL
-- [GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes](https://arxiv.org/abs/2606.28514) — arXiv cs.AI
-- [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) — arXiv cs.AI
-- [Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries](https://arxiv.org/abs/2606.28960) — arXiv cs.AI
-- [How AI settled the complexity of the oldest SGD algorithm](https://arxiv.org/abs/2606.29593) — arXiv stat.ML
-- [Labeling Training Data for Entity Matching Using Large Language Models](https://arxiv.org/abs/2606.28823) — arXiv cs.CL
-- [How much of an LLM-generated clinical corpus is actually new? A production-scale measurement of content redundancy for provenance classification](https://arxiv.org/abs/2606.29605) — arXiv cs.CL
-- [Pair Nova 2 Lite with Claude for cost-optimized document processing](https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/) — AWS Machine Learning Blog
+- [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) — TechCrunch AI
+- [When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue](https://arxiv.org/abs/2606.31307) — arXiv cs.CL
+- [Wisdom Of The (AI) Crowd: Investigating Artificial Swarm Intelligence In Large Language Models](https://arxiv.org/abs/2606.31404) — arXiv cs.AI
+- [AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](https://arxiv.org/abs/2606.31551) — arXiv cs.CL
+- [Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/) — AWS Machine Learning Blog
+- [MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning](https://arxiv.org/abs/2606.31073) — arXiv cs.AI
+- [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](https://arxiv.org/abs/2606.31174) — arXiv cs.AI
+- [Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-01](digests/2026-07-01.html)
 - [2026-06-30](digests/2026-06-30.html)
 - [2026-06-29](digests/2026-06-29.html)
 - [2026-06-28](digests/2026-06-28.html)
