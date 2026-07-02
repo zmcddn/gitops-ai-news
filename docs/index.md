@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-01T06:14:24.809225-07:00._
+_Last updated: 2026-07-02T05:56:58.853663-07:00._
 
-[Read the latest digest](digests/2026-07-01.html)
+[Read the latest digest](digests/2026-07-02.html)
 
 ## Latest top links
 
-- [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) — TechCrunch AI
-- [When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue](https://arxiv.org/abs/2606.31307) — arXiv cs.CL
-- [Wisdom Of The (AI) Crowd: Investigating Artificial Swarm Intelligence In Large Language Models](https://arxiv.org/abs/2606.31404) — arXiv cs.AI
-- [AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](https://arxiv.org/abs/2606.31551) — arXiv cs.CL
-- [Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/) — AWS Machine Learning Blog
-- [MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning](https://arxiv.org/abs/2606.31073) — arXiv cs.AI
-- [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](https://arxiv.org/abs/2606.31174) — arXiv cs.AI
-- [Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/) — TechCrunch AI
+- [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://arxiv.org/abs/2607.01084) — arXiv cs.AI
+- [BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal](https://arxiv.org/abs/2607.00501) — arXiv cs.CL
+- [Quantifying the Affective Gap: A Zero-Shot Evaluation of LLMs on Fine-Grained Emotion Taxonomies](https://arxiv.org/abs/2607.00968) — arXiv cs.CL
+- [Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity](https://arxiv.org/abs/2607.01153) — arXiv cs.CL
+- [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/) — AWS Machine Learning Blog
+- [Coachable agents for interactive gameplay](https://arxiv.org/abs/2607.00642) — arXiv cs.AI
+- [Two AI Metrics Diverged: Will it Make All the Difference?](https://arxiv.org/abs/2607.00913) — arXiv cs.AI
+- [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) — MIT Technology Review AI
 
 ## Recent digests
 
+- [2026-07-02](digests/2026-07-02.html)
 - [2026-07-01](digests/2026-07-01.html)
 - [2026-06-30](digests/2026-06-30.html)
 - [2026-06-29](digests/2026-06-29.html)
