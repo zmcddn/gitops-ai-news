@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-02T05:56:58.853663-07:00._
+_Last updated: 2026-07-03T05:56:28.636723-07:00._
 
-[Read the latest digest](digests/2026-07-02.html)
+[Read the latest digest](digests/2026-07-03.html)
 
 ## Latest top links
 
-- [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://arxiv.org/abs/2607.01084) — arXiv cs.AI
-- [BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal](https://arxiv.org/abs/2607.00501) — arXiv cs.CL
-- [Quantifying the Affective Gap: A Zero-Shot Evaluation of LLMs on Fine-Grained Emotion Taxonomies](https://arxiv.org/abs/2607.00968) — arXiv cs.CL
-- [Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity](https://arxiv.org/abs/2607.01153) — arXiv cs.CL
-- [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/) — AWS Machine Learning Blog
-- [Coachable agents for interactive gameplay](https://arxiv.org/abs/2607.00642) — arXiv cs.AI
-- [Two AI Metrics Diverged: Will it Make All the Difference?](https://arxiv.org/abs/2607.00913) — arXiv cs.AI
-- [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) — MIT Technology Review AI
+- [The Wiola Architecture for Efficient Small Language Models](https://arxiv.org/abs/2607.01394) — arXiv cs.AI
+- [On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802) — arXiv cs.CL
+- [Auto-FL-Research: Agentic Search for Federated Learning Algorithms](https://arxiv.org/abs/2607.01366) — arXiv cs.AI
+- [Pre-Flight: A Benchmark for Evaluating Large Language Models on Aviation Operational Knowledge](https://arxiv.org/abs/2607.01829) — arXiv cs.AI
+- [PairCoder++: Pair Programming as a Universal Paradigm for Verified Code-Driven Multimodal and Structured-Artifact Generation](https://arxiv.org/abs/2607.01883) — arXiv cs.CL
+- [Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases](https://arxiv.org/abs/2607.01425) — arXiv cs.AI
+- [Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment](https://arxiv.org/abs/2607.01239) — arXiv cs.CL
+- [Parameter Golf: What Really Works?](https://arxiv.org/abs/2607.01517) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-03](digests/2026-07-03.html)
 - [2026-07-02](digests/2026-07-02.html)
 - [2026-07-01](digests/2026-07-01.html)
 - [2026-06-30](digests/2026-06-30.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-02T05:56:58.853663-07:00._
 - [2026-06-06](digests/2026-06-06.html)
 - [2026-06-05](digests/2026-06-05.html)
 - [2026-06-04](digests/2026-06-04.html)
-- [2026-06-03](digests/2026-06-03.html)
 
 ## About this site
 
