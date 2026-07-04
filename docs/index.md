@@ -1,22 +1,21 @@
 # Daily AI News
 
-_Last updated: 2026-07-03T05:56:28.636723-07:00._
+_Last updated: 2026-07-04T05:42:17.650140-07:00._
 
-[Read the latest digest](digests/2026-07-03.html)
+[Read the latest digest](digests/2026-07-04.html)
 
 ## Latest top links
 
-- [The Wiola Architecture for Efficient Small Language Models](https://arxiv.org/abs/2607.01394) — arXiv cs.AI
-- [On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802) — arXiv cs.CL
-- [Auto-FL-Research: Agentic Search for Federated Learning Algorithms](https://arxiv.org/abs/2607.01366) — arXiv cs.AI
-- [Pre-Flight: A Benchmark for Evaluating Large Language Models on Aviation Operational Knowledge](https://arxiv.org/abs/2607.01829) — arXiv cs.AI
-- [PairCoder++: Pair Programming as a Universal Paradigm for Verified Code-Driven Multimodal and Structured-Artifact Generation](https://arxiv.org/abs/2607.01883) — arXiv cs.CL
-- [Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases](https://arxiv.org/abs/2607.01425) — arXiv cs.AI
-- [Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment](https://arxiv.org/abs/2607.01239) — arXiv cs.CL
-- [Parameter Golf: What Really Works?](https://arxiv.org/abs/2607.01517) — arXiv cs.CL
+- [Anthropic wants to develop its own drugs](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development) — The Verge AI
+- [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector) — The Verge AI
+- [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) — Google DeepMind Blog
+- [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video) — The Verge AI
+- [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — TechCrunch AI
+- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-04](digests/2026-07-04.html)
 - [2026-07-03](digests/2026-07-03.html)
 - [2026-07-02](digests/2026-07-02.html)
 - [2026-07-01](digests/2026-07-01.html)
@@ -46,7 +45,6 @@ _Last updated: 2026-07-03T05:56:28.636723-07:00._
 - [2026-06-07](digests/2026-06-07.html)
 - [2026-06-06](digests/2026-06-06.html)
 - [2026-06-05](digests/2026-06-05.html)
-- [2026-06-04](digests/2026-06-04.html)
 
 ## About this site
 
