@@ -1,20 +1,19 @@
 # Daily AI News
 
-_Last updated: 2026-07-04T05:42:17.650140-07:00._
+_Last updated: 2026-07-05T05:44:56.154328-07:00._
 
-[Read the latest digest](digests/2026-07-04.html)
+[Read the latest digest](digests/2026-07-05.html)
 
 ## Latest top links
 
-- [Anthropic wants to develop its own drugs](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development) — The Verge AI
-- [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector) — The Verge AI
-- [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) — Google DeepMind Blog
-- [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video) — The Verge AI
-- [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — TechCrunch AI
-- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) — TechCrunch AI
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) — TechCrunch AI
+- [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) — TechCrunch AI
+- [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) — TechCrunch AI
+- [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-05](digests/2026-07-05.html)
 - [2026-07-04](digests/2026-07-04.html)
 - [2026-07-03](digests/2026-07-03.html)
 - [2026-07-02](digests/2026-07-02.html)
@@ -44,7 +43,6 @@ _Last updated: 2026-07-04T05:42:17.650140-07:00._
 - [2026-06-08](digests/2026-06-08.html)
 - [2026-06-07](digests/2026-06-07.html)
 - [2026-06-06](digests/2026-06-06.html)
-- [2026-06-05](digests/2026-06-05.html)
 
 ## About this site
 
