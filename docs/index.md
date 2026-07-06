@@ -1,18 +1,22 @@
 # Daily AI News
 
-_Last updated: 2026-07-05T05:44:56.154328-07:00._
+_Last updated: 2026-07-06T06:32:37.635048-07:00._
 
-[Read the latest digest](digests/2026-07-05.html)
+[Read the latest digest](digests/2026-07-06.html)
 
 ## Latest top links
 
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) — TechCrunch AI
-- [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) — TechCrunch AI
-- [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) — TechCrunch AI
-- [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) — TechCrunch AI
+- [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/) — TechCrunch AI
+- [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) — The Verge AI
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face Blog
+- [Microsoft is laying off 4,800 employees](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) — The Verge AI
+- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) — Hugging Face Blog
+- [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) — TechCrunch AI
+- [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep) — The Verge AI
 
 ## Recent digests
 
+- [2026-07-06](digests/2026-07-06.html)
 - [2026-07-05](digests/2026-07-05.html)
 - [2026-07-04](digests/2026-07-04.html)
 - [2026-07-03](digests/2026-07-03.html)
@@ -42,7 +46,6 @@ _Last updated: 2026-07-05T05:44:56.154328-07:00._
 - [2026-06-09](digests/2026-06-09.html)
 - [2026-06-08](digests/2026-06-08.html)
 - [2026-06-07](digests/2026-06-07.html)
-- [2026-06-06](digests/2026-06-06.html)
 
 ## About this site
 
