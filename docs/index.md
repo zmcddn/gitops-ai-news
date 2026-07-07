@@ -1,21 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-06T06:32:37.635048-07:00._
+_Last updated: 2026-07-07T06:04:28.131044-07:00._
 
-[Read the latest digest](digests/2026-07-06.html)
+[Read the latest digest](digests/2026-07-07.html)
 
 ## Latest top links
 
-- [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/) — TechCrunch AI
-- [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) — The Verge AI
-- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face Blog
-- [Microsoft is laying off 4,800 employees](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) — The Verge AI
-- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) — Hugging Face Blog
-- [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) — TechCrunch AI
-- [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep) — The Verge AI
+- [Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions](https://arxiv.org/abs/2607.03935) — arXiv cs.AI
+- [Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents](https://arxiv.org/abs/2607.02879) — arXiv cs.AI
+- [Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents](https://arxiv.org/abs/2607.03015) — arXiv cs.AI
+- [APeB: Benchmarking Personalization Ability of Large Language Model Agents](https://arxiv.org/abs/2607.03162) — arXiv cs.AI
+- [Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes](https://arxiv.org/abs/2607.02802) — arXiv cs.CL
+- [Spectral Signatures of Large Language Models](https://arxiv.org/abs/2607.03377) — arXiv cs.CL
+- [Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations](https://arxiv.org/abs/2607.04235) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-07](digests/2026-07-07.html)
 - [2026-07-06](digests/2026-07-06.html)
 - [2026-07-05](digests/2026-07-05.html)
 - [2026-07-04](digests/2026-07-04.html)
@@ -45,7 +47,6 @@ _Last updated: 2026-07-06T06:32:37.635048-07:00._
 - [2026-06-10](digests/2026-06-10.html)
 - [2026-06-09](digests/2026-06-09.html)
 - [2026-06-08](digests/2026-06-08.html)
-- [2026-06-07](digests/2026-06-07.html)
 
 ## About this site
 
