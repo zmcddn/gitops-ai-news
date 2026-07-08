@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-07T06:04:28.131044-07:00._
+_Last updated: 2026-07-08T05:50:23.171403-07:00._
 
-[Read the latest digest](digests/2026-07-07.html)
+[Read the latest digest](digests/2026-07-08.html)
 
 ## Latest top links
 
-- [Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions](https://arxiv.org/abs/2607.03935) — arXiv cs.AI
-- [Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents](https://arxiv.org/abs/2607.02879) — arXiv cs.AI
-- [Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents](https://arxiv.org/abs/2607.03015) — arXiv cs.AI
-- [APeB: Benchmarking Personalization Ability of Large Language Model Agents](https://arxiv.org/abs/2607.03162) — arXiv cs.AI
-- [Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes](https://arxiv.org/abs/2607.02802) — arXiv cs.CL
-- [Spectral Signatures of Large Language Models](https://arxiv.org/abs/2607.03377) — arXiv cs.CL
-- [Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations](https://arxiv.org/abs/2607.04235) — arXiv cs.CL
+- [Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving](https://arxiv.org/abs/2607.05399) — arXiv cs.AI
+- [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571) — arXiv cs.AI
+- [Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196) — arXiv cs.CL
+- [Akashic: A Low-Overhead LLM Inference Service with MemAttention](https://arxiv.org/abs/2607.05708) — arXiv cs.AI
+- [Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents](https://arxiv.org/abs/2607.05775) — arXiv cs.AI
+- [How Personas Can Influence Agents to Play Split or Steal](https://arxiv.org/abs/2607.05398) — arXiv cs.CL
+- [PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages](https://arxiv.org/abs/2607.05992) — arXiv cs.CL
+- [CurateEvo: Data-Curation Evolving for Agentic Post-Training](https://arxiv.org/abs/2607.06140) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-08](digests/2026-07-08.html)
 - [2026-07-07](digests/2026-07-07.html)
 - [2026-07-06](digests/2026-07-06.html)
 - [2026-07-05](digests/2026-07-05.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-07T06:04:28.131044-07:00._
 - [2026-06-11](digests/2026-06-11.html)
 - [2026-06-10](digests/2026-06-10.html)
 - [2026-06-09](digests/2026-06-09.html)
-- [2026-06-08](digests/2026-06-08.html)
 
 ## About this site
 
