@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-08T05:50:23.171403-07:00._
+_Last updated: 2026-07-09T06:21:28.675914-07:00._
 
-[Read the latest digest](digests/2026-07-08.html)
+[Read the latest digest](digests/2026-07-09.html)
 
 ## Latest top links
 
-- [Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving](https://arxiv.org/abs/2607.05399) — arXiv cs.AI
-- [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571) — arXiv cs.AI
-- [Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196) — arXiv cs.CL
-- [Akashic: A Low-Overhead LLM Inference Service with MemAttention](https://arxiv.org/abs/2607.05708) — arXiv cs.AI
-- [Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents](https://arxiv.org/abs/2607.05775) — arXiv cs.AI
-- [How Personas Can Influence Agents to Play Split or Steal](https://arxiv.org/abs/2607.05398) — arXiv cs.CL
-- [PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages](https://arxiv.org/abs/2607.05992) — arXiv cs.CL
-- [CurateEvo: Data-Curation Evolving for Agentic Post-Training](https://arxiv.org/abs/2607.06140) — arXiv cs.CL
+- [Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963) — arXiv cs.CL
+- [Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1](https://arxiv.org/abs/2607.06764) — arXiv cs.AI
+- [Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](https://arxiv.org/abs/2607.07695) — arXiv cs.AI
+- [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/) — TechCrunch AI
+- [Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics](https://arxiv.org/abs/2607.06820) — arXiv cs.AI
+- [The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI](https://arxiv.org/abs/2607.06906) — arXiv cs.AI
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) — OpenAI Blog
+- [Your gaming data could be the secret to AGI, according to this Bezos-backed startup](https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-09](digests/2026-07-09.html)
 - [2026-07-08](digests/2026-07-08.html)
 - [2026-07-07](digests/2026-07-07.html)
 - [2026-07-06](digests/2026-07-06.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-08T05:50:23.171403-07:00._
 - [2026-06-12](digests/2026-06-12.html)
 - [2026-06-11](digests/2026-06-11.html)
 - [2026-06-10](digests/2026-06-10.html)
-- [2026-06-09](digests/2026-06-09.html)
 
 ## About this site
 
