@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-09T06:21:28.675914-07:00._
+_Last updated: 2026-07-10T06:00:17.979685-07:00._
 
-[Read the latest digest](digests/2026-07-09.html)
+[Read the latest digest](digests/2026-07-10.html)
 
 ## Latest top links
 
-- [Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963) — arXiv cs.CL
-- [Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1](https://arxiv.org/abs/2607.06764) — arXiv cs.AI
-- [Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](https://arxiv.org/abs/2607.07695) — arXiv cs.AI
-- [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/) — TechCrunch AI
-- [Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics](https://arxiv.org/abs/2607.06820) — arXiv cs.AI
-- [The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI](https://arxiv.org/abs/2607.06906) — arXiv cs.AI
-- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) — OpenAI Blog
-- [Your gaming data could be the secret to AGI, according to this Bezos-backed startup](https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/) — TechCrunch AI
+- [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) — arXiv cs.AI
+- [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution](https://arxiv.org/abs/2607.08700) — arXiv cs.CL
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768) — arXiv cs.CL
+- [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907) — arXiv cs.CL
+- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) — TechCrunch AI
+- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) — MIT Technology Review AI
+- [Adversarial Social Epistemology for Assemblies of Humans and Large Language Models](https://arxiv.org/abs/2607.07760) — arXiv cs.AI
+- [CausalDS: Benchmarking Causal Reasoning in Data-Science Agents](https://arxiv.org/abs/2607.08093) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-07-10](digests/2026-07-10.html)
 - [2026-07-09](digests/2026-07-09.html)
 - [2026-07-08](digests/2026-07-08.html)
 - [2026-07-07](digests/2026-07-07.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-09T06:21:28.675914-07:00._
 - [2026-06-13](digests/2026-06-13.html)
 - [2026-06-12](digests/2026-06-12.html)
 - [2026-06-11](digests/2026-06-11.html)
-- [2026-06-10](digests/2026-06-10.html)
 
 ## About this site
 
