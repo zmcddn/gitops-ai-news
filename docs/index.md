@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-10T06:00:17.979685-07:00._
+_Last updated: 2026-07-11T05:36:26.467907-07:00._
 
-[Read the latest digest](digests/2026-07-10.html)
+[Read the latest digest](digests/2026-07-11.html)
 
 ## Latest top links
 
-- [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) — arXiv cs.AI
-- [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution](https://arxiv.org/abs/2607.08700) — arXiv cs.CL
-- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768) — arXiv cs.CL
-- [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907) — arXiv cs.CL
-- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) — TechCrunch AI
-- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) — MIT Technology Review AI
-- [Adversarial Social Epistemology for Assemblies of Humans and Large Language Models](https://arxiv.org/abs/2607.07760) — arXiv cs.AI
-- [CausalDS: Benchmarking Causal Reasoning in Data-Science Agents](https://arxiv.org/abs/2607.08093) — arXiv cs.AI
+- [MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2607.08080) — arXiv cs.CL
+- [LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity](https://arxiv.org/abs/2607.08152) — arXiv cs.CL
+- [DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding](https://arxiv.org/abs/2607.08642) — arXiv cs.CL
+- [Collective Intelligence with Foundation Models](https://arxiv.org/abs/2607.07729) — arXiv cs.CL
+- [Deploying quantized models on Amazon SageMaker AI with Unsloth](https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/) — AWS Machine Learning Blog
+- [Open source AI matters more than ever, according to Hugging Face’s Clem Delangue](https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/) — TechCrunch AI
+- [Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/) — AWS Machine Learning Blog
+- [How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-07-11](digests/2026-07-11.html)
 - [2026-07-10](digests/2026-07-10.html)
 - [2026-07-09](digests/2026-07-09.html)
 - [2026-07-08](digests/2026-07-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-10T06:00:17.979685-07:00._
 - [2026-06-14](digests/2026-06-14.html)
 - [2026-06-13](digests/2026-06-13.html)
 - [2026-06-12](digests/2026-06-12.html)
-- [2026-06-11](digests/2026-06-11.html)
 
 ## About this site
 
