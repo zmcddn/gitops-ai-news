@@ -1,22 +1,17 @@
 # Daily AI News
 
-_Last updated: 2026-07-11T05:36:26.467907-07:00._
+_Last updated: 2026-07-12T05:35:20.212515-07:00._
 
-[Read the latest digest](digests/2026-07-11.html)
+[Read the latest digest](digests/2026-07-12.html)
 
 ## Latest top links
 
-- [MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2607.08080) — arXiv cs.CL
-- [LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity](https://arxiv.org/abs/2607.08152) — arXiv cs.CL
-- [DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding](https://arxiv.org/abs/2607.08642) — arXiv cs.CL
-- [Collective Intelligence with Foundation Models](https://arxiv.org/abs/2607.07729) — arXiv cs.CL
-- [Deploying quantized models on Amazon SageMaker AI with Unsloth](https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/) — AWS Machine Learning Blog
-- [Open source AI matters more than ever, according to Hugging Face’s Clem Delangue](https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/) — TechCrunch AI
-- [Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/) — AWS Machine Learning Blog
-- [How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) — TechCrunch AI
+- [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight) — The Verge AI
 
 ## Recent digests
 
+- [2026-07-12](digests/2026-07-12.html)
 - [2026-07-11](digests/2026-07-11.html)
 - [2026-07-10](digests/2026-07-10.html)
 - [2026-07-09](digests/2026-07-09.html)
@@ -46,7 +41,6 @@ _Last updated: 2026-07-11T05:36:26.467907-07:00._
 - [2026-06-15](digests/2026-06-15.html)
 - [2026-06-14](digests/2026-06-14.html)
 - [2026-06-13](digests/2026-06-13.html)
-- [2026-06-12](digests/2026-06-12.html)
 
 ## About this site
 
