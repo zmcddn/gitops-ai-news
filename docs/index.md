@@ -1,16 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-12T05:35:20.212515-07:00._
+_Last updated: 2026-07-13T06:04:29.002281-07:00._
 
-[Read the latest digest](digests/2026-07-12.html)
+[Read the latest digest](digests/2026-07-13.html)
 
 ## Latest top links
 
-- [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) — TechCrunch AI
-- [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight) — The Verge AI
+- [Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls](https://arxiv.org/abs/2607.09076) — arXiv cs.AI
+- [GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning](https://arxiv.org/abs/2607.08894) — arXiv cs.AI
+- [Sticky Routing: Training MoE Models for Memory-Efficient Inference](https://arxiv.org/abs/2607.08780) — arXiv cs.AI
+- [Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices](https://arxiv.org/abs/2607.08786) — arXiv cs.AI
+- [Complexity-Guided Component-wise Initialization for Language Model Pretraining](https://arxiv.org/abs/2607.09204) — arXiv cs.CL
+- [A Sovereign, Open-Source Foundation Model for German and English](https://arxiv.org/abs/2607.09424) — arXiv cs.CL
+- [Mach-Mind-4-Flash Technical Report](https://arxiv.org/abs/2607.09375) — arXiv cs.CL
+- [GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-13](digests/2026-07-13.html)
 - [2026-07-12](digests/2026-07-12.html)
 - [2026-07-11](digests/2026-07-11.html)
 - [2026-07-10](digests/2026-07-10.html)
@@ -40,7 +47,6 @@ _Last updated: 2026-07-12T05:35:20.212515-07:00._
 - [2026-06-16](digests/2026-06-16.html)
 - [2026-06-15](digests/2026-06-15.html)
 - [2026-06-14](digests/2026-06-14.html)
-- [2026-06-13](digests/2026-06-13.html)
 
 ## About this site
 
