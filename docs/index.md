@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-13T06:04:29.002281-07:00._
+_Last updated: 2026-07-14T05:43:36.999674-07:00._
 
-[Read the latest digest](digests/2026-07-13.html)
+[Read the latest digest](digests/2026-07-14.html)
 
 ## Latest top links
 
-- [Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls](https://arxiv.org/abs/2607.09076) — arXiv cs.AI
-- [GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning](https://arxiv.org/abs/2607.08894) — arXiv cs.AI
-- [Sticky Routing: Training MoE Models for Memory-Efficient Inference](https://arxiv.org/abs/2607.08780) — arXiv cs.AI
-- [Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices](https://arxiv.org/abs/2607.08786) — arXiv cs.AI
-- [Complexity-Guided Component-wise Initialization for Language Model Pretraining](https://arxiv.org/abs/2607.09204) — arXiv cs.CL
-- [A Sovereign, Open-Source Foundation Model for German and English](https://arxiv.org/abs/2607.09424) — arXiv cs.CL
-- [Mach-Mind-4-Flash Technical Report](https://arxiv.org/abs/2607.09375) — arXiv cs.CL
-- [GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043) — arXiv cs.CL
+- [Capabilities of Claude Fable 5 on Biomedical Challenge Problems](https://arxiv.org/abs/2607.10849) — arXiv cs.CL
+- [Agentic Context Learning with Self-Discovered Specification](https://arxiv.org/abs/2607.09794) — arXiv cs.AI
+- [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results](https://arxiv.org/abs/2607.11183) — arXiv cs.CL
+- [MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation](https://arxiv.org/abs/2607.10079) — arXiv cs.AI
+- [Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction](https://arxiv.org/abs/2607.09713) — arXiv cs.AI
+- [AgentAbstain: Do LLM Agents Know When Not to Act?](https://arxiv.org/abs/2607.10059) — arXiv cs.AI
+- [Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts](https://arxiv.org/abs/2607.09999) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-14](digests/2026-07-14.html)
 - [2026-07-13](digests/2026-07-13.html)
 - [2026-07-12](digests/2026-07-12.html)
 - [2026-07-11](digests/2026-07-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-13T06:04:29.002281-07:00._
 - [2026-06-17](digests/2026-06-17.html)
 - [2026-06-16](digests/2026-06-16.html)
 - [2026-06-15](digests/2026-06-15.html)
-- [2026-06-14](digests/2026-06-14.html)
 
 ## About this site
 
