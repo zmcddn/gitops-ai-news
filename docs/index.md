@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-14T05:43:36.999674-07:00._
+_Last updated: 2026-07-15T05:45:43.525719-07:00._
 
-[Read the latest digest](digests/2026-07-14.html)
+[Read the latest digest](digests/2026-07-15.html)
 
 ## Latest top links
 
-- [Capabilities of Claude Fable 5 on Biomedical Challenge Problems](https://arxiv.org/abs/2607.10849) — arXiv cs.CL
-- [Agentic Context Learning with Self-Discovered Specification](https://arxiv.org/abs/2607.09794) — arXiv cs.AI
-- [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results](https://arxiv.org/abs/2607.11183) — arXiv cs.CL
-- [MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation](https://arxiv.org/abs/2607.10079) — arXiv cs.AI
-- [Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction](https://arxiv.org/abs/2607.09713) — arXiv cs.AI
-- [AgentAbstain: Do LLM Agents Know When Not to Act?](https://arxiv.org/abs/2607.10059) — arXiv cs.AI
-- [Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts](https://arxiv.org/abs/2607.09999) — arXiv cs.CL
+- [The Capacity of Thought: Benchmarking Llama 3.2 in Semantic fMRI Neural Language Decoding and Improving the Huth Encoding-Model Baseline](https://arxiv.org/abs/2607.12079) — arXiv cs.CL
+- [So Many Opinions, So Many LLMs: Comparing Large Language Models to Traditional Machine Learning for Open- Ended Survey Analysis](https://arxiv.org/abs/2607.11890) — arXiv cs.AI
+- [Optimization Is Not All You Need](https://arxiv.org/abs/2607.11977) — arXiv cs.AI
+- [Comparing Semantic Navigation in Humans and Large Language Models using Natural Language Processing](https://arxiv.org/abs/2607.12195) — arXiv cs.CL
+- [Fine-Tuned Multi-Agent Framework for Detecting OCEAN in Life Narratives](https://arxiv.org/abs/2607.12215) — arXiv cs.CL
+- [The Emerging Paradigm of Geospatial Foundation Models: From Pre-Training to Agentic Reasoning](https://arxiv.org/abs/2607.12177) — arXiv cs.AI
+- [FinResearchBench II: A Deep Research Benchmark with Consensus-Derived Gold Rubrics for Distinguishing Financial Report Quality](https://arxiv.org/abs/2607.12252) — arXiv cs.CL
+- [Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking](https://arxiv.org/abs/2607.12085) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-07-15](digests/2026-07-15.html)
 - [2026-07-14](digests/2026-07-14.html)
 - [2026-07-13](digests/2026-07-13.html)
 - [2026-07-12](digests/2026-07-12.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-14T05:43:36.999674-07:00._
 - [2026-06-18](digests/2026-06-18.html)
 - [2026-06-17](digests/2026-06-17.html)
 - [2026-06-16](digests/2026-06-16.html)
-- [2026-06-15](digests/2026-06-15.html)
 
 ## About this site
 
