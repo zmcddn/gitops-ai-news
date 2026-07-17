@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-16T05:49:50.370202-07:00._
+_Last updated: 2026-07-17T05:41:56.208623-07:00._
 
-[Read the latest digest](digests/2026-07-16.html)
+[Read the latest digest](digests/2026-07-17.html)
 
 ## Latest top links
 
-- [Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs](https://arxiv.org/abs/2607.13080) — arXiv cs.AI
-- [Baselines Before Architecture: Evaluating Coding Agents for Autonomous Penetration Testing](https://arxiv.org/abs/2607.13085) — arXiv cs.AI
-- [Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents](https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents) — VentureBeat AI
-- [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) — TechCrunch AI
-- [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) — MIT Technology Review AI
-- [Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System](https://arxiv.org/abs/2607.13608) — arXiv cs.AI
-- [LessonBench-V1: A Benchmark Dataset for Evaluating AI Lesson Generation Agents](https://arxiv.org/abs/2607.13041) — arXiv cs.AI
-- [Analogical Deep Research: Retrieving and Integrating Historical Analogies for Foresight Analysis](https://arxiv.org/abs/2607.13602) — arXiv stat.ML
+- [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](https://arxiv.org/abs/2607.14756) — arXiv cs.AI
+- [Enhancing Small Language Models Reasoning through Knowledge Graph Grounding](https://arxiv.org/abs/2607.14149) — arXiv cs.AI
+- [WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays](https://arxiv.org/abs/2607.14524) — arXiv cs.AI
+- [Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent](https://arxiv.org/abs/2607.14541) — arXiv cs.AI
+- [Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/) — TechCrunch AI
+- [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](https://arxiv.org/abs/2607.14107) — arXiv cs.CL
+- [Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making](https://arxiv.org/abs/2607.14277) — arXiv cs.CL
+- [Controlled Reformulation Testing for Logical Consistency in Large Language Models](https://arxiv.org/abs/2607.14528) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-17](digests/2026-07-17.html)
 - [2026-07-16](digests/2026-07-16.html)
 - [2026-07-15](digests/2026-07-15.html)
 - [2026-07-14](digests/2026-07-14.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-16T05:49:50.370202-07:00._
 - [2026-06-20](digests/2026-06-20.html)
 - [2026-06-19](digests/2026-06-19.html)
 - [2026-06-18](digests/2026-06-18.html)
-- [2026-06-17](digests/2026-06-17.html)
 
 ## About this site
 
