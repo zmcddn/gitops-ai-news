@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-17T05:41:56.208623-07:00._
+_Last updated: 2026-07-18T05:35:46.221036-07:00._
 
-[Read the latest digest](digests/2026-07-17.html)
+[Read the latest digest](digests/2026-07-18.html)
 
 ## Latest top links
 
-- [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](https://arxiv.org/abs/2607.14756) — arXiv cs.AI
-- [Enhancing Small Language Models Reasoning through Knowledge Graph Grounding](https://arxiv.org/abs/2607.14149) — arXiv cs.AI
-- [WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays](https://arxiv.org/abs/2607.14524) — arXiv cs.AI
-- [Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent](https://arxiv.org/abs/2607.14541) — arXiv cs.AI
-- [Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/) — TechCrunch AI
-- [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](https://arxiv.org/abs/2607.14107) — arXiv cs.CL
-- [Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making](https://arxiv.org/abs/2607.14277) — arXiv cs.CL
-- [Controlled Reformulation Testing for Logical Consistency in Large Language Models](https://arxiv.org/abs/2607.14528) — arXiv cs.CL
+- [MCPEvol-Bench: Benchmarking LLM Agent Performance Across Dynamic Evolutions of MCP Servers](https://arxiv.org/abs/2607.14642) — arXiv cs.AI
+- [ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System](https://arxiv.org/abs/2607.14178) — arXiv cs.AI
+- [ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability](https://arxiv.org/abs/2607.14145) — arXiv cs.AI
+- [Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers](https://arxiv.org/abs/2607.14158) — arXiv cs.AI
+- [Patreon stops asking AI bots not to scrape — and starts blocking them](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/) — TechCrunch AI
+- [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) — TechCrunch AI
+- [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) — TechCrunch AI
+- [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-18](digests/2026-07-18.html)
 - [2026-07-17](digests/2026-07-17.html)
 - [2026-07-16](digests/2026-07-16.html)
 - [2026-07-15](digests/2026-07-15.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-17T05:41:56.208623-07:00._
 - [2026-06-21](digests/2026-06-21.html)
 - [2026-06-20](digests/2026-06-20.html)
 - [2026-06-19](digests/2026-06-19.html)
-- [2026-06-18](digests/2026-06-18.html)
 
 ## About this site
 
