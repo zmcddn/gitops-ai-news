@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-19T05:34:57.895311-07:00._
+_Last updated: 2026-07-20T05:58:49.031490-07:00._
 
-[Read the latest digest](digests/2026-07-19.html)
+[Read the latest digest](digests/2026-07-20.html)
 
 ## Latest top links
 
-- [Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation) — The Verge AI
-- [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) — TechCrunch AI
-- [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) — TechCrunch AI
+- [AI Trading: Evaluating Large Language Models for Technical Market Analysis](https://arxiv.org/abs/2607.15414) — arXiv cs.AI
+- [Recursive Harness Self-Improvement](https://arxiv.org/abs/2607.15524) — arXiv cs.AI
+- [Scalable LLM Agent Tool Access in the Cloud](https://arxiv.org/abs/2607.15593) — arXiv cs.AI
+- [SLAPBench: Benchmarking Multimodal Large Language Models for Four-Finger SLAP Fingerprint Verification](https://arxiv.org/abs/2607.15517) — arXiv cs.AI
+- [Frugal, Flexible, Faithful: Causal Data Simulation via Frengression](https://arxiv.org/abs/2508.01018) — arXiv stat.ML
+- [China delivers a one-two punch to America’s AI dominance](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) — The Verge AI
+- [VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs](https://arxiv.org/abs/2607.15498) — arXiv cs.CL
+- [An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-20](digests/2026-07-20.html)
 - [2026-07-19](digests/2026-07-19.html)
 - [2026-07-18](digests/2026-07-18.html)
 - [2026-07-17](digests/2026-07-17.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-07-19T05:34:57.895311-07:00._
 - [2026-06-23](digests/2026-06-23.html)
 - [2026-06-22](digests/2026-06-22.html)
 - [2026-06-21](digests/2026-06-21.html)
-- [2026-06-20](digests/2026-06-20.html)
 
 ## About this site
 
