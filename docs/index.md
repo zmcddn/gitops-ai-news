@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-20T05:58:49.031490-07:00._
+_Last updated: 2026-07-21T05:46:25.972743-07:00._
 
-[Read the latest digest](digests/2026-07-20.html)
+[Read the latest digest](digests/2026-07-21.html)
 
 ## Latest top links
 
-- [AI Trading: Evaluating Large Language Models for Technical Market Analysis](https://arxiv.org/abs/2607.15414) — arXiv cs.AI
-- [Recursive Harness Self-Improvement](https://arxiv.org/abs/2607.15524) — arXiv cs.AI
-- [Scalable LLM Agent Tool Access in the Cloud](https://arxiv.org/abs/2607.15593) — arXiv cs.AI
-- [SLAPBench: Benchmarking Multimodal Large Language Models for Four-Finger SLAP Fingerprint Verification](https://arxiv.org/abs/2607.15517) — arXiv cs.AI
-- [Frugal, Flexible, Faithful: Causal Data Simulation via Frengression](https://arxiv.org/abs/2508.01018) — arXiv stat.ML
-- [China delivers a one-two punch to America’s AI dominance](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) — The Verge AI
-- [VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs](https://arxiv.org/abs/2607.15498) — arXiv cs.CL
-- [An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865) — arXiv cs.CL
+- [Topological Signatures of Context-Level Reliability in TabPFN](https://arxiv.org/abs/2607.17962) — arXiv stat.ML
+- [RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts](https://arxiv.org/abs/2607.16716) — arXiv cs.AI
+- [OpenLanguageModel: Readable and Composable Small-Language-Model Pretraining for Education and Research](https://arxiv.org/abs/2607.16669) — arXiv cs.CL
+- [America needs to stop getting shocked by Chinese AI](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment) — The Verge AI
+- [Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](https://arxiv.org/abs/2607.16204) — arXiv cs.AI
+- [JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207) — arXiv cs.AI
+- [LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models](https://arxiv.org/abs/2607.16339) — arXiv cs.AI
+- [Cascading versus Joint Modeling for Hierarchical Offensive Language Detection](https://arxiv.org/abs/2607.16790) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-21](digests/2026-07-21.html)
 - [2026-07-20](digests/2026-07-20.html)
 - [2026-07-19](digests/2026-07-19.html)
 - [2026-07-18](digests/2026-07-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-20T05:58:49.031490-07:00._
 - [2026-06-24](digests/2026-06-24.html)
 - [2026-06-23](digests/2026-06-23.html)
 - [2026-06-22](digests/2026-06-22.html)
-- [2026-06-21](digests/2026-06-21.html)
 
 ## About this site
 
