@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-21T05:46:25.972743-07:00._
+_Last updated: 2026-07-22T05:47:30.494965-07:00._
 
-[Read the latest digest](digests/2026-07-21.html)
+[Read the latest digest](digests/2026-07-22.html)
 
 ## Latest top links
 
-- [Topological Signatures of Context-Level Reliability in TabPFN](https://arxiv.org/abs/2607.17962) — arXiv stat.ML
-- [RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts](https://arxiv.org/abs/2607.16716) — arXiv cs.AI
-- [OpenLanguageModel: Readable and Composable Small-Language-Model Pretraining for Education and Research](https://arxiv.org/abs/2607.16669) — arXiv cs.CL
-- [America needs to stop getting shocked by Chinese AI](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment) — The Verge AI
-- [Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](https://arxiv.org/abs/2607.16204) — arXiv cs.AI
-- [JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207) — arXiv cs.AI
-- [LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models](https://arxiv.org/abs/2607.16339) — arXiv cs.AI
-- [Cascading versus Joint Modeling for Hierarchical Offensive Language Detection](https://arxiv.org/abs/2607.16790) — arXiv cs.CL
+- [Evaluating medical AI under missing information: same-provider judges and human raters change apparent safety](https://arxiv.org/abs/2607.18828) — arXiv cs.AI
+- [Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254) — arXiv cs.AI
+- [Google launches a cheaper alternative to large AI security models like Mythos](https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model) — The Verge AI
+- [SAAG: Structured Agent Assessment and Grounding](https://arxiv.org/abs/2607.18245) — arXiv cs.AI
+- [When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents](https://arxiv.org/abs/2607.18261) — arXiv cs.AI
+- [Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains](https://arxiv.org/abs/2607.18438) — arXiv cs.CL
+- [Search-on-Graph-R1: Training Large Language Models to Search Knowledge Graphs with Reinforcement Learning](https://arxiv.org/abs/2607.18481) — arXiv cs.CL
+- [For What Reason? Interpreting Models' Encoding of Causation and Antithesis](https://arxiv.org/abs/2607.18570) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-22](digests/2026-07-22.html)
 - [2026-07-21](digests/2026-07-21.html)
 - [2026-07-20](digests/2026-07-20.html)
 - [2026-07-19](digests/2026-07-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-21T05:46:25.972743-07:00._
 - [2026-06-25](digests/2026-06-25.html)
 - [2026-06-24](digests/2026-06-24.html)
 - [2026-06-23](digests/2026-06-23.html)
-- [2026-06-22](digests/2026-06-22.html)
 
 ## About this site
 
