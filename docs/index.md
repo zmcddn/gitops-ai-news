@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-22T05:47:30.494965-07:00._
+_Last updated: 2026-07-23T05:48:49.405817-07:00._
 
-[Read the latest digest](digests/2026-07-22.html)
+[Read the latest digest](digests/2026-07-23.html)
 
 ## Latest top links
 
-- [Evaluating medical AI under missing information: same-provider judges and human raters change apparent safety](https://arxiv.org/abs/2607.18828) — arXiv cs.AI
-- [Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254) — arXiv cs.AI
-- [Google launches a cheaper alternative to large AI security models like Mythos](https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model) — The Verge AI
-- [SAAG: Structured Agent Assessment and Grounding](https://arxiv.org/abs/2607.18245) — arXiv cs.AI
-- [When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents](https://arxiv.org/abs/2607.18261) — arXiv cs.AI
-- [Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains](https://arxiv.org/abs/2607.18438) — arXiv cs.CL
-- [Search-on-Graph-R1: Training Large Language Models to Search Knowledge Graphs with Reinforcement Learning](https://arxiv.org/abs/2607.18481) — arXiv cs.CL
-- [For What Reason? Interpreting Models' Encoding of Causation and Antithesis](https://arxiv.org/abs/2607.18570) — arXiv cs.CL
+- [Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353) — arXiv cs.AI
+- [BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators](https://arxiv.org/abs/2607.19438) — arXiv cs.CL
+- [FORCE-Bench: A Benchmark, Dataset, and Evaluation Harness for Agentic AI in Enterprise Finance](https://arxiv.org/abs/2607.19409) — arXiv cs.AI
+- [TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models](https://arxiv.org/abs/2607.19992) — arXiv cs.CL
+- [LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning](https://arxiv.org/abs/2607.19358) — arXiv cs.AI
+- [Spectral-LSH: Sub-Quadratic Prompt Compression via Krylov-Projected Locality-Sensitive Hashing](https://arxiv.org/abs/2607.19368) — arXiv cs.AI
+- [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://arxiv.org/abs/2607.19747) — arXiv cs.CL
+- [When Does Knowledge Distillation Hurt? Reliability-Aware Distillation for Low-Resource Language Summarization](https://arxiv.org/abs/2607.19956) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-23](digests/2026-07-23.html)
 - [2026-07-22](digests/2026-07-22.html)
 - [2026-07-21](digests/2026-07-21.html)
 - [2026-07-20](digests/2026-07-20.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-22T05:47:30.494965-07:00._
 - [2026-06-26](digests/2026-06-26.html)
 - [2026-06-25](digests/2026-06-25.html)
 - [2026-06-24](digests/2026-06-24.html)
-- [2026-06-23](digests/2026-06-23.html)
 
 ## About this site
 
