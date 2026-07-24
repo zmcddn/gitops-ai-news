@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-23T05:48:49.405817-07:00._
+_Last updated: 2026-07-24T05:47:24.692346-07:00._
 
-[Read the latest digest](digests/2026-07-23.html)
+[Read the latest digest](digests/2026-07-24.html)
 
 ## Latest top links
 
-- [Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353) — arXiv cs.AI
-- [BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators](https://arxiv.org/abs/2607.19438) — arXiv cs.CL
-- [FORCE-Bench: A Benchmark, Dataset, and Evaluation Harness for Agentic AI in Enterprise Finance](https://arxiv.org/abs/2607.19409) — arXiv cs.AI
-- [TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models](https://arxiv.org/abs/2607.19992) — arXiv cs.CL
-- [LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning](https://arxiv.org/abs/2607.19358) — arXiv cs.AI
-- [Spectral-LSH: Sub-Quadratic Prompt Compression via Krylov-Projected Locality-Sensitive Hashing](https://arxiv.org/abs/2607.19368) — arXiv cs.AI
-- [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://arxiv.org/abs/2607.19747) — arXiv cs.CL
-- [When Does Knowledge Distillation Hurt? Reliability-Aware Distillation for Low-Resource Language Summarization](https://arxiv.org/abs/2607.19956) — arXiv cs.CL
+- [InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents](https://arxiv.org/abs/2607.20468) — arXiv cs.AI
+- [AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors](https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/) — TechCrunch AI
+- [DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers](https://arxiv.org/abs/2607.20531) — arXiv cs.AI
+- [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://arxiv.org/abs/2607.20911) — arXiv cs.CL
+- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/) — TechCrunch AI
+- [JAXBench: Benchmarking Autonomous TPU Kernel Optimization](https://arxiv.org/abs/2607.20466) — arXiv cs.AI
+- [DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding](https://arxiv.org/abs/2607.20467) — arXiv cs.AI
+- [A Knowledge-Injection Framework for Zero-Shot Adaptation of LLMs to Delirium Prediction](https://arxiv.org/abs/2607.20453) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-24](digests/2026-07-24.html)
 - [2026-07-23](digests/2026-07-23.html)
 - [2026-07-22](digests/2026-07-22.html)
 - [2026-07-21](digests/2026-07-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-23T05:48:49.405817-07:00._
 - [2026-06-27](digests/2026-06-27.html)
 - [2026-06-26](digests/2026-06-26.html)
 - [2026-06-25](digests/2026-06-25.html)
-- [2026-06-24](digests/2026-06-24.html)
 
 ## About this site
 
