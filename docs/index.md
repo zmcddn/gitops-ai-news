@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-24T06:12:50.578985-07:00._
+_Last updated: 2026-08-25T06:11:01.059413-07:00._
 
-[Read the latest digest](digests/2026-08-24.html)
+[Read the latest digest](digests/2026-08-25.html)
 
 ## Latest top links
 
-- [PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://arxiv.org/abs/2608.20342) — arXiv cs.AI
-- [The Logic of Machine Self-Preservation](https://arxiv.org/abs/2608.20940) — arXiv cs.AI
-- [Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory](https://arxiv.org/abs/2608.20397) — arXiv cs.AI
-- [FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning](https://arxiv.org/abs/2608.20518) — arXiv cs.AI
-- [How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel](https://arxiv.org/abs/2608.20350) — arXiv cs.CL
-- [Self-Speculation for Faster Reasoning Models](https://arxiv.org/abs/2608.20359) — arXiv cs.CL
-- [Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck](https://arxiv.org/abs/2608.20362) — arXiv cs.CL
-- [AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale](https://arxiv.org/abs/2608.20634) — arXiv cs.CL
+- [LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization](https://arxiv.org/abs/2608.21836) — arXiv cs.AI
+- [Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation](https://arxiv.org/abs/2608.21606) — arXiv cs.CL
+- [Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393) — arXiv cs.AI
+- [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://arxiv.org/abs/2608.21830) — arXiv cs.AI
+- [Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission](https://arxiv.org/abs/2608.23458) — arXiv stat.ML
+- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
+- [K-Bench: measuring model performance on real scientific agent requests](https://arxiv.org/abs/2608.21601) — arXiv cs.AI
+- [Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores](https://arxiv.org/abs/2608.21829) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-24T06:12:50.578985-07:00._
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
-- [2026-07-26](digests/2026-07-26.html)
 
 ## About this site
 
