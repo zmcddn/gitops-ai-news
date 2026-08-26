@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-25T06:11:01.059413-07:00._
+_Last updated: 2026-08-26T06:16:27.674548-07:00._
 
-[Read the latest digest](digests/2026-08-25.html)
+[Read the latest digest](digests/2026-08-26.html)
 
 ## Latest top links
 
-- [LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization](https://arxiv.org/abs/2608.21836) — arXiv cs.AI
-- [Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation](https://arxiv.org/abs/2608.21606) — arXiv cs.CL
-- [Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393) — arXiv cs.AI
-- [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://arxiv.org/abs/2608.21830) — arXiv cs.AI
-- [Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission](https://arxiv.org/abs/2608.23458) — arXiv stat.ML
-- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
-- [K-Bench: measuring model performance on real scientific agent requests](https://arxiv.org/abs/2608.21601) — arXiv cs.AI
-- [Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores](https://arxiv.org/abs/2608.21829) — arXiv cs.CL
+- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/) — TechCrunch AI
+- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) — OpenAI Blog
+- [OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses](https://arxiv.org/abs/2608.24160) — arXiv cs.AI
+- [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) — arXiv cs.AI
+- [PROOF-Gen: From Optimized Data to Better Distillation](https://arxiv.org/abs/2608.23911) — arXiv cs.AI
+- [Recursive Agentic Reasoning](https://arxiv.org/abs/2608.23956) — arXiv cs.AI
+- [Noise Floor Audit for Agent Benchmarks](https://arxiv.org/abs/2608.22331) — arXiv cs.CL
+- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-08-26](digests/2026-08-26.html)
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-25T06:11:01.059413-07:00._
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
-- [2026-07-27](digests/2026-07-27.html)
 
 ## About this site
 
