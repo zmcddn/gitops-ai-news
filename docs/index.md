@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-26T06:16:27.674548-07:00._
+_Last updated: 2026-08-27T15:16:13.629938-07:00._
 
-[Read the latest digest](digests/2026-08-26.html)
+[Read the latest digest](digests/2026-08-27.html)
 
 ## Latest top links
 
-- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/) — TechCrunch AI
-- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) — OpenAI Blog
-- [OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses](https://arxiv.org/abs/2608.24160) — arXiv cs.AI
-- [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) — arXiv cs.AI
-- [PROOF-Gen: From Optimized Data to Better Distillation](https://arxiv.org/abs/2608.23911) — arXiv cs.AI
-- [Recursive Agentic Reasoning](https://arxiv.org/abs/2608.23956) — arXiv cs.AI
-- [Noise Floor Audit for Agent Benchmarks](https://arxiv.org/abs/2608.22331) — arXiv cs.CL
-- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) — OpenAI Blog
+- [Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/) — AWS Machine Learning Blog
+- [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/) — AWS Machine Learning Blog
+- [Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2](https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/) — AWS Machine Learning Blog
+- [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/) — TechCrunch AI
+- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) — MIT Technology Review AI
+- [DataKernelBench: Can LLMs Optimize Database Queries on GPUs?](https://arxiv.org/abs/2608.25061) — arXiv cs.CL
+- [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr) — The Verge AI
+- [EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals](https://arxiv.org/abs/2608.24086) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-27](digests/2026-08-27.html)
 - [2026-08-26](digests/2026-08-26.html)
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-26T06:16:27.674548-07:00._
 - [2026-07-31](digests/2026-07-31.html)
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
-- [2026-07-28](digests/2026-07-28.html)
 
 ## About this site
 
