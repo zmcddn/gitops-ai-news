@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-28T15:20:39.759313-07:00._
+_Last updated: 2026-08-29T09:43:22.531817-07:00._
 
-[Read the latest digest](digests/2026-08-28.html)
+[Read the latest digest](digests/2026-08-29.html)
 
 ## Latest top links
 
-- [Agents Don't Paginate: First-Chunk Selection for LLM Tool Responses](https://arxiv.org/abs/2608.26130) — arXiv cs.CL
-- [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) — arXiv cs.AI
-- [Assessing mentalization in humans and large language models](https://arxiv.org/abs/2608.26291) — arXiv cs.AI
-- [Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI](https://arxiv.org/abs/2608.26442) — arXiv cs.AI
-- [AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling](https://arxiv.org/abs/2608.26623) — arXiv cs.AI
-- [Survival-Guided Length Control for Efficient Diffusion Language Models](https://arxiv.org/abs/2608.26374) — arXiv cs.CL
-- [AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking](https://arxiv.org/abs/2608.26141) — arXiv cs.CL
-- [Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/) — AWS Machine Learning Blog
+- [Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models](https://arxiv.org/abs/2608.26150) — arXiv cs.AI
+- [Same Model, Different Harness: Different Coding-Agent Results](https://arxiv.org/abs/2608.26218) — arXiv cs.AI
+- [AI Control Scientist: LLM-driven Agentic System for Automated Control Design](https://arxiv.org/abs/2608.26780) — arXiv cs.AI
+- [Graph-Guided Selective Unlearning for Language Models: Controlling Support Routes Beyond Forget Seeds](https://arxiv.org/abs/2608.26743) — arXiv cs.AI
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) — OpenAI Blog
+- [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) — TechCrunch AI
+- [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/) — TechCrunch AI
+- [How Decathlon runs demand forecasting at scale with Chronos-2](https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
 - [2026-08-27](digests/2026-08-27.html)
 - [2026-08-26](digests/2026-08-26.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-28T15:20:39.759313-07:00._
 - [2026-08-02](digests/2026-08-02.html)
 - [2026-08-01](digests/2026-08-01.html)
 - [2026-07-31](digests/2026-07-31.html)
-- [2026-07-30](digests/2026-07-30.html)
 
 ## About this site
 
