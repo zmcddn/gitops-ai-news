@@ -1,19 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-30T09:41:19.540558-07:00._
+_Last updated: 2026-08-31T12:08:04.316353-07:00._
 
-[Read the latest digest](digests/2026-08-30.html)
+[Read the latest digest](digests/2026-08-31.html)
 
 ## Latest top links
 
-- [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — TechCrunch AI
-- [Sony Music Publishing and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) — The Verge AI
-- [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) — The Verge AI
-- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) — TechCrunch AI
-- [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) — TechCrunch AI
+- [PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems](https://arxiv.org/abs/2608.28378) — arXiv cs.CL
+- [Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents](https://arxiv.org/abs/2608.28458) — arXiv cs.CL
+- [Improved off-policy training of diffusion samplers](https://arxiv.org/abs/2402.05098) — arXiv stat.ML
+- [ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa) — The Verge AI
+- [SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction](https://arxiv.org/abs/2608.27461) — arXiv cs.CL
+- [Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) — MIT Technology Review AI
+- [XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering](https://arxiv.org/abs/2608.27481) — arXiv cs.CL
+- [Performative Privacy: When Differential Privacy Maximizes Utility](https://arxiv.org/abs/2608.28198) — arXiv stat.ML
 
 ## Recent digests
 
+- [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
@@ -43,7 +47,6 @@ _Last updated: 2026-08-30T09:41:19.540558-07:00._
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
-- [2026-08-01](digests/2026-08-01.html)
 
 ## About this site
 
