@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-31T12:08:04.316353-07:00._
+_Last updated: 2026-09-01T09:40:29.320927-07:00._
 
-[Read the latest digest](digests/2026-08-31.html)
+[Read the latest digest](digests/2026-09-01.html)
 
 ## Latest top links
 
-- [PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems](https://arxiv.org/abs/2608.28378) — arXiv cs.CL
-- [Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents](https://arxiv.org/abs/2608.28458) — arXiv cs.CL
-- [Improved off-policy training of diffusion samplers](https://arxiv.org/abs/2402.05098) — arXiv stat.ML
-- [ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa) — The Verge AI
-- [SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction](https://arxiv.org/abs/2608.27461) — arXiv cs.CL
-- [Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) — MIT Technology Review AI
-- [XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering](https://arxiv.org/abs/2608.27481) — arXiv cs.CL
-- [Performative Privacy: When Differential Privacy Maximizes Utility](https://arxiv.org/abs/2608.28198) — arXiv stat.ML
+- [Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System](https://arxiv.org/abs/2608.28611) — arXiv cs.CL
+- [GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon](https://arxiv.org/abs/2608.28667) — arXiv cs.CL
+- [Capability-Stratified Degradation in Ternary Language Models](https://arxiv.org/abs/2608.28809) — arXiv cs.AI
+- [When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions](https://arxiv.org/abs/2608.29241) — arXiv cs.CL
+- [Delta-AI: Local objectives for amortized inference in sparse graphical models](https://arxiv.org/abs/2310.02423) — arXiv stat.ML
+- [Universal Redundancies in Time Series Foundation Models](https://arxiv.org/abs/2602.01605) — arXiv stat.ML
+- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) — TechCrunch AI
+- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-31T12:08:04.316353-07:00._
 - [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
-- [2026-08-02](digests/2026-08-02.html)
 
 ## About this site
 
