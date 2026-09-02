@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-01T09:40:29.320927-07:00._
+_Last updated: 2026-09-02T09:34:46.250327-07:00._
 
-[Read the latest digest](digests/2026-09-01.html)
+[Read the latest digest](digests/2026-09-02.html)
 
 ## Latest top links
 
-- [Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System](https://arxiv.org/abs/2608.28611) — arXiv cs.CL
-- [GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon](https://arxiv.org/abs/2608.28667) — arXiv cs.CL
-- [Capability-Stratified Degradation in Ternary Language Models](https://arxiv.org/abs/2608.28809) — arXiv cs.AI
-- [When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions](https://arxiv.org/abs/2608.29241) — arXiv cs.CL
-- [Delta-AI: Local objectives for amortized inference in sparse graphical models](https://arxiv.org/abs/2310.02423) — arXiv stat.ML
-- [Universal Redundancies in Time Series Foundation Models](https://arxiv.org/abs/2602.01605) — arXiv stat.ML
-- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) — TechCrunch AI
-- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — OpenAI Blog
+- [Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) — The Verge AI
+- [Towards a Belief-Based World Model for LLM Agents](https://arxiv.org/abs/2609.00455) — arXiv cs.AI
+- [UI-Venus-2 Technical Report](https://arxiv.org/abs/2609.00028) — arXiv cs.AI
+- [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://arxiv.org/abs/2609.00365) — arXiv cs.AI
+- [Do Multimodal LLMs See Before They Read? Diagnosing Contextual Sycophancy](https://arxiv.org/abs/2609.00067) — arXiv cs.CL
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) — OpenAI Blog
+- [Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls](https://arxiv.org/abs/2609.00012) — arXiv cs.AI
+- [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-02](digests/2026-09-02.html)
 - [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-01T09:40:29.320927-07:00._
 - [2026-08-06](digests/2026-08-06.html)
 - [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
-- [2026-08-03](digests/2026-08-03.html)
 
 ## About this site
 
