@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-02T09:34:46.250327-07:00._
+_Last updated: 2026-09-03T09:25:47.887022-07:00._
 
-[Read the latest digest](digests/2026-09-02.html)
+[Read the latest digest](digests/2026-09-03.html)
 
 ## Latest top links
 
-- [Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) — The Verge AI
-- [Towards a Belief-Based World Model for LLM Agents](https://arxiv.org/abs/2609.00455) — arXiv cs.AI
-- [UI-Venus-2 Technical Report](https://arxiv.org/abs/2609.00028) — arXiv cs.AI
-- [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://arxiv.org/abs/2609.00365) — arXiv cs.AI
-- [Do Multimodal LLMs See Before They Read? Diagnosing Contextual Sycophancy](https://arxiv.org/abs/2609.00067) — arXiv cs.CL
-- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) — OpenAI Blog
-- [Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls](https://arxiv.org/abs/2609.00012) — arXiv cs.AI
-- [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) — arXiv cs.CL
+- [ChatGPT, Grok, and Claude all went down at the same time](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down) — The Verge AI
+- [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/) — AWS Machine Learning Blog
+- [HeadWiseKV: Budgeted Per-Head Cache Residency for Hybrid Long-Context Language Models](https://arxiv.org/abs/2609.02029) — arXiv cs.AI
+- [CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI](https://arxiv.org/abs/2609.02459) — arXiv cs.AI
+- [OBJECTION! Lawyer Agents Mitigate Guilty Bias in Legal Judgment Prediction](https://arxiv.org/abs/2609.02158) — arXiv cs.CL
+- [How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling](https://arxiv.org/abs/2609.02482) — arXiv cs.CL
+- [Gradient Prediction with Control Variates in the Cheap-Forward Regime](https://arxiv.org/abs/2511.05187) — arXiv stat.ML
+- [Researchers fear safety disaster ahead of OpenAI’s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety) — The Verge AI
 
 ## Recent digests
 
+- [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
 - [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-02T09:34:46.250327-07:00._
 - [2026-08-07](digests/2026-08-07.html)
 - [2026-08-06](digests/2026-08-06.html)
 - [2026-08-05](digests/2026-08-05.html)
-- [2026-08-04](digests/2026-08-04.html)
 
 ## About this site
 
