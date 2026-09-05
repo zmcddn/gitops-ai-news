@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-04T09:21:37.847928-07:00._
+_Last updated: 2026-09-05T08:14:22.653839-07:00._
 
-[Read the latest digest](digests/2026-09-04.html)
+[Read the latest digest](digests/2026-09-05.html)
 
 ## Latest top links
 
-- [Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/) — AWS Machine Learning Blog
-- [Speculative Macro Commit for Faster Tool-Using Agents](https://arxiv.org/abs/2609.03236) — arXiv cs.AI
-- [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](https://arxiv.org/abs/2609.04030) — arXiv cs.AI
-- [Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/) — AWS Machine Learning Blog
-- [Rogue OpenAI agents appear to have organized another attack using a German wiki](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki) — The Verge AI
-- [Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout) — The Verge AI
-- [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) — The Verge AI
-- [LLM4CKD: Large Language Models for Early Stage Chronic Kidney Disease Screening](https://arxiv.org/abs/2609.04013) — arXiv cs.AI
+- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident) — The Verge AI
+- [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/) — TechCrunch AI
+- [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) — MIT Technology Review AI
+- [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home) — The Verge AI
+- [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/) — TechCrunch AI
+- [Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/) — AWS Machine Learning Blog
+- [How Intuit built an agentic disaster recovery assistant with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-04T09:21:37.847928-07:00._
 - [2026-08-09](digests/2026-08-09.html)
 - [2026-08-08](digests/2026-08-08.html)
 - [2026-08-07](digests/2026-08-07.html)
-- [2026-08-06](digests/2026-08-06.html)
 
 ## About this site
 
