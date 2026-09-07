@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-06T08:28:20.557116-07:00._
+_Last updated: 2026-09-07T10:44:43.452302-07:00._
 
-[Read the latest digest](digests/2026-09-06.html)
+[Read the latest digest](digests/2026-09-07.html)
 
 ## Latest top links
 
-- [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) — TechCrunch AI
-- [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) — TechCrunch AI
-- [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) — TechCrunch AI
+- [A Systematic Evaluation of Cross-Lingual Consistency Enhancement Methods in Multilingual Language Models](https://arxiv.org/abs/2609.04409) — arXiv cs.CL
+- [Cache-Aware Joint Router Adaptation for Memory-Efficient MoE Inference](https://arxiv.org/abs/2609.04895) — arXiv cs.CL
+- [ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies](https://arxiv.org/abs/2609.04667) — arXiv cs.AI
+- [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) — The Verge AI
+- [Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation](https://arxiv.org/abs/2609.04298) — arXiv cs.AI
+- [Iris: Climbing to the Search Frontier](https://arxiv.org/abs/2609.04304) — arXiv cs.AI
+- [Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets](https://arxiv.org/abs/2609.04373) — arXiv cs.AI
+- [You Really Didn't Get That? Benchmarking Social Pragmatic Inference for Indirect and Playful Chinese Online Comments](https://arxiv.org/abs/2609.04384) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
 - [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-09-06T08:28:20.557116-07:00._
 - [2026-08-11](digests/2026-08-11.html)
 - [2026-08-10](digests/2026-08-10.html)
 - [2026-08-09](digests/2026-08-09.html)
-- [2026-08-08](digests/2026-08-08.html)
 
 ## About this site
 
