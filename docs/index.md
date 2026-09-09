@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-08T09:38:34.287924-07:00._
+_Last updated: 2026-09-09T09:39:00.877900-07:00._
 
-[Read the latest digest](digests/2026-09-08.html)
+[Read the latest digest](digests/2026-09-09.html)
 
 ## Latest top links
 
-- [Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6](https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/) — AWS Machine Learning Blog
-- [Funding grants for new research into AI and teen development](https://openai.com/index/teen-development-research-grants) — OpenAI Blog
-- [Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions](https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/) — AWS Machine Learning Blog
-- [How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/) — AWS Machine Learning Blog
-- [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) — OpenAI Blog
-- [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) — MIT Technology Review AI
-- [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/) — TechCrunch AI
-- [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) — TechCrunch AI
+- [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/) — AWS Machine Learning Blog
+- [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/) — AWS Machine Learning Blog
+- [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/) — TechCrunch AI
+- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — TechCrunch AI
+- [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) — TechCrunch AI
+- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) — MIT Technology Review AI
+- [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) — The Verge AI
 
 ## Recent digests
 
+- [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-08T09:38:34.287924-07:00._
 - [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
 - [2026-08-11](digests/2026-08-11.html)
-- [2026-08-10](digests/2026-08-10.html)
 
 ## About this site
 
