@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-09T09:39:00.877900-07:00._
+_Last updated: 2026-09-10T09:25:18.508851-07:00._
 
-[Read the latest digest](digests/2026-09-09.html)
+[Read the latest digest](digests/2026-09-10.html)
 
 ## Latest top links
 
-- [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/) — AWS Machine Learning Blog
-- [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/) — AWS Machine Learning Blog
-- [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/) — TechCrunch AI
-- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — TechCrunch AI
-- [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) — TechCrunch AI
-- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) — MIT Technology Review AI
-- [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) — The Verge AI
+- [Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools](https://arxiv.org/abs/2609.05818) — arXiv cs.AI
+- [The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies](https://arxiv.org/abs/2609.05514) — arXiv cs.AI
+- [MedDeID enables locally governed clinical-text de-identification from real or synthetic training data](https://arxiv.org/abs/2609.10049) — arXiv cs.CL
+- [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/) — AWS Machine Learning Blog
+- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) — OpenAI Blog
+- [CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning](https://arxiv.org/abs/2609.05708) — arXiv cs.AI
+- [DAREBench: Deployment-Aware and Reliable Evaluation of Models as Agents](https://arxiv.org/abs/2609.06059) — arXiv cs.AI
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-09T09:39:00.877900-07:00._
 - [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
-- [2026-08-11](digests/2026-08-11.html)
 
 ## About this site
 
