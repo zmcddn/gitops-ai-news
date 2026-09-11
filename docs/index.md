@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-10T09:25:18.508851-07:00._
+_Last updated: 2026-09-11T09:28:54.117093-07:00._
 
-[Read the latest digest](digests/2026-09-10.html)
+[Read the latest digest](digests/2026-09-11.html)
 
 ## Latest top links
 
-- [Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools](https://arxiv.org/abs/2609.05818) — arXiv cs.AI
-- [The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies](https://arxiv.org/abs/2609.05514) — arXiv cs.AI
-- [MedDeID enables locally governed clinical-text de-identification from real or synthetic training data](https://arxiv.org/abs/2609.10049) — arXiv cs.CL
-- [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/) — AWS Machine Learning Blog
-- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) — OpenAI Blog
-- [CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning](https://arxiv.org/abs/2609.05708) — arXiv cs.AI
-- [DAREBench: Deployment-Aware and Reliable Evaluation of Models as Agents](https://arxiv.org/abs/2609.06059) — arXiv cs.AI
-- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) — OpenAI Blog
+- [Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models](https://arxiv.org/abs/2609.03247) — arXiv cs.AI
+- [Kernel-Managed Shared Memory for System-Wide Personalization](https://arxiv.org/abs/2609.10144) — arXiv cs.AI
+- [Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System](https://arxiv.org/abs/2609.10922) — arXiv cs.CL
+- [Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers](https://arxiv.org/abs/2609.11117) — arXiv cs.CL
+- [VALG: An Agentic System for ML Theory Research](https://arxiv.org/abs/2608.13060) — arXiv stat.ML
+- [The Era by Eon Benchmark: A Generated Enterprise Estate with Exact Ground Truth for Benchmarking LLM Agents](https://arxiv.org/abs/2609.09853) — arXiv cs.AI
+- [RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases](https://arxiv.org/abs/2609.10092) — arXiv cs.AI
+- [ProMediConv: Benchmarking Proactive Conversational Agents in Legal Dispute Mediation](https://arxiv.org/abs/2609.11101) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-10T09:25:18.508851-07:00._
 - [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
-- [2026-08-12](digests/2026-08-12.html)
 
 ## About this site
 
