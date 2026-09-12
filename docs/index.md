@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-11T09:28:54.117093-07:00._
+_Last updated: 2026-09-12T08:32:06.780835-07:00._
 
-[Read the latest digest](digests/2026-09-11.html)
+[Read the latest digest](digests/2026-09-12.html)
 
 ## Latest top links
 
-- [Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models](https://arxiv.org/abs/2609.03247) — arXiv cs.AI
-- [Kernel-Managed Shared Memory for System-Wide Personalization](https://arxiv.org/abs/2609.10144) — arXiv cs.AI
-- [Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System](https://arxiv.org/abs/2609.10922) — arXiv cs.CL
-- [Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers](https://arxiv.org/abs/2609.11117) — arXiv cs.CL
-- [VALG: An Agentic System for ML Theory Research](https://arxiv.org/abs/2608.13060) — arXiv stat.ML
-- [The Era by Eon Benchmark: A Generated Enterprise Estate with Exact Ground Truth for Benchmarking LLM Agents](https://arxiv.org/abs/2609.09853) — arXiv cs.AI
-- [RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases](https://arxiv.org/abs/2609.10092) — arXiv cs.AI
-- [ProMediConv: Benchmarking Proactive Conversational Agents in Legal Dispute Mediation](https://arxiv.org/abs/2609.11101) — arXiv cs.CL
+- [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](https://arxiv.org/abs/2609.11180) — arXiv cs.AI
+- [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115) — arXiv cs.AI
+- [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/) — AWS Machine Learning Blog
+- [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents](https://arxiv.org/abs/2609.11060) — arXiv cs.AI
+- [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712) — arXiv cs.AI
+- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) — OpenAI Blog
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-09-12](digests/2026-09-12.html)
 - [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-11T09:28:54.117093-07:00._
 - [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
-- [2026-08-13](digests/2026-08-13.html)
 
 ## About this site
 
