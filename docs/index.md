@@ -1,22 +1,20 @@
 # Daily AI News
 
-_Last updated: 2026-09-12T08:32:06.780835-07:00._
+_Last updated: 2026-09-13T09:17:40.244144-07:00._
 
-[Read the latest digest](digests/2026-09-12.html)
+[Read the latest digest](digests/2026-09-13.html)
 
 ## Latest top links
 
-- [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](https://arxiv.org/abs/2609.11180) — arXiv cs.AI
-- [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115) — arXiv cs.AI
-- [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/) — AWS Machine Learning Blog
-- [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents](https://arxiv.org/abs/2609.11060) — arXiv cs.AI
-- [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712) — arXiv cs.AI
-- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) — OpenAI Blog
-- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) — OpenAI Blog
+- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) — The Verge AI
+- [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) — TechCrunch AI
+- [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) — The Verge AI
+- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) — TechCrunch AI
+- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) — The Verge AI
 
 ## Recent digests
 
+- [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
 - [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
@@ -46,7 +44,6 @@ _Last updated: 2026-09-12T08:32:06.780835-07:00._
 - [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
-- [2026-08-14](digests/2026-08-14.html)
 
 ## About this site
 
