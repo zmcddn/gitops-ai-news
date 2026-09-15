@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-14T11:04:44.191639-07:00._
+_Last updated: 2026-09-15T09:59:36.170727-07:00._
 
-[Read the latest digest](digests/2026-09-14.html)
+[Read the latest digest](digests/2026-09-15.html)
 
 ## Latest top links
 
-- [Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite](https://arxiv.org/abs/2609.11987) — arXiv cs.CL
-- [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) — OpenAI Blog
-- [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) — MIT Technology Review AI
-- [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct) — The Verge AI
-- [Chopthin-Consensus Power Sampling: A Diversity-Preserving Approach to LLM Decoding](https://arxiv.org/abs/2609.12243) — arXiv cs.CL
-- [AMDKernelVault: Large-Scale Datasets and Agentic Training for AMD GPU Kernel Optimization](https://arxiv.org/abs/2609.12471) — arXiv cs.CL
-- [Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking](https://arxiv.org/abs/2609.12674) — arXiv cs.CL
-- [Membership Inference via Pairwise Likelihood Ratios](https://arxiv.org/abs/2609.12367) — arXiv stat.ML
+- [OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) — TechCrunch AI
+- [Editorial routing shapes how computational results are qualified in AI-assisted scientific writing](https://arxiv.org/abs/2609.14288) — arXiv cs.CL
+- [Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/) — TechCrunch AI
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) — The Verge AI
+- [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) — arXiv cs.AI
+- [Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?](https://arxiv.org/abs/2609.13436) — arXiv cs.AI
+- [AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](https://arxiv.org/abs/2609.13548) — arXiv cs.AI
+- [Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems](https://arxiv.org/abs/2609.13559) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-14T11:04:44.191639-07:00._
 - [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
-- [2026-08-16](digests/2026-08-16.html)
 
 ## About this site
 
