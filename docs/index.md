@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-15T09:59:36.170727-07:00._
+_Last updated: 2026-09-16T09:55:48.103127-07:00._
 
-[Read the latest digest](digests/2026-09-15.html)
+[Read the latest digest](digests/2026-09-16.html)
 
 ## Latest top links
 
-- [OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) — TechCrunch AI
-- [Editorial routing shapes how computational results are qualified in AI-assisted scientific writing](https://arxiv.org/abs/2609.14288) — arXiv cs.CL
-- [Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/) — TechCrunch AI
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) — The Verge AI
-- [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) — arXiv cs.AI
-- [Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?](https://arxiv.org/abs/2609.13436) — arXiv cs.AI
-- [AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](https://arxiv.org/abs/2609.13548) — arXiv cs.AI
-- [Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems](https://arxiv.org/abs/2609.13559) — arXiv cs.AI
+- [Self-reported archetypes and behavioral failures in Large Language Models](https://arxiv.org/abs/2609.15998) — arXiv cs.CL
+- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) — TechCrunch AI
+- [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation) — The Verge AI
+- [Bias Audits Detect Bias but Disagree on Ranking: Evidence from Ten Instruments and Ten Frontier Models](https://arxiv.org/abs/2609.15995) — arXiv cs.CL
+- [EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models](https://arxiv.org/abs/2609.17081) — arXiv cs.CL
+- [Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI](https://arxiv.org/abs/2609.16232) — arXiv cs.AI
+- [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides) — The Verge AI
+- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
 
 ## Recent digests
 
+- [2026-09-16](digests/2026-09-16.html)
 - [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-15T09:59:36.170727-07:00._
 - [2026-08-20](digests/2026-08-20.html)
 - [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
-- [2026-08-17](digests/2026-08-17.html)
 
 ## About this site
 
