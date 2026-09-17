@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-16T09:55:48.103127-07:00._
+_Last updated: 2026-09-17T09:59:48.339625-07:00._
 
-[Read the latest digest](digests/2026-09-16.html)
+[Read the latest digest](digests/2026-09-17.html)
 
 ## Latest top links
 
-- [Self-reported archetypes and behavioral failures in Large Language Models](https://arxiv.org/abs/2609.15998) — arXiv cs.CL
-- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) — TechCrunch AI
-- [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation) — The Verge AI
-- [Bias Audits Detect Bias but Disagree on Ranking: Evidence from Ten Instruments and Ten Frontier Models](https://arxiv.org/abs/2609.15995) — arXiv cs.CL
-- [EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models](https://arxiv.org/abs/2609.17081) — arXiv cs.CL
-- [Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI](https://arxiv.org/abs/2609.16232) — arXiv cs.AI
-- [Claude comes for Gemini with its own take on Docs and Slides](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides) — The Verge AI
-- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
+- [Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic) — The Verge AI
+- [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/) — TechCrunch AI
+- [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date) — The Verge AI
+- [GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents](https://arxiv.org/abs/2609.17695) — arXiv cs.AI
+- [Do Frontier Models Seek Safety Evidence Before Acting?](https://arxiv.org/abs/2609.17865) — arXiv cs.AI
+- [Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits](https://arxiv.org/abs/2609.17983) — arXiv cs.AI
+- [AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines](https://arxiv.org/abs/2609.18123) — arXiv cs.AI
+- [From Pixels to Pairs: A Comprehensive Benchmark of LLM-Based Key-Value Extraction in Noisy Document Settings](https://arxiv.org/abs/2609.17538) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-17](digests/2026-09-17.html)
 - [2026-09-16](digests/2026-09-16.html)
 - [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-16T09:55:48.103127-07:00._
 - [2026-08-21](digests/2026-08-21.html)
 - [2026-08-20](digests/2026-08-20.html)
 - [2026-08-19](digests/2026-08-19.html)
-- [2026-08-18](digests/2026-08-18.html)
 
 ## About this site
 
