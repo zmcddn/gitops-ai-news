@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-18T09:24:19.692682-07:00._
+_Last updated: 2026-09-19T08:53:08.399257-07:00._
 
-[Read the latest digest](digests/2026-09-18.html)
+[Read the latest digest](digests/2026-09-19.html)
 
 ## Latest top links
 
-- [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/) — TechCrunch AI
-- [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist) — The Verge AI
-- [What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews](https://arxiv.org/abs/2609.19151) — arXiv cs.CL
-- [Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses](https://arxiv.org/abs/2609.19244) — arXiv cs.AI
-- [Geopolitical Divisions Across Languages in Large Language Models](https://arxiv.org/abs/2609.20005) — arXiv cs.AI
-- [Introducing Amazon SageMaker HyperPod Inference Gateway](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/) — AWS Machine Learning Blog
-- [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/) — TechCrunch AI
-- [Closed-World Resolution Against Tool Hallucination in LLM Agents](https://arxiv.org/abs/2609.19425) — arXiv cs.AI
+- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) — TechCrunch AI
+- [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) — TechCrunch AI
+- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) — The Verge AI
+- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) — TechCrunch AI
+- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — TechCrunch AI
+- [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) — OpenAI Blog
+- [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/) — AWS Machine Learning Blog
+- [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
 - [2026-09-16](digests/2026-09-16.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-18T09:24:19.692682-07:00._
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
 - [2026-08-21](digests/2026-08-21.html)
-- [2026-08-20](digests/2026-08-20.html)
 
 ## About this site
 
