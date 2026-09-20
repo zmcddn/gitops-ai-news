@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-19T08:53:08.399257-07:00._
+_Last updated: 2026-09-20T09:06:41.627024-07:00._
 
-[Read the latest digest](digests/2026-09-19.html)
+[Read the latest digest](digests/2026-09-20.html)
 
 ## Latest top links
 
-- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) — TechCrunch AI
-- [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) — TechCrunch AI
-- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) — The Verge AI
-- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) — TechCrunch AI
-- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — TechCrunch AI
-- [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) — OpenAI Blog
-- [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/) — AWS Machine Learning Blog
-- [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/) — AWS Machine Learning Blog
+- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) — The Verge AI
+- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — TechCrunch AI
+- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) — The Verge AI
+- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) — The Verge AI
+- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — TechCrunch AI
+- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) — The Verge AI
+- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) — TechCrunch AI
+- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-19T08:53:08.399257-07:00._
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
-- [2026-08-21](digests/2026-08-21.html)
 
 ## About this site
 
