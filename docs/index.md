@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-20T09:06:41.627024-07:00._
+_Last updated: 2026-09-21T11:12:36.047397-07:00._
 
-[Read the latest digest](digests/2026-09-20.html)
+[Read the latest digest](digests/2026-09-21.html)
 
 ## Latest top links
 
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) — The Verge AI
-- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — TechCrunch AI
-- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) — The Verge AI
-- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) — The Verge AI
-- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — TechCrunch AI
-- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) — The Verge AI
-- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) — TechCrunch AI
-- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) — TechCrunch AI
+- [Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks](https://arxiv.org/abs/2609.21181) — arXiv cs.AI
+- [EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise](https://arxiv.org/abs/2609.21841) — arXiv cs.AI
+- [Boosting Deepresearch and LongContext Ability with Self-Generated Deepresearch Rollouts Traces](https://arxiv.org/abs/2609.20844) — arXiv cs.CL
+- [Omni Demand Understanding: A Benchmark for Contextual User-Intent Inference in Multimodal Interaction](https://arxiv.org/abs/2609.21392) — arXiv cs.CL
+- [Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789) — arXiv stat.ML
+- [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) — arXiv cs.AI
+- [Can Agents Design Better Chips with a Higher Level Abstraction?](https://arxiv.org/abs/2609.21157) — arXiv cs.AI
+- [Curriculum-Based Noise Adaptation for Phoneme-to-Text Reconstruction in Visual Speech Recognition](https://arxiv.org/abs/2609.20839) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-21](digests/2026-09-21.html)
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-20T09:06:41.627024-07:00._
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
-- [2026-08-22](digests/2026-08-22.html)
 
 ## About this site
 
