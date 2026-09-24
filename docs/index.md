@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-23T09:59:29.214830-07:00._
+_Last updated: 2026-09-24T10:11:39.112702-07:00._
 
-[Read the latest digest](digests/2026-09-23.html)
+[Read the latest digest](digests/2026-09-24.html)
 
 ## Latest top links
 
-- [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/) — AWS Machine Learning Blog
-- [Ringg’s AI agents resolve up to 65% of customer calls with OpenAI](https://openai.com/index/ringg) — OpenAI Blog
-- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) — OpenAI Blog
-- [Training a Language Model End-to-End in Rust: An Experience Report](https://arxiv.org/abs/2609.25008) — arXiv cs.CL
-- [AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows](https://arxiv.org/abs/2609.22951) — arXiv cs.AI
-- [FireWorldBench: Benchmarking Complex Physical World Intelligence through Coupled-Field Fire Dynamics](https://arxiv.org/abs/2609.23064) — arXiv cs.AI
-- [TelecomGPT-R1: Unified Post-Training for Reasoning Across Heterogeneous Telecom Tasks](https://arxiv.org/abs/2609.25356) — arXiv cs.CL
-- [Qwen3.8-Omni: Towards Native Omni-Modal Agents](https://arxiv.org/abs/2609.25611) — arXiv cs.CL
+- [Improving LLM-based Autonomous Web Agents with Filtering](https://arxiv.org/abs/2609.27770) — arXiv cs.CL
+- [Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents](https://arxiv.org/abs/2609.27353) — arXiv cs.CL
+- [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/) — AWS Machine Learning Blog
+- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) — MIT Technology Review AI
+- [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) — The Verge AI
+- [Alignment Inertia: Auditing the Durability of Training Data Influence Through Policy Override Resistance](https://arxiv.org/abs/2609.27333) — arXiv cs.AI
+- [Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms](https://arxiv.org/abs/2609.26942) — arXiv cs.CL
+- [Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs](https://arxiv.org/abs/2609.27262) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-23T09:59:29.214830-07:00._
 - [2026-08-28](digests/2026-08-28.html)
 - [2026-08-27](digests/2026-08-27.html)
 - [2026-08-26](digests/2026-08-26.html)
-- [2026-08-25](digests/2026-08-25.html)
 
 ## About this site
 
