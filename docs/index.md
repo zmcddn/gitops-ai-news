@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-24T10:11:39.112702-07:00._
+_Last updated: 2026-09-25T10:11:39.766929-07:00._
 
-[Read the latest digest](digests/2026-09-24.html)
+[Read the latest digest](digests/2026-09-25.html)
 
 ## Latest top links
 
-- [Improving LLM-based Autonomous Web Agents with Filtering](https://arxiv.org/abs/2609.27770) — arXiv cs.CL
-- [Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents](https://arxiv.org/abs/2609.27353) — arXiv cs.CL
-- [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/) — AWS Machine Learning Blog
-- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) — MIT Technology Review AI
-- [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) — The Verge AI
-- [Alignment Inertia: Auditing the Durability of Training Data Influence Through Policy Override Resistance](https://arxiv.org/abs/2609.27333) — arXiv cs.AI
-- [Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms](https://arxiv.org/abs/2609.26942) — arXiv cs.CL
-- [Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs](https://arxiv.org/abs/2609.27262) — arXiv cs.CL
+- [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) — The Verge AI
+- [Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise](https://arxiv.org/abs/2609.28919) — arXiv cs.AI
+- [Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents](https://arxiv.org/abs/2609.28876) — arXiv cs.AI
+- [ASIRF: An Agentic Framework for Context-Dependent Sensitive Information Redaction](https://arxiv.org/abs/2609.29191) — arXiv cs.AI
+- [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) — AWS Machine Learning Blog
+- [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](https://arxiv.org/abs/2609.28506) — arXiv cs.AI
+- [For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/) — TechCrunch AI
+- [Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks](https://arxiv.org/abs/2609.28673) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-24T10:11:39.112702-07:00._
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
 - [2026-08-27](digests/2026-08-27.html)
-- [2026-08-26](digests/2026-08-26.html)
 
 ## About this site
 
