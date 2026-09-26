@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-25T10:11:39.766929-07:00._
+_Last updated: 2026-09-26T09:23:54.332187-07:00._
 
-[Read the latest digest](digests/2026-09-25.html)
+[Read the latest digest](digests/2026-09-26.html)
 
 ## Latest top links
 
-- [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) — The Verge AI
-- [Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise](https://arxiv.org/abs/2609.28919) — arXiv cs.AI
-- [Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents](https://arxiv.org/abs/2609.28876) — arXiv cs.AI
-- [ASIRF: An Agentic Framework for Context-Dependent Sensitive Information Redaction](https://arxiv.org/abs/2609.29191) — arXiv cs.AI
-- [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) — AWS Machine Learning Blog
-- [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](https://arxiv.org/abs/2609.28506) — arXiv cs.AI
-- [For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/) — TechCrunch AI
-- [Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks](https://arxiv.org/abs/2609.28673) — arXiv cs.CL
+- [Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) — TechCrunch AI
+- [Meta’s AI Tamagotchi bet is…working?](https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/) — TechCrunch AI
+- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — TechCrunch AI
+- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) — TechCrunch AI
+- [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
+- [Multi-Region training with Amazon SageMaker HyperPod and Qumulo](https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/) — AWS Machine Learning Blog
+- [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) — The Verge AI
 
 ## Recent digests
 
+- [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-25T10:11:39.766929-07:00._
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
-- [2026-08-27](digests/2026-08-27.html)
 
 ## About this site
 
