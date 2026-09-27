@@ -1,22 +1,19 @@
 # Daily AI News
 
-_Last updated: 2026-09-26T09:23:54.332187-07:00._
+_Last updated: 2026-09-27T09:58:25.940763-07:00._
 
-[Read the latest digest](digests/2026-09-26.html)
+[Read the latest digest](digests/2026-09-27.html)
 
 ## Latest top links
 
-- [Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) — TechCrunch AI
-- [Meta’s AI Tamagotchi bet is…working?](https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/) — TechCrunch AI
-- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — TechCrunch AI
-- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) — TechCrunch AI
-- [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
-- [Multi-Region training with Amazon SageMaker HyperPod and Qumulo](https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/) — AWS Machine Learning Blog
-- [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) — The Verge AI
+- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) — The Verge AI
+- [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — TechCrunch AI
+- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) — TechCrunch AI
+- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
@@ -46,7 +43,6 @@ _Last updated: 2026-09-26T09:23:54.332187-07:00._
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
-- [2026-08-28](digests/2026-08-28.html)
 
 ## About this site
 
