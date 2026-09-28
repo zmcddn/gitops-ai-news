@@ -1,18 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-27T09:58:25.940763-07:00._
+_Last updated: 2026-09-28T12:40:44.646079-07:00._
 
-[Read the latest digest](digests/2026-09-27.html)
+[Read the latest digest](digests/2026-09-28.html)
 
 ## Latest top links
 
-- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) — The Verge AI
-- [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — TechCrunch AI
-- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) — TechCrunch AI
-- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) — TechCrunch AI
+- [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](https://arxiv.org/abs/2609.30705) — arXiv cs.AI
+- [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) — MIT Technology Review AI
+- [Evaluating Real-Time Voice Agents: From Component Quality to Grounded Outcomes](https://arxiv.org/abs/2609.30798) — arXiv cs.AI
+- [Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms](https://arxiv.org/abs/2609.30940) — arXiv cs.AI
+- [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids) — The Verge AI
+- [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) — arXiv cs.AI
+- [Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents](https://arxiv.org/abs/2609.30293) — arXiv cs.CL
+- [G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation](https://arxiv.org/abs/2609.31009) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
@@ -42,7 +47,6 @@ _Last updated: 2026-09-27T09:58:25.940763-07:00._
 - [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
-- [2026-08-29](digests/2026-08-29.html)
 
 ## About this site
 
