@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-28T12:40:44.646079-07:00._
+_Last updated: 2026-09-29T11:05:03.076926-07:00._
 
-[Read the latest digest](digests/2026-09-28.html)
+[Read the latest digest](digests/2026-09-29.html)
 
 ## Latest top links
 
-- [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](https://arxiv.org/abs/2609.30705) — arXiv cs.AI
-- [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) — MIT Technology Review AI
-- [Evaluating Real-Time Voice Agents: From Component Quality to Grounded Outcomes](https://arxiv.org/abs/2609.30798) — arXiv cs.AI
-- [Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms](https://arxiv.org/abs/2609.30940) — arXiv cs.AI
-- [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids) — The Verge AI
-- [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) — arXiv cs.AI
-- [Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents](https://arxiv.org/abs/2609.30293) — arXiv cs.CL
-- [G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation](https://arxiv.org/abs/2609.31009) — arXiv cs.CL
+- [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) — The Verge AI
+- [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews) — The Verge AI
+- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/) — TechCrunch AI
+- [PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices](https://arxiv.org/abs/2609.30836) — arXiv cs.AI
+- [SkillEvoReg: Regularizing Agent Skill Evolution Against Overfitting](https://arxiv.org/abs/2609.30861) — arXiv cs.AI
+- [MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens](https://arxiv.org/abs/2609.30967) — arXiv cs.AI
+- [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](https://arxiv.org/abs/2609.30489) — arXiv cs.AI
+- [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-28T12:40:44.646079-07:00._
 - [2026-09-02](digests/2026-09-02.html)
 - [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
-- [2026-08-30](digests/2026-08-30.html)
 
 ## About this site
 
