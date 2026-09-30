@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-29T11:05:03.076926-07:00._
+_Last updated: 2026-09-30T10:59:51.852180-07:00._
 
-[Read the latest digest](digests/2026-09-29.html)
+[Read the latest digest](digests/2026-09-30.html)
 
 ## Latest top links
 
-- [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) — The Verge AI
-- [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews) — The Verge AI
-- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/) — TechCrunch AI
-- [PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices](https://arxiv.org/abs/2609.30836) — arXiv cs.AI
-- [SkillEvoReg: Regularizing Agent Skill Evolution Against Overfitting](https://arxiv.org/abs/2609.30861) — arXiv cs.AI
-- [MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens](https://arxiv.org/abs/2609.30967) — arXiv cs.AI
-- [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](https://arxiv.org/abs/2609.30489) — arXiv cs.AI
-- [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/) — TechCrunch AI
+- [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/) — AWS Machine Learning Blog
+- [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/) — AWS Machine Learning Blog
+- [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) — TechCrunch AI
+- [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) — arXiv cs.AI
+- [Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations](https://arxiv.org/abs/2609.36278) — arXiv cs.AI
+- [Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning](https://arxiv.org/abs/2609.36572) — arXiv cs.AI
+- [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) — OpenAI Blog
+- [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-29T11:05:03.076926-07:00._
 - [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
 - [2026-09-01](digests/2026-09-01.html)
-- [2026-08-31](digests/2026-08-31.html)
 
 ## About this site
 
