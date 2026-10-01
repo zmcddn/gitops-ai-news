@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-09-30T10:59:51.852180-07:00._
+_Last updated: 2026-10-01T11:25:13.924284-07:00._
 
-[Read the latest digest](digests/2026-09-30.html)
+[Read the latest digest](digests/2026-10-01.html)
 
 ## Latest top links
 
-- [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/) — AWS Machine Learning Blog
-- [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/) — AWS Machine Learning Blog
-- [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) — TechCrunch AI
-- [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) — arXiv cs.AI
-- [Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations](https://arxiv.org/abs/2609.36278) — arXiv cs.AI
-- [Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning](https://arxiv.org/abs/2609.36572) — arXiv cs.AI
-- [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) — OpenAI Blog
-- [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work) — OpenAI Blog
+- [The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype](https://arxiv.org/abs/2609.39001) — arXiv cs.CL
+- [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) — The Verge AI
+- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) — OpenAI Blog
+- [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle) — The Verge AI
+- [Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts](https://arxiv.org/abs/2609.38670) — arXiv cs.AI
+- [Beyond Text: LLM-Based Dimensional Emotion Evaluation in Multimodal Dialogue](https://arxiv.org/abs/2609.39072) — arXiv cs.CL
+- [Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](https://arxiv.org/abs/2609.38372) — arXiv cs.AI
+- [Demographic Pluralism: Inference-Time Modeling of Pluralistic Human Preference Distributions](https://arxiv.org/abs/2609.38555) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-30T10:59:51.852180-07:00._
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
-- [2026-09-01](digests/2026-09-01.html)
 
 ## About this site
 
