@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-01T11:25:13.924284-07:00._
+_Last updated: 2026-10-02T10:52:29.779958-07:00._
 
-[Read the latest digest](digests/2026-10-01.html)
+[Read the latest digest](digests/2026-10-02.html)
 
 ## Latest top links
 
-- [The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype](https://arxiv.org/abs/2609.39001) — arXiv cs.CL
-- [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) — The Verge AI
-- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) — OpenAI Blog
-- [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle) — The Verge AI
-- [Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts](https://arxiv.org/abs/2609.38670) — arXiv cs.AI
-- [Beyond Text: LLM-Based Dimensional Emotion Evaluation in Multimodal Dialogue](https://arxiv.org/abs/2609.39072) — arXiv cs.CL
-- [Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](https://arxiv.org/abs/2609.38372) — arXiv cs.AI
-- [Demographic Pluralism: Inference-Time Modeling of Pluralistic Human Preference Distributions](https://arxiv.org/abs/2609.38555) — arXiv cs.AI
+- [Finding the Right Fit: Model-Harness Interactions across Agent Tasks](https://arxiv.org/abs/2610.00917) — arXiv cs.AI
+- [PG-SFT: Balancing Capability Acquisition and Retention in Offline Agent Fine-Tuning](https://arxiv.org/abs/2610.00949) — arXiv cs.AI
+- [IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs](https://arxiv.org/abs/2610.00426) — arXiv stat.ML
+- [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/) — TechCrunch AI
+- [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) — OpenAI Blog
+- [Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents](https://arxiv.org/abs/2610.00609) — arXiv cs.AI
+- [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](https://arxiv.org/abs/2610.00025) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-01T11:25:13.924284-07:00._
 - [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
-- [2026-09-02](digests/2026-09-02.html)
 
 ## About this site
 
