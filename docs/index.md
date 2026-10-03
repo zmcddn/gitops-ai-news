@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-02T10:52:29.779958-07:00._
+_Last updated: 2026-10-03T09:18:02.316818-07:00._
 
-[Read the latest digest](digests/2026-10-02.html)
+[Read the latest digest](digests/2026-10-03.html)
 
 ## Latest top links
 
-- [Finding the Right Fit: Model-Harness Interactions across Agent Tasks](https://arxiv.org/abs/2610.00917) — arXiv cs.AI
-- [PG-SFT: Balancing Capability Acquisition and Retention in Offline Agent Fine-Tuning](https://arxiv.org/abs/2610.00949) — arXiv cs.AI
-- [IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs](https://arxiv.org/abs/2610.00426) — arXiv stat.ML
-- [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/) — TechCrunch AI
-- [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) — OpenAI Blog
-- [Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents](https://arxiv.org/abs/2610.00609) — arXiv cs.AI
-- [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](https://arxiv.org/abs/2610.00025) — arXiv cs.AI
+- [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) — The Verge AI
+- [Call it AI, call it Super Intelligence, only 2% of consumers are buying it](https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/) — TechCrunch AI
+- [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent) — The Verge AI
+- [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
+- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) — The Verge AI
+- [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) — MIT Technology Review AI
+- [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — TechCrunch AI
+- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) — Hugging Face Blog
 
 ## Recent digests
 
+- [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-02T10:52:29.779958-07:00._
 - [2026-09-06](digests/2026-09-06.html)
 - [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
-- [2026-09-03](digests/2026-09-03.html)
 
 ## About this site
 
