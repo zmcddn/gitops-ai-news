@@ -1,22 +1,21 @@
 # Daily AI News
 
-_Last updated: 2026-10-03T09:18:02.316818-07:00._
+_Last updated: 2026-10-04T09:52:21.924786-07:00._
 
-[Read the latest digest](digests/2026-10-03.html)
+[Read the latest digest](digests/2026-10-04.html)
 
 ## Latest top links
 
-- [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) — The Verge AI
-- [Call it AI, call it Super Intelligence, only 2% of consumers are buying it](https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/) — TechCrunch AI
-- [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent) — The Verge AI
-- [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) — The Verge AI
-- [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) — MIT Technology Review AI
-- [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — TechCrunch AI
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) — Hugging Face Blog
+- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) — TechCrunch AI
+- [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/) — TechCrunch AI
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face Blog
+- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) — TechCrunch AI
+- [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) — The Verge AI
+- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
@@ -46,7 +45,6 @@ _Last updated: 2026-10-03T09:18:02.316818-07:00._
 - [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
 - [2026-09-05](digests/2026-09-05.html)
-- [2026-09-04](digests/2026-09-04.html)
 
 ## About this site
 
