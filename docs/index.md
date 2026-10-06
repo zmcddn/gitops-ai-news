@@ -1,20 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-04T09:52:21.924786-07:00._
+_Last updated: 2026-10-06T11:22:28.357176-07:00._
 
-[Read the latest digest](digests/2026-10-04.html)
+[Read the latest digest](digests/2026-10-06.html)
 
 ## Latest top links
 
-- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) — TechCrunch AI
-- [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/) — TechCrunch AI
-- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face Blog
-- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) — TechCrunch AI
-- [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) — The Verge AI
-- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) — The Verge AI
+- [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/) — AWS Machine Learning Blog
+- [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/) — TechCrunch AI
+- [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) — OpenAI Blog
+- [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act) — The Verge AI
+- [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) — OpenAI Blog
+- [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/) — AWS Machine Learning Blog
+- [Mistral’s new 1T model aims to leapfrog closed and open rivals](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-06](digests/2026-10-06.html)
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
@@ -44,7 +47,6 @@ _Last updated: 2026-10-04T09:52:21.924786-07:00._
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
-- [2026-09-05](digests/2026-09-05.html)
 
 ## About this site
 
