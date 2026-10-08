@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-07T11:57:14.405260-07:00._
+_Last updated: 2026-10-08T11:50:46.939207-07:00._
 
-[Read the latest digest](digests/2026-10-07.html)
+[Read the latest digest](digests/2026-10-08.html)
 
 ## Latest top links
 
-- [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/) — AWS Machine Learning Blog
-- [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](https://arxiv.org/abs/2610.06910) — arXiv cs.AI
-- [Leveraging a four-quadrant approach for evaluating Redpine Science](https://arxiv.org/abs/2610.07937) — arXiv cs.CL
-- [Large Language Model Orchestration under Heterogeneous Preferences via Explicit Persona Inference](https://arxiv.org/abs/2610.07587) — arXiv cs.CL
-- [How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/) — AWS Machine Learning Blog
-- [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson) — OpenAI Blog
-- [AMBER: Training Long-Horizon Web Agents through Append-Only Memory](https://arxiv.org/abs/2610.07118) — arXiv cs.AI
-- [Cascadia: Resident 975B MoE Inference on Eleven AI PCs](https://arxiv.org/abs/2610.07219) — arXiv cs.AI
+- [ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation](https://arxiv.org/abs/2610.09163) — arXiv cs.CL
+- [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/) — AWS Machine Learning Blog
+- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — TechCrunch AI
+- [Anthropic changes usage policy to ban model abuse and election interference](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/) — TechCrunch AI
+- [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) — TechCrunch AI
+- [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai) — OpenAI Blog
+- [Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise) — The Verge AI
+- [2d-fet-bench: from spatial reasoning to fet design on flakes](https://arxiv.org/abs/2610.07423) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-08](digests/2026-10-08.html)
 - [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-04](digests/2026-10-04.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-07T11:57:14.405260-07:00._
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
-- [2026-09-07](digests/2026-09-07.html)
 
 ## About this site
 
