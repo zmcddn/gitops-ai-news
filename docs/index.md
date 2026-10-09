@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-08T11:50:46.939207-07:00._
+_Last updated: 2026-10-09T11:21:21.607605-07:00._
 
-[Read the latest digest](digests/2026-10-08.html)
+[Read the latest digest](digests/2026-10-09.html)
 
 ## Latest top links
 
-- [ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation](https://arxiv.org/abs/2610.09163) — arXiv cs.CL
-- [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/) — AWS Machine Learning Blog
-- [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) — TechCrunch AI
-- [Anthropic changes usage policy to ban model abuse and election interference](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/) — TechCrunch AI
-- [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) — TechCrunch AI
-- [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai) — OpenAI Blog
-- [Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise) — The Verge AI
-- [2d-fet-bench: from spatial reasoning to fet design on flakes](https://arxiv.org/abs/2610.07423) — arXiv cs.AI
+- [StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents](https://arxiv.org/abs/2610.10942) — arXiv cs.AI
+- [TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation](https://arxiv.org/abs/2610.11678) — arXiv cs.CL
+- [When Citations Mislead? A Claim-Level Benchmark for Legal Hallucination Detection](https://arxiv.org/abs/2610.10971) — arXiv cs.CL
+- [SAIL: Scientific Agentic Intelligence via a Science-Aware Loop](https://arxiv.org/abs/2610.11451) — arXiv cs.CL
+- [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/) — AWS Machine Learning Blog
+- [OpenAI doubles down on decision to fire three AI safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) — The Verge AI
+- [Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice](https://arxiv.org/abs/2610.10590) — arXiv cs.AI
+- [Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents](https://arxiv.org/abs/2610.10635) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-09](digests/2026-10-09.html)
 - [2026-10-08](digests/2026-10-08.html)
 - [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-08T11:50:46.939207-07:00._
 - [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
-- [2026-09-08](digests/2026-09-08.html)
 
 ## About this site
 
