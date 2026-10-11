@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-10T10:20:44.499401-07:00._
+_Last updated: 2026-10-11T10:41:11.906855-07:00._
 
-[Read the latest digest](digests/2026-10-10.html)
+[Read the latest digest](digests/2026-10-11.html)
 
 ## Latest top links
 
-- [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) — The Verge AI
-- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) — OpenAI Blog
-- [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots) — The Verge AI
-- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) — TechCrunch AI
-- [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) — TechCrunch AI
-- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) — The Verge AI
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [Instinct was the buzziest AI agent around — can it survive Muse?](https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots) — The Verge AI
+- [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) — TechCrunch AI
+- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) — The Verge AI
+- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) — TechCrunch AI
+- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) — The Verge AI
+- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) — TechCrunch AI
+- [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) — TechCrunch AI
+- [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) — The Verge AI
+- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
 - [2026-10-09](digests/2026-10-09.html)
 - [2026-10-08](digests/2026-10-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-10T10:20:44.499401-07:00._
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
 - [2026-09-11](digests/2026-09-11.html)
-- [2026-09-10](digests/2026-09-10.html)
 
 ## About this site
 
