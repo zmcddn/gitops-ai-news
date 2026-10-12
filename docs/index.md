@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-11T10:41:11.906855-07:00._
+_Last updated: 2026-10-12T14:16:16.327716-07:00._
 
-[Read the latest digest](digests/2026-10-11.html)
+[Read the latest digest](digests/2026-10-12.html)
 
 ## Latest top links
 
-- [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) — TechCrunch AI
-- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) — The Verge AI
-- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) — TechCrunch AI
-- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) — The Verge AI
-- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) — TechCrunch AI
-- [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) — TechCrunch AI
-- [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) — The Verge AI
-- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) — TechCrunch AI
+- [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) — The Verge AI
+- [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/) — AWS Machine Learning Blog
+- [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
+- [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/) — AWS Machine Learning Blog
+- [MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation](https://arxiv.org/abs/2610.12954) — arXiv cs.AI
+- [Language Models Have Interpretable Narrative Mechanisms](https://arxiv.org/abs/2610.12989) — arXiv cs.CL
+- [DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design](https://arxiv.org/abs/2610.13116) — arXiv cs.AI
+- [Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics](https://arxiv.org/abs/2610.13000) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
 - [2026-10-09](digests/2026-10-09.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-11T10:41:11.906855-07:00._
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
-- [2026-09-11](digests/2026-09-11.html)
 
 ## About this site
 

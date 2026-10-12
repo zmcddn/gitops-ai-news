@@ -1,0 +1,287 @@
+{
+  "digest_date": "2026-10-12",
+  "generated_at": "2026-10-12T14:16:16.327716-07:00",
+  "items": [
+    {
+      "canonical_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "published": "2026-10-12T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "inference",
+        "gpu",
+        "chip"
+      ],
+      "score": 11.9,
+      "source": "The Verge AI",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
+      "published": "2026-10-12T17:52:22+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "inference"
+      ],
+      "score": 10.3,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.",
+      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
+      "published": "2026-10-12T15:51:46+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "llama",
+        "model",
+        "gpu"
+      ],
+      "score": 10.3,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.",
+      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
+      "published": "2026-10-12T15:50:14+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "inference",
+        "gpu"
+      ],
+      "score": 10.3,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.",
+      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12954",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
+        "benchmark"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.12954v1 Announce Type: new Abstract: This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning. The benchmark consists of 512 tasks, each comprising a mathematical statement, a reference diagram, executable TikZ or SVG code, a Gold Intermediate Representation (IR), atomic rubrics, and error codes. Through rigorous evaluation, GPT-6-Astra, Claude Fable 5, and Gemini 3.1 Pro Preview achieve pass@1 scores of 31.25%, 26.56%, and 22.85%, respectively. We found that although the tasks require visualization, LLMs produce outputs dominat…",
+      "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+      "url": "https://arxiv.org/abs/2610.12954"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12989",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "llama",
+        "model",
+        "benchmark"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.12989v1 Announce Type: new Abstract: We investigate whether language models contain internal components that contribute to representing narrativity, the degree to which a text exhibits narrative properties. Across GPT-2-Small, Gemma-2-2B, and Llama-3.1-8B, we identify attention heads, MLP neurons, and sparse autoencoder features whose activations correlate with narrativity. Ablating selected neuron and feature sets increases next-token prediction loss more for high-narrativity than for low-narrativity texts, and reduces the narrativity of open-ended generations. On downstream benchmarks, the largest effects occur in story completi…",
+      "title": "Language Models Have Interpretable Narrative Mechanisms",
+      "url": "https://arxiv.org/abs/2610.12989"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.13116",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research",
+        "security"
+      ],
+      "score": 9.2,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.13116v1 Announce Type: new Abstract: As large language models (LLMs) acquire advanced biological design capabilities, they offer substantial research benefits but simultaneously introduce severe dual-use risks, such as engineering enhanced pathogens or drug-resistant bacteria. While biosecurity frameworks recognize these threats, the actual risk of LLMs executing dangerous biological modifications remains unquantified, particularly when augmented with specialized biological design tools (BDTs). Existing evaluations primarily assess hazardous knowledge possession rather than practical application, overlook risk amplification from B…",
+      "title": "DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design",
+      "url": "https://arxiv.org/abs/2610.13116"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.13000",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.13000v1 Announce Type: new Abstract: Language-model agents are used for specialized work such as financial research, healthcare and law. Such agents are often capable enough for a task but still miss its details. In finance, for example, these details include which filing reports a figure or how a company discloses a metric. Retraining the agent to learn these details is expensive, and often impossible when the agent is a closed or shared system. Writing the missing know-how into the agent's prompt makes the prompt long and identical for every input, although different inputs need different guidance. We propose to learn to generat…",
+      "title": "Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics",
+      "url": "https://arxiv.org/abs/2610.13000"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.13021",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.13021v1 Announce Type: new Abstract: Continual learning requires models to accumulate past experience and transfer it to new tasks. Despite substantial research on continual learning, existing work remains largely confined to non-embodied settings, without extending to embodied environments. To address this gap, we introduce EmbodiedCLBench, the first benchmark in embodied simulation for evaluating the continual learning capability of self-evolving agents. With compositional generalization as the core evaluation principle, our benchmark evaluates whether agents can first learn from basic tasks and then recombine the acquired skill…",
+      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+      "url": "https://arxiv.org/abs/2610.13021"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12601",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply reflective prompt evolution (GEPA) to the two system prompts of a multi-agent deep-research agent and evaluate it under a topic-disjoint split in whi…",
+      "title": "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
+      "url": "https://arxiv.org/abs/2610.12601"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12707",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.12707v1 Announce Type: new Abstract: Vision-language reward models are trained on annotated preference pairs, which are expensive to collect, can disagree, and are ranked by benchmark accuracy. We build one with no human preference label: a linear head on an intermediate layer of a frozen Qwen3-VL backbone, trained to score a web caption above a perturbed version of the same caption; labeled data enters only to select the layer. The layer is the decisive choice, worth 5.8 points over the last layer, and one recipe transferred without re-tuning beats or at least matches GPT-4o on three benchmarks at 32B, 6.6 points ahead on VL-Rewa…",
+      "title": "Unsupervised Multimodal Reward Modeling",
+      "url": "https://arxiv.org/abs/2610.12707"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2510.22809",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training",
+        "machine learning"
+      ],
+      "score": 8.4,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2510.22809v2 Announce Type: replace-cross Abstract: Traditional machine learning relies on explicit models and domain assumptions, often limiting flexibility and interpretability. We introduce a \"model-free\" framework of instance-based learning using surprisal (information theoretic uncertainty) to directly analyze and perform inferences from raw data, eliminating distribution modeling, reducing bias, and enabling efficient updates including direct edits and deletion of training data. By quantifying relevance through uncertainty, the approach enables generalizable inference across tasks including generative inference, causal discovery,…",
+      "title": "A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)",
+      "url": "https://arxiv.org/abs/2510.22809"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12569",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluation time, so no content exists in advance to leak, and its difficulty is set by the participating agents rather than fixed at release. We introduce SWE-Duel, an arena in which two coding agents evaluate each other over mirrored Red-Blue turns. In each turn, the Red agent works on a real repository across three context-isolated sessions. It proposes a…",
+      "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
+      "url": "https://arxiv.org/abs/2610.12569"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "published": "2026-10-12T17:56:56+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "benchmark"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "published": "2026-10-12T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.13768",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training",
+        "privacy"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.13768v1 Announce Type: new Abstract: What can an adversary recover from a model trained with DP-SGD? Its $(\\varepsilon,\\delta)$ guarantee does not answer this question directly. We derive a distortion bound that can be computed before training and applies even to an adversary who observes the parameter trajectory during training, knows every other training record and the population distribution from which the training records are drawn. The analyst may choose the representation in which error is measured, allowing the bound to target the aspects of reconstruction that are privacy-sensitive in a given application. Our information-t…",
+      "title": "From Pixels to Privacy-Sensitive Features: An Information-Theoretic Framework for Reconstruction Bounds",
+      "url": "https://arxiv.org/abs/2610.13768"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2601.14969",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2601.14969v3 Announce Type: replace-cross Abstract: Robust machine learning for regulatory genomics is studied under biologically and technically induced distribution shifts. Deep convolutional and attention based models achieve strong in distribution performance on DNA regulatory sequence prediction tasks but are usually evaluated under i.i.d. assumptions, even though real applications involve cell type specific programs, evolutionary turnover, assay protocol changes, and sequencing artifacts. We introduce a robustness framework that combines a mechanistic simulation benchmark with real data analysis on a massively parallel reporter a…",
+      "title": "Robust Machine Learning for Regulatory Sequence Modeling under Biological and Technical Distribution Shifts",
+      "url": "https://arxiv.org/abs/2601.14969"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.12986",
+      "published": "2026-10-12T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.12986v1 Announce Type: new Abstract: Continuous-time latent state-space models are widely used for irregularly observed time series, typically representing uncertainty through a random initial state followed by smooth ordinary differential equation (ODE) dynamics, or Brownian perturbations accumulated by a stochastic differential equation (SDE). While these constructions are natural for smooth or diffusive systems, they do not directly encode a finite set of unobserved shocks whose timing, magnitude, and effect on memory are themselves uncertain. We instead introduce latent jump models (LJMs): the latent state follows closed-form…",
+      "title": "Scan-Parallel Variational Inference for event-driven Latent Jump Models",
+      "url": "https://arxiv.org/abs/2610.12986"
+    }
+  ]
+}
