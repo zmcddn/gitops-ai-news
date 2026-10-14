@@ -1,0 +1,256 @@
+{
+  "digest_date": "2026-10-14",
+  "generated_at": "2026-10-14T10:10:46.761366-07:00",
+  "items": [
+    {
+      "canonical_url": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14T12:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "agent"
+      ],
+      "score": 11.1,
+      "source": "OpenAI Blog",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding"
+    },
+    {
+      "canonical_url": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14T07:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent",
+        "research",
+        "security"
+      ],
+      "score": 9.3,
+      "source": "OpenAI Blog",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "published": "2026-10-14T15:19:02+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model",
+        "security"
+      ],
+      "score": 7.6,
+      "source": "The Verge AI",
+      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, […]",
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "published": "2026-10-14T16:05:21+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "machine learning",
+        "research"
+      ],
+      "score": 6.7,
+      "source": "The Verge AI",
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "published": "2026-10-14T02:00:14+00:00",
+      "reasons": [
+        "fresh <30h",
+        "deepmind",
+        "model"
+      ],
+      "score": 6.6,
+      "source": "Google DeepMind Blog",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "published": "2026-10-14T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "research"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "published": "2026-10-14T13:58:43+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+      "title": "Generate presentations with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "published": "2026-10-14T13:53:33+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "security"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "2026-10-14T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "published": "2026-10-13T16:01:58+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "robotics"
+      ],
+      "score": 5.4,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "published": "2026-10-14T16:24:07+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart",
+      "published": "2026-10-14T13:14:36+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
+      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/news/singapore-office-opening",
+      "published": "2026-10-14T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 5.2,
+      "source": "Anthropic News",
+      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "published": "2026-10-14T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real […]",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "published": "2026-10-13T19:43:07+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.6,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+      "published": "2026-10-13T16:01:52+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.6,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+      "published": "2026-10-13T23:13:31+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "published": "2026-10-13T20:36:44+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+    }
+  ]
+}

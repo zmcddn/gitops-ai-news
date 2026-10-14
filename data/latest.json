@@ -1,187 +1,114 @@
 {
-  "digest_date": "2026-10-13",
-  "generated_at": "2026-10-13T12:17:28.672968-07:00",
+  "digest_date": "2026-10-14",
+  "generated_at": "2026-10-14T10:10:46.761366-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2610.13184",
-      "published": "2026-10-13T04:00:00+00:00",
+      "canonical_url": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14T12:00:00+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
+        "openai",
+        "gpt",
         "model",
-        "benchmark",
-        "training",
-        "multimodal"
+        "agent"
       ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.13184v1 Announce Type: new Abstract: While reinforcement learning with verifiable reward (RLVR) enhances reasoning in large language models, its efficacy in long-horizon multimodal tasks remains underexplored. Visual Sudoku puzzles pose a representative challenge, requiring multi-step deductive reasoning over both local constraints and global dependency chains. To this end, we introduce FG-Sudoku, a fine-grained benchmark categorized by grid size and required deductive steps. Evaluations reveal that frontier MLLMs fail on complex long-range dependencies (e.g., 9*9 puzzles). During post-training, this near-zero success rate causes…",
-      "title": "AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning",
-      "url": "https://arxiv.org/abs/2610.13184"
+      "score": 11.1,
+      "source": "OpenAI Blog",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "canonical_url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "published": "2026-10-13T15:12:59+00:00",
+      "canonical_url": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14T07:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent",
+        "research",
+        "security"
+      ],
+      "score": 9.3,
+      "source": "OpenAI Blog",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "published": "2026-10-14T15:19:02+00:00",
       "reasons": [
         "fresh <12h",
         "anthropic",
-        "claude",
-        "developer"
+        "model",
+        "security"
       ],
       "score": 7.6,
       "source": "The Verge AI",
-      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game. According […]",
-      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, […]",
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.12596",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the Spire (StS), where early decisions decide long-term success. Across 20 large language models (LLMs) at the game's highest difficulty, frontier models beat heuristic baselines and match the average human player but remain far behind experts. This gap wi…",
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "url": "https://arxiv.org/abs/2610.12596"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.12975",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing agents against personas programmed to resist and challenge across conversations of up to twenty turns. The benchmark includes five agent profiles, twelve buyer personas, fifteen smartphone products across six price tiers, and four controlled experim…",
-      "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
-      "url": "https://arxiv.org/abs/2610.12975"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.13267",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.13267v1 Announce Type: new Abstract: Large language model (LLM) agents are highly vulnerable to memory-poisoning attacks. Existing defenses primarily rely on external modules for either static memory isolation or continuous online auditing, resulting in low memory efficiency and high computational overhead. To address these limitations, inspired by neuroscientific mechanisms that weak reactivation can destabilize memories and induce decay in the absence of reinforcement, we propose an agent-intrinsic training-free memory repair framework, DREAM (Dynamic Reactivation for Engram Attenuation in Memory), that enables selective functio…",
-      "title": "Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents",
-      "url": "https://arxiv.org/abs/2610.13267"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.12582",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.12582v1 Announce Type: new Abstract: A latent recurrent language model applies a shared block of layers repeatedly, so one checkpoint can trade inference compute for accuracy by changing the loop count. At one loop, however, such models typically fall well short of a non-recurrent model of the same size, a one-loop tax that makes a separate non-recurrent model the better choice whenever latency matters. We present Elastic Latent Recurrence (ELR), a recipe for training looped language models without this tax. At one loop, an ELR model costs the same to serve as a non-recurrent model of the same size and, trained on the same data, r…",
-      "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
-      "url": "https://arxiv.org/abs/2610.12582"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.12757",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent",
-        "benchmark",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.12757v1 Announce Type: new Abstract: Task-oriented conversational agents remain fragile under realistic conditions, especially when users exhibit non-cooperative behavior. Existing function-calling benchmarks underrepresent adversarial conversation trajectories, thereby limiting the training resources available for developing robust agents. We present MADS (Multi-Agent Dialog Simulation), a synthetic data generation pipeline that produces structured, diverse dialogue trajectories. We inject adversarial conversation, producing validated conversation trajectories that capture realistic, unhappy paths. Using MADS, we construct MADS-B…",
-      "title": "MADS: Multi-Agent Dialog Simulation for Robust Conversational Agents",
-      "url": "https://arxiv.org/abs/2610.12757"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.12998",
-      "published": "2026-10-13T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.12998v1 Announce Type: new Abstract: Creativity benchmarks for large language models (LLMs) vary widely in task and metric design. This raises the question of whether they capture a common notion of creativity. We propose that this shared target can be formalized as task-specific performance in the long tail of a reference input-output distribution, which describes how common input-output pairs are relative to a chosen source of text. We ground this proposition in the novelty-quality product formulation and evaluate it empirically across 15 benchmarks and 26 open-weight models, using n-gram absence from the pretraining data as a n…",
-      "title": "Evaluating LLM Creativity through Long-Tail Performance",
-      "url": "https://arxiv.org/abs/2610.12998"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai",
-      "published": "2026-10-13T15:17:09+00:00",
+      "canonical_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "published": "2026-10-14T16:05:21+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "gpu"
+        "machine learning",
+        "research"
       ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Time to First Token on H200 GPUs.",
-      "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "published": "2026-10-13T16:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini",
-        "model"
-      ],
-      "score": 6.8,
+      "score": 6.7,
       "source": "The Verge AI",
-      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that […]",
-      "title": "Google finally releases Gemini 4 Argon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
-      "published": "2026-10-13T10:00:00+00:00",
+      "canonical_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "published": "2026-10-14T02:00:14+00:00",
       "reasons": [
-        "fresh <12h",
-        "anthropic",
+        "fresh <30h",
+        "deepmind",
         "model"
       ],
-      "score": 6.8,
-      "source": "MIT Technology Review AI",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+      "score": 6.6,
+      "source": "Google DeepMind Blog",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-      "published": "2026-10-13T17:30:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "published": "2026-10-14T15:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "agent",
-        "startup"
+        "research"
       ],
       "score": 6.0,
       "source": "TechCrunch AI",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock",
-      "published": "2026-10-13T16:03:31+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "published": "2026-10-14T13:58:43+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+      "title": "Generate presentations with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "published": "2026-10-14T13:53:33+00:00",
       "reasons": [
         "fresh <12h",
         "agent",
@@ -189,76 +116,141 @@
       ],
       "score": 6.0,
       "source": "AWS Machine Learning Blog",
-      "summary": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.",
-      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/"
+      "summary": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
     },
     {
-      "canonical_url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "2026-10-13T12:00:00+00:00",
+      "canonical_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "2026-10-14T00:00:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "gpt"
+        "fresh <30h",
+        "agent",
+        "enterprise"
       ],
       "score": 6.0,
       "source": "OpenAI Blog",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
-      "published": "2026-10-13T09:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "startup"
-      ],
-      "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.12545",
-      "published": "2026-10-13T04:00:00+00:00",
+      "canonical_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "published": "2026-10-13T16:01:58+00:00",
       "reasons": [
         "fresh <30h",
-        "model",
-        "training"
+        "gemini",
+        "robotics"
       ],
-      "score": 5.9,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.12545v1 Announce Type: new Abstract: Autoregressive decoding is less suited to non-causally ordered data, e.g., cross-references or future dependencies, since their outputs cannot be revised post hoc, unlike iterative human reasoning. Diffusion LLMs partially mitigate this limitation but still cannot flexibly insert or remove arbitrary numbers of tokens from a pre-generated context. We design AutoIndexer as a generative model with a novel training and decoding mechanism that simulates a Chain of Edits, allowing the model to flexibly modify its prior outputs in hindsight via token insertions, substitutions, and deletions. The model…",
-      "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
-      "url": "https://arxiv.org/abs/2610.12545"
+      "score": 5.4,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
     },
     {
-      "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "published": "2026-10-13T16:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "published": "2026-10-14T16:24:07+00:00",
       "reasons": [
         "fresh <12h",
-        "gemini"
+        "agent"
       ],
-      "score": 5.7,
-      "source": "Google AI Blog",
-      "summary": "TBD",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
-      "published": "2026-10-13T17:17:25+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart",
+      "published": "2026-10-14T13:14:36+00:00",
       "reasons": [
         "fresh <12h",
         "model"
       ],
       "score": 5.2,
       "source": "AWS Machine Learning Blog",
-      "summary": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.",
-      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/"
+      "summary": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
+      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/news/singapore-office-opening",
+      "published": "2026-10-14T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 5.2,
+      "source": "Anthropic News",
+      "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "published": "2026-10-14T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real […]",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "published": "2026-10-13T19:43:07+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.6,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+      "published": "2026-10-13T16:01:52+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.6,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+      "published": "2026-10-13T23:13:31+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "published": "2026-10-13T20:36:44+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
     }
   ]
 }

@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-13T12:17:28.672968-07:00._
+_Last updated: 2026-10-14T10:10:46.761366-07:00._
 
-[Read the latest digest](digests/2026-10-13.html)
+[Read the latest digest](digests/2026-10-14.html)
 
 ## Latest top links
 
-- [AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning](https://arxiv.org/abs/2610.13184) — arXiv cs.AI
-- [Epic shifts to ‘AI-accelerated development’ for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art) — The Verge AI
-- [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](https://arxiv.org/abs/2610.12596) — arXiv cs.AI
-- [SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents](https://arxiv.org/abs/2610.12975) — arXiv cs.AI
-- [Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents](https://arxiv.org/abs/2610.13267) — arXiv cs.AI
-- [One Model to Loop Them All: Elastic Latent Recurrence for Language Models](https://arxiv.org/abs/2610.12582) — arXiv cs.CL
-- [MADS: Multi-Agent Dialog Simulation for Robust Conversational Agents](https://arxiv.org/abs/2610.12757) — arXiv cs.CL
-- [Evaluating LLM Creativity through Long-Tail Performance](https://arxiv.org/abs/2610.12998) — arXiv cs.CL
+- [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) — OpenAI Blog
+- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) — OpenAI Blog
+- [Anthropic’s self-replicating AI warning is alarming deja vu](https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk) — The Verge AI
+- [Microsoft has a new machine learning tool to improve weather forecasts](https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft) — The Verge AI
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) — Google DeepMind Blog
+- [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/) — TechCrunch AI
+- [Generate presentations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-13T12:17:28.672968-07:00._
 - [2026-09-16](digests/2026-09-16.html)
 - [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
-- [2026-09-13](digests/2026-09-13.html)
 
 ## About this site
 
