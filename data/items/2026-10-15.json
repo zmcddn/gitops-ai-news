@@ -1,0 +1,273 @@
+{
+  "digest_date": "2026-10-15",
+  "generated_at": "2026-10-15T10:01:03.469526-07:00",
+  "items": [
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.14818",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "research",
+        "security",
+        "enterprise"
+      ],
+      "score": 10.0,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.14818v1 Announce Type: new Abstract: Agentic AI moves generative AI applications toward systems that coordinate reasoning, enterprise context, model inference, and external actions. Integrating these capabilities into enterprise software introduces diverse architectural concerns, from orchestration, knowledge and memory, and model access to tools and actions, security, runtime infrastructure, and evaluation. Existing research and industry architectures address many of these concerns but differ in scope, abstraction, responsibility organization, interaction representation, and assumptions about which capabilities are required. This…",
+      "title": "A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability",
+      "url": "https://arxiv.org/abs/2610.14818"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.14389",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "inference",
+        "gpu"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware platforms ranging from a consumer GPU to an eight-GPU server. We find large differences in energy efficiency even among models with similar capability. Most configurations lie away from the score--energy Pareto frontier: they use a median of 2.6--4.8$\\times$ more energy than another configuration that scores at least as well, with differences reaching 27$\\times$. Reason…",
+      "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
+      "url": "https://arxiv.org/abs/2610.14389"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.14576",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.14576v1 Announce Type: new Abstract: As frontier LLMs gain more capabilities, the cost to run them also goes up. At the same time, small language models (SLMs) also gain more capabilities but have largely been able to keep their cost stable, offering 5-40 times cheaper inference for the narrow, repetitive subtasks that agents decompose work into. However, the standing limiting factor is getting the correct behavior out of a small model in a fast, efficient, and economical way. Unfortunately, in most cases, zero-shot small models fail narrow production tasks. Furthermore, retraining one every time the behavior changes is too slow t…",
+      "title": "Iterate on an LLM, Serve on an SLM",
+      "url": "https://arxiv.org/abs/2610.14576"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.14774",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.14774v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly expected to orchestrate diverse tools over long-horizon tasks. Existing agents typically use Direct Tool Calling (DTC), where the model invokes tools sequentially, and tool responses accumulate in the model context, which can lead to context rot and orchestration breakdown. In contrast, Programmatic Tool Calling (PTC) invokes tools through executable code and stores intermediate results in runtime variables rather than appending them to the context. Prior work has explored PTC mainly as an inference-time optimization, but its benefits for agentic tr…",
+      "title": "ProgAgent: Learning Tool Orchestration through Programmatic Training",
+      "url": "https://arxiv.org/abs/2610.14774"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.19048",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.19048v1 Announce Type: new Abstract: Record linkage and demographic inference from names are routine demands in social science. Most approaches to these problems require labeled training data that are difficult or costly to acquire. I show that pre-trained language models perform both tasks accurately without requiring task-specific training. For record linkage, I introduce EnsembleLink, an algorithm that uses pre-trained embeddings alongside string-based scorers to retrieve a short list of candidates and then identify the likeliest matches. EnsembleLink matches or exceeds the performance of most prior approaches while generalizin…",
+      "title": "Pre-Trained Language Models as Zero-Shot Tools for Social Science Research",
+      "url": "https://arxiv.org/abs/2610.19048"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "published": "2026-10-14T19:06:03+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "anthropic",
+        "model"
+      ],
+      "score": 7.7,
+      "source": "The Verge AI",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
+      "title": "The AI race is back on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.18881",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.18881v1 Announce Type: new Abstract: Voice agents built on large language models (LLMs) now handle customer calls, but in regulated applications completing the task is not enough: the agent must follow a conversational flow set by law. In debt collection, it must confirm it is speaking to the debtor before mentioning the debt, identify itself and the creditor, state the amount, and avoid prohibited language. Every creditor turns these rules into its own procedure and revises it. We ask whether a small, self-hosted policy can be trained once and then follow regulated procedures it has never seen. One machine-readable specification…",
+      "title": "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection",
+      "url": "https://arxiv.org/abs/2610.18881"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.19185",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.19185v1 Announce Type: new Abstract: Evaluation of large language models (LLMs) remains largely pre-scientific: it involves many design decisions, with little guidance on how to make them. These choices can substantially affect measured performance and, consequently, decisions about subsequent pretraining. To identify effective evaluation setups, we investigate 8 aspects, such as task formulation or the number of in-context examples. We compare the setups using three widely-used signal criteria, repurposed as normative meta-measures: monotonicity, non-randomness, and ranking consistency of the evaluation scores across intermediate…",
+      "title": "How to Evaluate When You Don't Know How to Evaluate? Choosing Reliable Setups for Base Language Model Benchmarking",
+      "url": "https://arxiv.org/abs/2610.19185"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.19210",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.19210v1 Announce Type: new Abstract: Transformers are efficient to pre-train at scale because attention permits parallel computation across sequence positions, but long-context inference requires increasingly large KV caches. Efficient recurrent alternatives reduce the asymptotic complexity of inference, but their sequential dependence limits token-wise parallelism during training, making them harder to scale. Further, the current paradigm of extending long context tasks creates competing notions of retaining information precisely and keeping long-context inference efficient. To address this gap, we introduce Titan-Llama, a post-t…",
+      "title": "Titan-Llama: Retrofitting Pre-trained LLMs with External Neural Memory Modules",
+      "url": "https://arxiv.org/abs/2610.19210"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2410.19371",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "privacy"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2410.19371v4 Announce Type: replace Abstract: Differential privacy (DP) provides robust privacy guarantees for statistical inference, but this can lead to unreliable results and biases in downstream applications. While several noise-aware approaches have been proposed which integrate DP perturbation into the inference, they are limited to specific types of simple probabilistic models. In this work, we propose a novel method for noise-aware approximate Bayesian inference based on stochastic gradient variational inference which can also be applied to high-dimensional and non-conjugate models. We also propose a more accurate evaluation me…",
+      "title": "Noise-Aware Differentially Private Variational Inference",
+      "url": "https://arxiv.org/abs/2410.19371"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "published": "2026-10-15T15:05:35+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the decisions that need it.",
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "published": "2026-10-14T21:11:28+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "gpt"
+      ],
+      "score": 6.0,
+      "source": "The Verge AI",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.18945",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.18945v1 Announce Type: new Abstract: Amortized Bayesian inference uses simulations to perform Bayesian estimation when likelihoods are expensive or analytically unavailable. However, learning the full joint posterior is challenging in high-dimensional models with complex dependencies. We introduce a semi-amortized method that divides parameters into smaller blocks, and uses conditional independence to identify the information needed to infer each block. We train neural estimators for blocks whose posterior updates are computationally expensive or frequently repeated. Each estimator learns from simulations of the relevant model com…",
+      "title": "Semi-Amortized Bayesian Inference with Reusable Local Posteriors",
+      "url": "https://arxiv.org/abs/2610.18945"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.19781",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.19781v1 Announce Type: new Abstract: We introduce SNACK, a string representation for probabilistic graph generation that enables sequence models to generate and model graphs with discrete node and edge features. SNACK linearizes graphs by encoding the nonzero entries of the lower-triangular adjacency matrix, establishing a bijective correspondence between valid sequences and ordered adjacency matrices. This design enables invalid logit masking to enforce structural constraints--such as chemical valence and ordering rules--guaranteeing 100% valid generated sequences. SNACK also enables principled string-based GFlowNet training by e…",
+      "title": "SNACK: A Sequential Notation Framework for Probabilistic Graph Generation",
+      "url": "https://arxiv.org/abs/2610.19781"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.19811",
+      "published": "2026-10-15T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.19811v1 Announce Type: new Abstract: LLM workflows and agents rely on a set of binary decisions like allow/block an input, or discard/retain a retrieved document. When human deferral is unavailable, uncertain cases must still receive an action. We study System One decision scores in this setting by defaulting to a conservative fallback when uncertain, and controlling the false omission risk within the subset of inputs assigned the utility-maximizing action. Across six datasets covering moderation, safety, and reranking, we compare general System One models with task baselines and a local open-weights fine-tuned System One model. W…",
+      "title": "Calibration and Risk-Budgeted Decisions with System One Models",
+      "url": "https://arxiv.org/abs/2610.19811"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
+      "published": "2026-10-15T15:02:36+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
+      "published": "2026-10-15T14:29:33+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+      "published": "2026-10-15T01:01:32+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip",
+        "startup"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+    }
+  ]
+}
