@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-15T10:01:03.469526-07:00._
+_Last updated: 2026-10-16T09:39:43.780432-07:00._
 
-[Read the latest digest](digests/2026-10-15.html)
+[Read the latest digest](digests/2026-10-16.html)
 
 ## Latest top links
 
-- [A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability](https://arxiv.org/abs/2610.14818) — arXiv cs.AI
-- [Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware](https://arxiv.org/abs/2610.14389) — arXiv cs.AI
-- [Iterate on an LLM, Serve on an SLM](https://arxiv.org/abs/2610.14576) — arXiv cs.AI
-- [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://arxiv.org/abs/2610.14774) — arXiv cs.AI
-- [Pre-Trained Language Models as Zero-Shot Tools for Social Science Research](https://arxiv.org/abs/2610.19048) — arXiv cs.CL
-- [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) — The Verge AI
-- [Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection](https://arxiv.org/abs/2610.18881) — arXiv cs.CL
-- [How to Evaluate When You Don't Know How to Evaluate? Choosing Reliable Setups for Base Language Model Benchmarking](https://arxiv.org/abs/2610.19185) — arXiv cs.CL
+- [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/) — AWS Machine Learning Blog
+- [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) — arXiv cs.AI
+- [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) — arXiv cs.AI
+- [OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics](https://arxiv.org/abs/2610.21074) — arXiv cs.AI
+- [Sci$\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) — arXiv cs.AI
+- [MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis](https://arxiv.org/abs/2610.20632) — arXiv cs.CL
+- [ToolBottleneckBench: Measuring Tool-Agent Performance under Controlled Pressures and Fixed Harness Budgets](https://arxiv.org/abs/2610.21098) — arXiv cs.CL
+- [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-15T10:01:03.469526-07:00._
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
 - [2026-09-16](digests/2026-09-16.html)
-- [2026-09-15](digests/2026-09-15.html)
 
 ## About this site
 
