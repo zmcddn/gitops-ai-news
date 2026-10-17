@@ -1,281 +1,150 @@
 {
-  "digest_date": "2026-10-16",
-  "generated_at": "2026-10-16T09:39:43.780432-07:00",
+  "digest_date": "2026-10-17",
+  "generated_at": "2026-10-17T08:35:20.019626-07:00",
   "items": [
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
-      "published": "2026-10-16T15:23:10+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "published": "2026-10-17T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "model",
-        "agent",
-        "inference",
-        "gpu"
+        "openai",
+        "agent"
       ],
-      "score": 10.3,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure.",
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/"
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.21055",
-      "published": "2026-10-16T04:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "published": "2026-10-16T21:22:28+00:00",
       "reasons": [
         "fresh <30h",
-        "model",
-        "agent",
-        "training",
-        "gpu",
-        "research"
-      ],
-      "score": 10.1,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.21055v1 Announce Type: new Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with public data, as a test of their research potential. We build Athanor, an open agent-native system for autonomous post-training research (AutoPostTrain) on real GPUs. We give the agents full research autonomy, low-friction engineering tools, and efficient starter code. The agents carry out the research themselves: they read datasets and evaluation results, build their tr…",
-      "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
-      "url": "https://arxiv.org/abs/2610.21055"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.20665",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "model",
-        "agent",
-        "inference"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they keep running. We propose Two-Timescale Offline Recursive Self-Improvement (TORSI): a slow teacher studies failures and tests corrections in paused games…",
-      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "url": "https://arxiv.org/abs/2610.20665"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21074",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We present OmicsBench, a long-horizon, multi-turn bioinformatics benchmark for AI agents. Each of its 97 tasks links dependent subtasks into a directed acyclic graph, for 662 underlying subtasks in all. Each subtask is posed as one user turn and graded deterministically against an answer key, with optional in-context feedback on incorrect answers. Across 12 models on t…",
-      "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
-      "url": "https://arxiv.org/abs/2610.21074"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21082",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended and depend on project context. We construct Sci$\\Pi$vot, a 248-case benchmark of scientific judgment based on human corrections. The benchmark draws on records from six months of research in which senior researchers ran LLM agents on 26 projects across six scientific fields and repeatedly intervened to correct the agents' researc…",
-      "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-      "url": "https://arxiv.org/abs/2610.21082"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.20632",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gemini",
-        "llama",
-        "model",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.20632v1 Announce Type: new Abstract: Modern healthcare generates increasingly complex medical reports that challenge clinical professionals in terms of time and interpretive burden. Manual review processes are slow, error-prone, and difficult to scale. This paper presents MeddeX, a Medical Report Analyzer that combines a QLoRA fine-tuned LLaMA-3 (8B) model with Retrieval-Augmented Gen eration (RAG) and a multimodal Gemini Vision layer to deliver accurate, concise, and evidence-backed summaries of medical documents. The system handles text-native PDFs, scanned image based PDFs, and direct radiological images through an intelligent…",
-      "title": "MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis",
-      "url": "https://arxiv.org/abs/2610.20632"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21098",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "enterprise"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.21098v1 Announce Type: new Abstract: The success score of a tool agent reflects both its model and the budgets of the harness that runs it. We present ToolBottleneckBench, a benchmark that measures tool-agent performance under controlled pressures and fixed harness budgets. Synthetic enterprise tasks stay fixed while one pressure varies: the registered tool catalog, the visible tool menu, the certified workflow, or the encoding of returned records. An exact grader records the first unmet obligation of each failed episode and the harness limit, if any, that ended it. Across 21 model and harness configurations, the visible menu is t…",
-      "title": "ToolBottleneckBench: Measuring Tool-Agent Performance under Controlled Pressures and Fixed Harness Budgets",
-      "url": "https://arxiv.org/abs/2610.21098"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-      "published": "2026-10-16T16:30:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "model",
-        "robotics"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.20628",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.20628v1 Announce Type: new Abstract: Multi-agent systems (MAS) based on large language models (LLMs) have become a powerful way to address complex problems, and their effectiveness depends critically on the collaboration topology that decides which agents participate and how they communicate. Recent work learns to generate this topology from the task query, fitting the generator to corpora of execution-verified graphs. The post-training method for such generators remains a limitation: a corpus lists the graphs that solved a query but never ranks them, leaving continued supervised fine-tuning (SFT) with no per-query preference to e…",
-      "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
-      "url": "https://arxiv.org/abs/2610.20628"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21165",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "inference"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.21165v1 Announce Type: new Abstract: Long-context capability has become essential for large language models (LLMs) to handle complex tasks, yet continuously expanding the context window does not remove the computational, storage, and information-selection pressures incurred at inference time. Existing work on prompt compression, KV-cache management, efficient serving, retrieval augmentation, and agent memory is usually discussed in isolation, leaving the flow of information between storage and computation insufficiently understood. This survey reframes long-context compression as a memory-management problem for allocating inferenc…",
-      "title": "From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models",
-      "url": "https://arxiv.org/abs/2610.21165"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21061",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.21061v1 Announce Type: new Abstract: Discrete diffusion models have become a powerful framework for modeling complex discrete distributions across a range of applications. While theoretical convergence guarantees depend on consistency between the target and training distributions, such a case rarely holds in practice, making score mismatch a central challenge in discrete diffusion sampling. This is particularly relevant to zero-shot conditional generation, where a model trained on the unconditional distribution is directly reused at inference time to sample from a conditional target distribution. In this paper, we provide the firs…",
-      "title": "Score Mismatch and Set-Constrained Sampling in Zero-Shot Conditional Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.21061"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2512.20685",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2512.20685v5 Announce Type: replace Abstract: Diffusion models have recently emerged as powerful learners for simulation-based inference (SBI), enabling fast and accurate estimation of latent parameters from simulated and real data. Their score-based formulation offers a flexible way to learn conditional or joint distributions over parameters and observations, thereby providing a versatile solution to various modeling problems. In this tutorial review, we synthesize recent developments on diffusion models for SBI, covering design choices for training, inference, and evaluation. We highlight opportunities created by various concepts suc…",
-      "title": "Diffusion Models in Simulation-Based Inference: A Tutorial Review",
-      "url": "https://arxiv.org/abs/2512.20685"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "published": "2026-10-16T16:01:37+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "model"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
-      "published": "2026-10-15T19:14:26+00:00",
-      "reasons": [
-        "fresh <30h",
-        "anthropic",
-        "model",
-        "research"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.21360",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "machine learning"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.21360v1 Announce Type: cross Abstract: Selecting covariates while controlling the false discovery rate (FDR) is critical for interpretable scientific discovery, especially with complex machine learning models. Traditional variable selection methods often rely on specific model assumptions, while Model-X knockoffs provide a general way that leverages knowledge of the covariate distribution to produce a variable selection algorithm. This study puts forward a complementary method to Model-X knockoffs, named Model-Agnostic Selection with agent-X importance (MAS), which utilizes the sample-splitting strategy and a novel variable import…",
-      "title": "Controlling the False Discovery Rate via Model-Agnostic Importance Measures",
-      "url": "https://arxiv.org/abs/2610.21360"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2311.01994",
-      "published": "2026-10-16T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "training",
-        "machine learning"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2311.01994v2 Announce Type: replace Abstract: Building explainable machine learning models is crucial for human users to be able to interpret the proposed statistical relationship obtained from the training data. Mixed-integer optimization formulations are often used to train such models with explicit sparsity constraints, aiming to strike the right trade-off between sparsity and prediction accuracy. Existing methods to find the right choice of sparsity -- e.g., via cross-validation -- are computationally expensive. For convex model training formulations, recent advances in distributionally robust optimization (DRO) provide strong gene…",
-      "title": "Distributionally Robust Regularization of Sparse Integer Programming Trained Learning Models",
-      "url": "https://arxiv.org/abs/2311.01994"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
-      "published": "2026-10-15T17:43:35+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference"
+        "openai",
+        "anthropic"
       ],
       "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/"
+      "source": "TechCrunch AI",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
-      "canonical_url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-      "published": "2026-10-16T16:30:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+      "published": "2026-10-16T14:00:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "model",
-        "robotics"
+        "fresh <30h",
+        "chip",
+        "startup"
       ],
-      "score": 6.0,
+      "score": 5.2,
       "source": "TechCrunch AI",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
+      "published": "2026-10-16T20:48:16+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+      "published": "2026-10-16T17:52:24+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+      "published": "2026-10-16T15:33:49+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "published": "2026-10-16T18:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model"
+      ],
+      "score": 4.3,
+      "source": "MIT Technology Review AI",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "published": "2026-10-16T15:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip"
+      ],
+      "score": 4.3,
+      "source": "The Verge AI",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    },
+    {
+      "canonical_url": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16T19:00:00+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 3.5,
+      "source": "OpenAI Blog",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "published": "2026-10-17T15:04:36+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "published": "2026-10-16T14:02:40+00:00",
+      "reasons": [
+        "fresh <30h",
+        "research"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
     }
   ]
 }

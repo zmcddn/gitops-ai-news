@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-16T09:39:43.780432-07:00._
+_Last updated: 2026-10-17T08:35:20.019626-07:00._
 
-[Read the latest digest](digests/2026-10-16.html)
+[Read the latest digest](digests/2026-10-17.html)
 
 ## Latest top links
 
-- [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/) — AWS Machine Learning Blog
-- [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) — arXiv cs.AI
-- [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) — arXiv cs.AI
-- [OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics](https://arxiv.org/abs/2610.21074) — arXiv cs.AI
-- [Sci$\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) — arXiv cs.AI
-- [MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis](https://arxiv.org/abs/2610.20632) — arXiv cs.CL
-- [ToolBottleneckBench: Measuring Tool-Agent Performance under Controlled Pressures and Fixed Harness Budgets](https://arxiv.org/abs/2610.21098) — arXiv cs.CL
-- [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) — TechCrunch AI
+- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) — The Verge AI
+- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
+- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — TechCrunch AI
+- [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) — TechCrunch AI
+- [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/) — TechCrunch AI
+- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) — MIT Technology Review AI
+- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-16T09:39:43.780432-07:00._
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
-- [2026-09-16](digests/2026-09-16.html)
 
 ## About this site
 
