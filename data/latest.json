@@ -1,150 +1,48 @@
 {
-  "digest_date": "2026-10-17",
-  "generated_at": "2026-10-17T08:35:20.019626-07:00",
+  "digest_date": "2026-10-18",
+  "generated_at": "2026-10-18T08:52:14.274179-07:00",
   "items": [
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "published": "2026-10-17T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "agent"
-      ],
-      "score": 6.8,
-      "source": "The Verge AI",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "published": "2026-10-16T21:22:28+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "published": "2026-10-17T18:48:08+00:00",
       "reasons": [
         "fresh <30h",
         "openai",
+        "anthropic",
+        "claude",
+        "model"
+      ],
+      "score": 9.5,
+      "source": "TechCrunch AI",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "published": "2026-10-17T21:31:32+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "published": "2026-10-17T20:21:19+00:00",
+      "reasons": [
+        "fresh <30h",
         "anthropic"
       ],
-      "score": 6.1,
-      "source": "TechCrunch AI",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
-      "published": "2026-10-16T14:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "chip",
-        "startup"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
-      "published": "2026-10-16T20:48:16+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent"
-      ],
-      "score": 4.4,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-      "published": "2026-10-16T17:52:24+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent"
-      ],
       "score": 4.4,
       "source": "TechCrunch AI",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-      "published": "2026-10-16T15:33:49+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model"
-      ],
-      "score": 4.4,
-      "source": "TechCrunch AI",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
-      "published": "2026-10-16T18:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model"
-      ],
-      "score": 4.3,
-      "source": "MIT Technology Review AI",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "published": "2026-10-16T15:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "chip"
-      ],
-      "score": 4.3,
-      "source": "The Verge AI",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
-    },
-    {
-      "canonical_url": "https://openai.com/index/itau-generative-ai",
-      "published": "2026-10-16T19:00:00+00:00",
-      "reasons": [
-        "fresh <30h"
-      ],
-      "score": 3.5,
-      "source": "OpenAI Blog",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "published": "2026-10-17T15:04:36+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "published": "2026-10-16T14:02:40+00:00",
-      "reasons": [
-        "fresh <30h",
-        "research"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
     }
   ]
 }

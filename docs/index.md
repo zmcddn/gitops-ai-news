@@ -1,22 +1,18 @@
 # Daily AI News
 
-_Last updated: 2026-10-17T08:35:20.019626-07:00._
+_Last updated: 2026-10-18T08:52:14.274179-07:00._
 
-[Read the latest digest](digests/2026-10-17.html)
+[Read the latest digest](digests/2026-10-18.html)
 
 ## Latest top links
 
-- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) — The Verge AI
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
-- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — TechCrunch AI
-- [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) — TechCrunch AI
-- [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/) — TechCrunch AI
-- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) — MIT Technology Review AI
-- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) — The Verge AI
+- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
+- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch AI
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
@@ -46,7 +42,6 @@ _Last updated: 2026-10-17T08:35:20.019626-07:00._
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
-- [2026-09-17](digests/2026-09-17.html)
 
 ## About this site
 
