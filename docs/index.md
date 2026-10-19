@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-18T08:52:14.274179-07:00._
+_Last updated: 2026-10-19T11:43:04.582862-07:00._
 
-[Read the latest digest](digests/2026-10-18.html)
+[Read the latest digest](digests/2026-10-19.html)
 
 ## Latest top links
 
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch AI
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — TechCrunch AI
+- [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408) — arXiv cs.AI
+- [Harness-Delta Attribution: Dissecting Gains From Harness Evolution](https://arxiv.org/abs/2610.22466) — arXiv cs.AI
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) — arXiv cs.AI
+- [A Plausible Explanation Is Enough to Mislead Multimodal Judges](https://arxiv.org/abs/2610.22631) — arXiv cs.CL
+- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/) — TechCrunch AI
+- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) — MIT Technology Review AI
+- [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](https://arxiv.org/abs/2610.22373) — arXiv cs.AI
+- [AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems](https://arxiv.org/abs/2610.22511) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-10-18T08:52:14.274179-07:00._
 - [2026-09-21](digests/2026-09-21.html)
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
-- [2026-09-18](digests/2026-09-18.html)
 
 ## About this site
 
