@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-20T10:05:29.151364-07:00._
+_Last updated: 2026-10-21T10:12:29.078295-07:00._
 
-[Read the latest digest](digests/2026-10-20.html)
+[Read the latest digest](digests/2026-10-21.html)
 
 ## Latest top links
 
-- [Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/) — AWS Machine Learning Blog
-- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) — TechCrunch AI
-- [Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) — MIT Technology Review AI
-- [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/) — TechCrunch AI
-- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) — OpenAI Blog
+- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — OpenAI Blog
+- [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) — arXiv cs.AI
+- [Evaluating Context Compaction on the Questions That Come Later](https://arxiv.org/abs/2610.27301) — arXiv cs.CL
+- [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/) — AWS Machine Learning Blog
+- [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) — The Verge AI
+- [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) — OpenAI Blog
+- [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) — arXiv cs.AI
+- [MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows](https://arxiv.org/abs/2610.27233) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-20T10:05:29.151364-07:00._
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
-- [2026-09-20](digests/2026-09-20.html)
 
 ## About this site
 
