@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-21T10:12:29.078295-07:00._
+_Last updated: 2026-10-22T10:10:41.176172-07:00._
 
-[Read the latest digest](digests/2026-10-21.html)
+[Read the latest digest](digests/2026-10-22.html)
 
 ## Latest top links
 
-- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — OpenAI Blog
-- [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) — arXiv cs.AI
-- [Evaluating Context Compaction on the Questions That Come Later](https://arxiv.org/abs/2610.27301) — arXiv cs.CL
-- [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/) — AWS Machine Learning Blog
-- [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) — The Verge AI
-- [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) — OpenAI Blog
-- [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) — arXiv cs.AI
-- [MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows](https://arxiv.org/abs/2610.27233) — arXiv cs.CL
+- [SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges](https://arxiv.org/abs/2610.28886) — arXiv cs.CL
+- [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/) — TechCrunch AI
+- [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) — MIT Technology Review AI
+- [Adaptive agentic intelligence framework using Strands Agents](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/) — AWS Machine Learning Blog
+- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) — TechCrunch AI
+- [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout) — OpenAI Blog
+- [Claude did not invent scorpion antivenom](https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom) — The Verge AI
+- [M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement](https://arxiv.org/abs/2610.27032) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-21T10:12:29.078295-07:00._
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
-- [2026-09-21](digests/2026-09-21.html)
 
 ## About this site
 
