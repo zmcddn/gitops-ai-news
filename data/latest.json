@@ -1,10 +1,26 @@
 {
-  "digest_date": "2026-10-22",
-  "generated_at": "2026-10-22T10:10:41.176172-07:00",
+  "digest_date": "2026-10-23",
+  "generated_at": "2026-10-23T10:07:23.329368-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2610.28886",
-      "published": "2026-10-22T04:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.28914",
+      "published": "2026-10-23T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.28914v1 Announce Type: new Abstract: Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential. Traditional knowledge distillation achieves this through parameter updates, requiring access to the student's weights and additional training compute while encoding the transferred knowledge implicitly in the parameters. We introduce D-Skill, a framework that treats the teacher as a black box and distills its behavioral advantage into an interpretable natural-language skill by analyzing paired rollouts and identifying behavioral divergences and agreem…",
+      "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+      "url": "https://arxiv.org/abs/2610.28914"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.30161",
+      "published": "2026-10-23T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
@@ -14,263 +30,251 @@
       ],
       "score": 9.3,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.28886v1 Announce Type: new Abstract: LLM judges increasingly mediate benchmark evaluation, model selection, data curation, and training. Their decisions are useful only when each judge responds reliably to changes affecting its scoring criterion. Existing methods for reliability testing perturb inputs with known expected effects on judge scores. Prominent LLM-judge testing harnesses combine human-authored perturbation recipes with synthetic test generation, leaving scorer-specific recipe ideation outside the automated pipeline. This limits their use to fixed perturbations and pre-assumed scorer types. We introduce SANE, an agent-b…",
-      "title": "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
-      "url": "https://arxiv.org/abs/2610.28886"
+      "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the procedure, before and after training. Benchmarks usually judge only the records left at the end of a conversation. Many required steps, however, leave the…",
+      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.30161"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
-      "published": "2026-10-22T13:53:26+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "claude",
-        "agent"
-      ],
-      "score": 8.6,
-      "source": "TechCrunch AI",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
-      "published": "2026-10-22T08:41:18+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "inference",
-        "gpu"
-      ],
-      "score": 8.5,
-      "source": "MIT Technology Review AI",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
-      "published": "2026-10-21T21:23:26+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.30162",
+      "published": "2026-10-23T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "llama",
         "model",
-        "agent"
-      ],
-      "score": 7.8,
-      "source": "AWS Machine Learning Blog",
-      "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things monitoring scenario.",
-      "title": "Adaptive agentic intelligence framework using Strands Agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
-      "published": "2026-10-22T16:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "agent",
-        "enterprise"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "published": "2026-10-22T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "gpt",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "published": "2026-10-22T12:21:07+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "claude",
-        "research"
-      ],
-      "score": 7.6,
-      "source": "The Verge AI",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm […]",
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.27032",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
+        "benchmark",
         "training"
       ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs is their difficulty in processing long contexts, which stems from weaknesses in continuous decision-making and reasoning capabilities. Although existing multi-agent systems (MAS) equipped with long-term memory bases can partially address this gap, they mostly rely on knowledge reuse or summarization, an approach that is often constrained by direc…",
-      "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
-      "url": "https://arxiv.org/abs/2610.27032"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.27279",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.27279v1 Announce Type: new Abstract: The development of embodied models of animal behavior is a major goal of the neuro-AI community. Embodied models will enhance our ability to make direct comparisons between biological and artificial agents. To make such comparisons effective, though, we need embodied models that actually move like animals. Previous work has developed virtual animal bodies and techniques for training realistic motion through imitation. However, to date, there is no system for embodied animal modeling that produces natural movements both during trained goal-directed behavior, and during exploration driven by rand…",
-      "title": "A latent control model for realistic rodent motion",
-      "url": "https://arxiv.org/abs/2610.27279"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.27307",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.27307v2 Announce Type: new Abstract: For AI assistants to move beyond simple chat interfaces and reliably assist users with applications like Gmail, Venmo, and Slack, we need to improve their tool-use capabilities. However, existing tool use benchmarks are still limited and difficult to scale because they rely on human supervision or are too domain-specific. To make data generation scalable, we propose, TURTLE (Tool Use Related Tasks with Long-Horizon Evolution), an Unsupervised Environment Design (UED) approach to evolve existing tasks using a proposer, a solver, and a feedback generator large language model agents. The proposer…",
-      "title": "Evolving Self-tuning Benchmarks for Long-Horizon Tool Use",
-      "url": "https://arxiv.org/abs/2610.27307"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.27518",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "model",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.27518v1 Announce Type: new Abstract: Every day, more than 40 million people ask ChatGPT a health question, such as whether laptop posture explains a stiff neck and days of pounding headache. Posture is plausible, but meningitis is a time-critical possibility. We introduce SelfDx, a paired benchmark for whether models have the appropriate response behavior, a form of epistemic independence, in health questions where misplaced agreement with the user's self-diagnosis could delay urgent or emergency care. Each of 100 pairs contrasts a caution case, where a serious alternative remains possible, with an agreement case, where the user s…",
-      "title": "When Health Assistants Agree Too Readily: A Benchmark of Time-Critical Self-Diagnosis",
-      "url": "https://arxiv.org/abs/2610.27518"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.28787",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
+      "score": 9.3,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading. Small LLMs trained by RL learn what their training rivals reward, but only what they readily try. In self-play, they learn fixed rules ignoring their…",
-      "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
-      "url": "https://arxiv.org/abs/2610.28787"
+      "summary": "arXiv:2610.30162v1 Announce Type: new Abstract: Model fusion aims to integrate the capabilities of multi-expert models into a single model. Existing evaluations offer limited coverage of reasoning with long chains of thought and tool use, while strong average performance can mask substantial losses in individual expert capabilities. We introduce FusionEval, a benchmark that provides controlled expert pools, integrates fusion methods with and without additional training, and offers a unified evaluation suite. The pools contain domain experts independently trained from Qwen3 and Llama base models across math, code, science, instruction followi…",
+      "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30162"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.28819",
-      "published": "2026-10-22T04:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.30518",
+      "published": "2026-10-23T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "benchmark",
+        "inference",
         "training"
       ],
-      "score": 7.6,
+      "score": 9.3,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.28819v1 Announce Type: new Abstract: Common instruction following (IF) benchmarks, such as IFEval, evaluate the ability of language models (LMs) to follow simple constraints that can easily be verified programmatically. These same constraints, in turn, are used as reward signals for reinforcement learning. This design may lead to reward hacking of constraints, pushing models away from the main task. Recent attempts to address this resulted in benchmarks with richer constraints, but required expert labor, remained closed-access, and cannot be easily extended. We present Lift-Bench, an IF benchmark that asks a model to draft a docum…",
-      "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
-      "url": "https://arxiv.org/abs/2610.28819"
+      "summary": "arXiv:2610.30518v1 Announce Type: new Abstract: We present Protegrity-PII, a new PII decision model for structured and unstructured text. Protegrity-PII achieves a typed recall of 0.915 with a precision of 0.907 on a new benchmark we propose, PII-SCOPE. Our model processes text in 0.49 seconds per million characters at \\$0.0005 per million characters on a single RTX 6000 using batched inference. Due in part to the expansive nature of the entity type taxonomy used in training, Protegrity-PII achieves superior out-of-distribution generalization when benchmarked against a selection of state of the art models and datasets.",
+      "title": "Protegrity-PII Technical Report",
+      "url": "https://arxiv.org/abs/2610.30518"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.29052",
-      "published": "2026-10-22T04:00:00+00:00",
+      "canonical_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "ai safety",
+        "research",
+        "security"
+      ],
+      "score": 8.5,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.28763",
+      "published": "2026-10-23T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
-        "training"
+        "benchmark",
+        "research"
       ],
-      "score": 7.6,
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML benchmarks, spanning 20 benchmarks across 11 domains. Rather than ranking agents on a leaderboard, Agent4Sci asks what kinds of progress agents can make on these tasks under in-the-wild conditions, and where they fall short. Emp…",
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "url": "https://arxiv.org/abs/2610.28763"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.28875",
+      "published": "2026-10-23T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "model",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.28875v1 Announce Type: new Abstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion research measures only one side of that exchange. We introduce a controlled LLM-LLM debate framework in which two language-model roles repeatedly discuss a contested topic (climate-change attribution): one is given an assigned stance and, in some conditions, an explicit instruction to persuade, while the other receives no assigned position. Across four ordered model combinations involving GPT-6 Luna and Gemini 2.5 Flash Lite, we track both…",
+      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+      "url": "https://arxiv.org/abs/2610.28875"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.30785",
+      "published": "2026-10-23T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "anthropic",
+        "model",
+        "developer"
+      ],
+      "score": 8.4,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.29052v1 Announce Type: new Abstract: A typed decision maps evidence, a question and a fixed set of options to a probability for every option, computed in one forward pass, by reading a language model's logits or a small head over its hidden states, instead of generating and parsing text. The commercial system Jev popularised this System~1 interface, and open reproductions have followed. We report two uses of the pattern. \\emph{Part I} describes an in-house System~1 judge that triages about 148K agentic coding session records for a training corpus. It replaces a frontier LLM judge that cost on the order of \\$1,000 per pass and whos…",
-      "title": "Our Own Jev: Typed Decisions in One Forward Pass, from an In-House Judge to Open LoRA Models",
-      "url": "https://arxiv.org/abs/2610.29052"
+      "summary": "arXiv:2610.30785v1 Announce Type: new Abstract: Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt. However, if a system must decide how much to learn from what people tell it, it is costly to refuse valuable information because of its source. In this article, we measure the cost of declining information in a two-urn game with an exact Bayesian answer. We present leading LLM models from two developers (OpenAI and Anthropic) with a prompt that requires them to decide how far to trust…",
+      "title": "Invisibilization as a Source of Probability Bias in Language Models",
+      "url": "https://arxiv.org/abs/2610.30785"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.28977",
-      "published": "2026-10-22T04:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+      "published": "2026-10-22T18:00:04+00:00",
       "reasons": [
         "fresh <30h",
         "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.28977v1 Announce Type: new Abstract: In-context reinforcement learning (ICRL) exploits the impressive in-context learning ability of large language models to zero-shot generalize to new, unseen tasks at inference time without any parameter updates. Among many approaches, the Decision-Pretrained Transformer (DPT) is particularly appealing for its theoretical grounding: under idealized assumptions such as a sufficiently expressive model and infinite pretraining data, DPT can perform Bayesian posterior sampling. Whether this characterization survives in practice remains open. Therefore, we ask: \\textit{is ICRL, specifically DPT and o…",
-      "title": "Is In-Context Reinforcement Learning A Posterior Sampler? An Empirical Study",
-      "url": "https://arxiv.org/abs/2610.28977"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.28937",
-      "published": "2026-10-22T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.28937v1 Announce Type: cross Abstract: Conformal prediction (CP) for language models is typically evaluated under a matched protocol, in which calibration and deployment use the same post-training inference configuration, such as quantization mode and inference temperature. In deployment, these choices often differ from those used at calibration to meet memory or throughput constraints or serving policies. We argue that this exposes a limitation in current CP evaluation protocols for language models. We formalize the underlying phenomenon as inference-time model shift: a change in the conformal score distribution induced by infere…",
-      "title": "Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift",
-      "url": "https://arxiv.org/abs/2610.28937"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
-      "published": "2026-10-22T16:30:06+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
+        "training",
         "gpu"
       ],
-      "score": 6.9,
+      "score": 7.8,
       "source": "AWS Machine Learning Blog",
-      "summary": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_total, instead of guesswork.",
-      "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/"
+      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.",
+      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
-      "published": "2026-10-21T23:36:47+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
+      "published": "2026-10-22T18:00:01+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training",
+        "gpu"
+      ],
+      "score": 7.8,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement learning workload on competitive programming.",
+      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.28698",
+      "published": "2026-10-23T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
-        "open source"
+        "training"
       ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
-      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "url": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/"
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only d…",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "url": "https://arxiv.org/abs/2610.28698"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.30215",
+      "published": "2026-10-23T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.30215v1 Announce Type: cross Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without joint training. The Latent Interconnect Protocol (L…",
+      "title": "AI Mindmeld: A Latent Interconnect Protocol",
+      "url": "https://arxiv.org/abs/2610.30215"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+      "published": "2026-10-22T21:17:29+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "enterprise"
+      ],
+      "score": 6.8,
+      "source": "MIT Technology Review AI",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2407.03085",
+      "published": "2026-10-23T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2407.03085v2 Announce Type: replace-cross Abstract: Automatic differentiation (AD) has driven recent advances in machine learning, including deep neural networks and Hamiltonian Markov Chain Monte Carlo methods. Partially observed nonlinear stochastic dynamical systems have proved resistant to AD techniques because widely used particle filter algorithms yield an estimated likelihood function that is discontinuous as a function of the model parameters. To resolve this, we create a theoretical framework that embeds two existing AD particle filter methods within a new class of algorithms. This new class permits a bias-variance tradeoff an…",
+      "title": "Automatic Differentiation for Inference on Partially Observed Markov Process Models",
+      "url": "https://arxiv.org/abs/2407.03085"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "published": "2026-10-23T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "claude",
+        "model"
+      ],
+      "score": 6.7,
+      "source": "Anthropic Research",
+      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T22:24:34+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "training"
+      ],
+      "score": 6.1,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "published": "2026-10-22T19:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model"
+      ],
+      "score": 6.1,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     }
   ]
 }
