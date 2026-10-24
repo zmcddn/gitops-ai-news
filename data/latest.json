@@ -1,270 +1,70 @@
 {
-  "digest_date": "2026-10-23",
-  "generated_at": "2026-10-23T10:07:23.329368-07:00",
+  "digest_date": "2026-10-24",
+  "generated_at": "2026-10-24T08:57:10.760200-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2610.28914",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "inference",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.28914v1 Announce Type: new Abstract: Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential. Traditional knowledge distillation achieves this through parameter updates, requiring access to the student's weights and additional training compute while encoding the transferred knowledge implicitly in the parameters. We introduce D-Skill, a framework that treats the teacher as a black box and distills its behavioral advantage into an interpretable natural-language skill by analyzing paired rollouts and identifying behavioral divergences and agreem…",
-      "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
-      "url": "https://arxiv.org/abs/2610.28914"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.30161",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the procedure, before and after training. Benchmarks usually judge only the records left at the end of a conversation. Many required steps, however, leave the…",
-      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
-      "url": "https://arxiv.org/abs/2610.30161"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.30162",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "llama",
-        "model",
-        "benchmark",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.30162v1 Announce Type: new Abstract: Model fusion aims to integrate the capabilities of multi-expert models into a single model. Existing evaluations offer limited coverage of reasoning with long chains of thought and tool use, while strong average performance can mask substantial losses in individual expert capabilities. We introduce FusionEval, a benchmark that provides controlled expert pools, integrates fusion methods with and without additional training, and offers a unified evaluation suite. The pools contain domain experts independently trained from Qwen3 and Llama base models across math, code, science, instruction followi…",
-      "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
-      "url": "https://arxiv.org/abs/2610.30162"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.30518",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "inference",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.30518v1 Announce Type: new Abstract: We present Protegrity-PII, a new PII decision model for structured and unstructured text. Protegrity-PII achieves a typed recall of 0.915 with a precision of 0.907 on a new benchmark we propose, PII-SCOPE. Our model processes text in 0.49 seconds per million characters at \\$0.0005 per million characters on a single RTX 6000 using batched inference. Due in part to the expansive nature of the entity type taxonomy used in training, Protegrity-PII achieves superior out-of-distribution generalization when benchmarked against a selection of state of the art models and datasets.",
-      "title": "Protegrity-PII Technical Report",
-      "url": "https://arxiv.org/abs/2610.30518"
-    },
-    {
-      "canonical_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published": "2026-10-23T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "ai safety",
-        "research",
-        "security"
-      ],
-      "score": 8.5,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.28763",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML benchmarks, spanning 20 benchmarks across 11 domains. Rather than ranking agents on a leaderboard, Agent4Sci asks what kinds of progress agents can make on these tasks under in-the-wild conditions, and where they fall short. Emp…",
-      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-      "url": "https://arxiv.org/abs/2610.28763"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.28875",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gemini",
-        "gpt",
-        "model",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.28875v1 Announce Type: new Abstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion research measures only one side of that exchange. We introduce a controlled LLM-LLM debate framework in which two language-model roles repeatedly discuss a contested topic (climate-change attribution): one is given an assigned stance and, in some conditions, an explicit instruction to persuade, while the other receives no assigned position. Across four ordered model combinations involving GPT-6 Luna and Gemini 2.5 Flash Lite, we track both…",
-      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-      "url": "https://arxiv.org/abs/2610.28875"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.30785",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "anthropic",
-        "model",
-        "developer"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.30785v1 Announce Type: new Abstract: Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt. However, if a system must decide how much to learn from what people tell it, it is costly to refuse valuable information because of its source. In this article, we measure the cost of declining information in a two-urn game with an exact Bayesian answer. We present leading LLM models from two developers (OpenAI and Anthropic) with a prompt that requires them to decide how far to trust…",
-      "title": "Invisibilization as a Source of Probability Bias in Language Models",
-      "url": "https://arxiv.org/abs/2610.30785"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
-      "published": "2026-10-22T18:00:04+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "training",
-        "gpu"
-      ],
-      "score": 7.8,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.",
-      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
-      "published": "2026-10-22T18:00:01+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "training",
-        "gpu"
-      ],
-      "score": 7.8,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement learning workload on competitive programming.",
-      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published": "2026-10-23T17:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "published": "2026-10-24T15:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "openai",
-        "gpt"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.28698",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only d…",
-      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-      "url": "https://arxiv.org/abs/2610.28698"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.30215",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.30215v1 Announce Type: cross Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without joint training. The Latent Interconnect Protocol (L…",
-      "title": "AI Mindmeld: A Latent Interconnect Protocol",
-      "url": "https://arxiv.org/abs/2610.30215"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
-      "published": "2026-10-22T21:17:29+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "enterprise"
-      ],
-      "score": 6.8,
-      "source": "MIT Technology Review AI",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2407.03085",
-      "published": "2026-10-23T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "machine learning"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2407.03085v2 Announce Type: replace-cross Abstract: Automatic differentiation (AD) has driven recent advances in machine learning, including deep neural networks and Hamiltonian Markov Chain Monte Carlo methods. Partially observed nonlinear stochastic dynamical systems have proved resistant to AD techniques because widely used particle filter algorithms yield an estimated likelihood function that is discontinuous as a function of the model parameters. To resolve this, we create a theoretical framework that embeds two existing AD particle filter methods within a new class of algorithms. This new class permits a bias-variance tradeoff an…",
-      "title": "Automatic Differentiation for Inference on Partially Observed Markov Process Models",
-      "url": "https://arxiv.org/abs/2407.03085"
-    },
-    {
-      "canonical_url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "published": "2026-10-23T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "claude",
+        "gpt",
         "model"
       ],
-      "score": 6.7,
-      "source": "Anthropic Research",
-      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-      "title": "An alignment assessment of the UK AISI cybertesting incident",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+      "score": 8.6,
+      "source": "TechCrunch AI",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "2026-10-22T22:24:34+00:00",
+      "canonical_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "2026-10-23T10:00:00+00:00",
       "reasons": [
         "fresh <30h",
+        "openai",
+        "model",
+        "training"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "published": "2026-10-23T17:48:54+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
         "agent",
         "training"
       ],
-      "score": 6.1,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+      "score": 7.8,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "published": "2026-10-22T19:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published": "2026-10-23T21:11:07+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "training"
+      ],
+      "score": 7.7,
+      "source": "The Verge AI",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "published": "2026-10-23T23:05:49+00:00",
       "reasons": [
         "fresh <30h",
         "openai",
@@ -272,9 +72,125 @@
       ],
       "score": 6.1,
       "source": "TechCrunch AI",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "published": "2026-10-24T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+      "published": "2026-10-23T16:21:36+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "research"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "published": "2026-10-23T19:32:39+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model"
+      ],
+      "score": 4.3,
+      "source": "The Verge AI",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "published": "2026-10-23T14:47:41+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training"
+      ],
+      "score": 4.3,
+      "source": "The Verge AI",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "published": "2026-10-23T19:06:23+00:00",
+      "reasons": [
+        "fresh <30h",
+        "startup"
+      ],
+      "score": 3.5,
+      "source": "TechCrunch AI",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "2026-10-23T16:15:50+00:00",
+      "reasons": [
+        "fresh <30h",
+        "research"
+      ],
+      "score": 3.5,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "published": "2026-10-23T16:52:55+00:00",
+      "reasons": [
+        "fresh <30h",
+        "privacy"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "published": "2026-10-23T16:30:10+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "published": "2026-10-23T16:24:55+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.",
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/"
     }
   ]
 }

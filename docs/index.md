@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-23T10:07:23.329368-07:00._
+_Last updated: 2026-10-24T08:57:10.760200-07:00._
 
-[Read the latest digest](digests/2026-10-23.html)
+[Read the latest digest](digests/2026-10-24.html)
 
 ## Latest top links
 
-- [D-Skill: Distilling Teacher Knowledge through Agent Skills](https://arxiv.org/abs/2610.28914) — arXiv cs.AI
-- [TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents](https://arxiv.org/abs/2610.30161) — arXiv cs.CL
-- [FusionEval: Benchmarking Model Fusion for Large Language Models](https://arxiv.org/abs/2610.30162) — arXiv cs.CL
-- [Protegrity-PII Technical Report](https://arxiv.org/abs/2610.30518) — arXiv cs.CL
-- [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership) — OpenAI Blog
-- [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) — arXiv cs.AI
-- [To Manipulate or Not: Opinion Dynamics in LLM Interactions](https://arxiv.org/abs/2610.28875) — arXiv cs.AI
-- [Invisibilization as a Source of Probability Bias in Language Models](https://arxiv.org/abs/2610.30785) — arXiv cs.CL
+- [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) — TechCrunch AI
+- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment) — OpenAI Blog
+- [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/) — AWS Machine Learning Blog
+- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) — The Verge AI
+- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) — TechCrunch AI
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
+- [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/) — AWS Machine Learning Blog
+- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-23T10:07:23.329368-07:00._
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
-- [2026-09-23](digests/2026-09-23.html)
 
 ## About this site
 
