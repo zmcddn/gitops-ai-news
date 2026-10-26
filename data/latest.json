@@ -1,94 +1,278 @@
 {
-  "digest_date": "2026-10-25",
-  "generated_at": "2026-10-25T09:19:35.187302-07:00",
+  "digest_date": "2026-10-26",
+  "generated_at": "2026-10-26T11:40:39.435170-07:00",
   "items": [
     {
-      "canonical_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "published": "2026-10-24T19:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.32106",
+      "published": "2026-10-26T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "openai",
-        "startup"
+        "gpt",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
       ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      "score": 10.1,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.32106v1 Announce Type: new Abstract: Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchmarks across four scientific domains. Simulated researchers provide context and feedback according to persona profiles, while task objectives and grading remain fixed. Agents encounter researcher preferences only through conversation. Across eighteen modelconfigurations, task performance, fact recovery, and self-repetition reveal different strengths. Detailed GPT 6 Astra analyses show distinct agent…",
+      "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
+      "url": "https://arxiv.org/abs/2610.32106"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-      "published": "2026-10-24T16:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.32127",
+      "published": "2026-10-26T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
+        "gpt",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.32127v1 Announce Type: new Abstract: Post-training quantization (PTQ) is a key technique for efficiently deploying large language models, as it compresses weights into low-bit representations without retraining. Existing PTQ solvers, including GPTQ, LDLQ, and block coordinate descent, commit each weight block to a single codeword before its neighbors are considered, leaving near-optimal alternatives unexplored. In this work, we cast row-wise PTQ as posterior inference over discrete codebooks, in which existing solvers correspond to a zero-temperature, hard-decision limit retaining only the top codeword per block. We propose Messag…",
+      "title": "MPQ: A Message-Passing View of Post-Training Quantization",
+      "url": "https://arxiv.org/abs/2610.32127"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.32229",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.32229v1 Announce Type: new Abstract: Training large language models (LLMs) in sub-8-bit arithmetic promises substantial gains in memory bandwidth and compute throughput, yet FP4 formats introduce quantization error severe enough to destabilize optimization if left unaddressed. We present ALTO, an open-source training recipe for GPT-OSS-20B, a 20-billion-parameter mixture-of-experts (MoE) model, on the MLPerf Small MoE Training benchmark under the MXFP4 microscaling format. The recipe combines established techniques from Abecassis, Felix et al. [arXiv:2509.25149] (hybrid 1D/2D block quantization, randomized Hadamard transforms, and…",
+      "title": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
+      "url": "https://arxiv.org/abs/2610.32229"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.31946",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
         "model"
       ],
-      "score": 4.4,
-      "source": "TechCrunch AI",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.31946v1 Announce Type: new Abstract: Three students answered the same exam prompt by hand: \"What is happiness? Are you happy?\" Their ages, recorded at collection, are 17, 28, and 45. The 17-year-old's answer is hedged and formally phrased. Asked to match each answer to an age and gender label, most frontier language models confidently assign it to an adult. This paper reports a structured case study of that failure across six models: Claude Fable 5, Gemini 3.1 Pro, GPT-5.6 Sol, Grok 4.5, GPT-4o (2024), and DeepSeek V4. We ran 1,081 API sessions and scored 3,225 responses across six experimental conditions that manipulate framing,…",
+      "title": "Which Answer Did the Seventeen-Year-Old Write? A Behavioral Case Study of Author-Age Misattribution, Miscalibrated Confidence, and Non-Corrective Self-Explanation in Six Frontier…",
+      "url": "https://arxiv.org/abs/2610.31946"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "published": "2026-10-25T13:25:32+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
+      "published": "2026-10-26T17:27:20+00:00",
       "reasons": [
         "fresh <12h",
-        "open source"
+        "openai",
+        "model",
+        "agent"
       ],
-      "score": 4.2,
-      "source": "The Verge AI",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-      "published": "2026-10-25T14:10:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "published": "2026-10-26T13:32:49+00:00",
       "reasons": [
-        "fresh <12h"
+        "fresh <12h",
+        "openai",
+        "anthropic",
+        "claude"
       ],
-      "score": 3.5,
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC […]",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.32326",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.32326v1 Announce Type: new Abstract: Large Language Model (LLM) agents have enabled automated code evolution for algorithm discovery. However, current recursive self-improvement (RSI) research for sequential recommendation faces a dilemma: general-purpose frameworks lack domain-specific feedback, while recommender-specific frameworks rely on linear evolution. Crucially, naively integrating them fails when applied to Generative Recommendation (GR). Unlike end-to-end models, GR relies on a module-cascaded pipeline (tokenization, pre-training, and alignment). In this paradigm, existing evolution methods suffer from: i) cost blindness…",
+      "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent",
+      "url": "https://arxiv.org/abs/2610.32326"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.31685",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the error. We address this problem with an agentic framework for traceable multimodal emotion reasoning and prompt-space adaptation. Modality-specific perception agents analyze visual, acoustic, and lexical inputs and post evidence-cited observations to a sha…",
+      "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+      "url": "https://arxiv.org/abs/2610.31685"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.32441",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.32441v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly capable of supporting scientific workflows, but their capabilities across diverse research activities remain difficult to assess systematically. Existing benchmarks often focus on selected scientific capabilities or task types, limiting a comprehensive characterization of scientific agents' strengths and weaknesses in realistic research workflows. We introduce SCI-AGENT-EXAM, a workflow-oriented benchmark comprising 120 expert-curated tasks across 11 scientific fields and 7 research task types defined by the Scientific Workflow Task Taxonomy (S…",
+      "title": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+      "url": "https://arxiv.org/abs/2610.32441"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.32575",
+      "published": "2026-10-26T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.32575v1 Announce Type: new Abstract: Large language models and agents have shown significant power in advanced physical research. In this paper, We introduce PHYRD, a living benchmark for theoretical-physics reasoning with 63 Reproduce and 43 Discover problems. Reproduce tests derivation of published results; Discover tests consequences of modified theoretical conditions. FormulaForest constructs the tasks with reference solutions and subquestion-level rubrics. Across five models, whole-problem accuracy ranges from 49.21% to 68.25% on Reproduce and from 18.60% to 74.42% on closed-book Discover. With tools, four models complete mor…",
+      "title": "PHYRD: A Living Benchmark for Reproducing and Extending Theoretical Physics Research",
+      "url": "https://arxiv.org/abs/2610.32575"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+      "published": "2026-10-26T16:49:42+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude",
+        "enterprise"
+      ],
+      "score": 7.7,
       "source": "TechCrunch AI",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
     },
     {
-      "canonical_url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "published": "2026-10-25T12:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "published": "2026-10-26T14:35:22+00:00",
       "reasons": [
-        "fresh <12h"
+        "fresh <12h",
+        "anthropic",
+        "ai safety",
+        "enterprise"
       ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "published": "2026-10-24T21:29:12+00:00",
+      "canonical_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published": "2026-10-26T10:00:00+00:00",
       "reasons": [
-        "fresh <30h"
+        "fresh <12h",
+        "openai",
+        "gpt"
       ],
-      "score": 2.6,
-      "source": "The Verge AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "published": "2026-10-24T18:32:21+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "published": "2026-10-26T17:56:58+00:00",
       "reasons": [
-        "fresh <30h"
+        "fresh <12h",
+        "model",
+        "training"
       ],
-      "score": 2.6,
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "published": "2026-10-26T16:46:36+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpu",
+        "chip"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "published": "2026-10-26T13:15:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model"
+      ],
+      "score": 6.8,
       "source": "The Verge AI",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "published": "2026-10-26T17:15:14+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application.",
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published": "2026-10-26T07:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
     }
   ]
 }

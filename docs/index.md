@@ -1,21 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-25T09:19:35.187302-07:00._
+_Last updated: 2026-10-26T11:40:39.435170-07:00._
 
-[Read the latest digest](digests/2026-10-25.html)
+[Read the latest digest](digests/2026-10-26.html)
 
 ## Latest top links
 
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — TechCrunch AI
-- [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) — TechCrunch AI
-- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) — The Verge AI
-- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) — TechCrunch AI
-- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) — The Verge AI
-- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) — The Verge AI
-- [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) — The Verge AI
+- [PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers](https://arxiv.org/abs/2610.32106) — arXiv cs.AI
+- [MPQ: A Message-Passing View of Post-Training Quantization](https://arxiv.org/abs/2610.32127) — arXiv cs.AI
+- [Training an MoE LLM in MXFP4: How We Closed the Gap to BF16](https://arxiv.org/abs/2610.32229) — arXiv cs.AI
+- [Which Answer Did the Seventeen-Year-Old Write? A Behavioral Case Study of Author-Age Misattribution, Miscalibrated Confidence, and Non-Corrective Self-Explanation in Six Frontier…](https://arxiv.org/abs/2610.31946) — arXiv cs.CL
+- [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) — The Verge AI
+- [TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](https://arxiv.org/abs/2610.32326) — arXiv cs.AI
+- [An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation](https://arxiv.org/abs/2610.31685) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
@@ -45,7 +47,6 @@ _Last updated: 2026-10-25T09:19:35.187302-07:00._
 - [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
-- [2026-09-25](digests/2026-09-25.html)
 
 ## About this site
 
