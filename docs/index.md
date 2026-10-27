@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-26T11:40:39.435170-07:00._
+_Last updated: 2026-10-27T11:00:47.829572-07:00._
 
-[Read the latest digest](digests/2026-10-26.html)
+[Read the latest digest](digests/2026-10-27.html)
 
 ## Latest top links
 
-- [PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers](https://arxiv.org/abs/2610.32106) — arXiv cs.AI
-- [MPQ: A Message-Passing View of Post-Training Quantization](https://arxiv.org/abs/2610.32127) — arXiv cs.AI
-- [Training an MoE LLM in MXFP4: How We Closed the Gap to BF16](https://arxiv.org/abs/2610.32229) — arXiv cs.AI
-- [Which Answer Did the Seventeen-Year-Old Write? A Behavioral Case Study of Author-Age Misattribution, Miscalibrated Confidence, and Non-Corrective Self-Explanation in Six Frontier…](https://arxiv.org/abs/2610.31946) — arXiv cs.CL
-- [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) — The Verge AI
-- [TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](https://arxiv.org/abs/2610.32326) — arXiv cs.AI
-- [An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation](https://arxiv.org/abs/2610.31685) — arXiv cs.CL
+- [Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation](https://arxiv.org/abs/2610.33258) — arXiv cs.CL
+- [RSI Arena: Towards Recursive Self-Improvement with Human Feedback](https://arxiv.org/abs/2610.33624) — arXiv cs.CL
+- [AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?](https://arxiv.org/abs/2610.33375) — arXiv cs.AI
+- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — OpenAI Blog
+- [How To Build A Modern Diffusion Language Model](https://arxiv.org/abs/2610.33391) — arXiv cs.AI
+- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) — OpenAI Blog
+- [ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment](https://arxiv.org/abs/2610.33432) — arXiv cs.AI
+- [MTA-Zero: Self-Improving Multimodal Deep Search via Online QA-Solver Co-training](https://arxiv.org/abs/2610.33799) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-26T11:40:39.435170-07:00._
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
-- [2026-09-26](digests/2026-09-26.html)
 
 ## About this site
 

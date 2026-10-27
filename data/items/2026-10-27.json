@@ -1,0 +1,281 @@
+{
+  "digest_date": "2026-10-27",
+  "generated_at": "2026-10-27T11:00:47.829572-07:00",
+  "items": [
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33258",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
+        "model",
+        "benchmark"
+      ],
+      "score": 11.0,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.33258v1 Announce Type: new Abstract: Content moderation compresses a graded, contested human judgment into a binary act (leave up / take down) over billions of items, at a scale where running a frontier LLM on every post is uneconomical. A new class of frozen \"System One\" models returns typed, calibrated decisions instead of text at ~USD 0.000025 per call and ~100 ms. We run the first independent audit of one such model on 142,658 human-labeled comments, and benchmark it against 14 frontier reasoning models (the GPT-5.x, Claude, Gemini 3, and Grok families) on a shared probe set. Two findings stand out. First, the cheap model is a…",
+      "title": "Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation",
+      "url": "https://arxiv.org/abs/2610.33258"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33624",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "training",
+        "gpu"
+      ],
+      "score": 11.0,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.33624v1 Announce Type: new Abstract: Can AI agents autonomously train useful language models and improve them using feedback from users? We introduce RSI Arena, a two-stage study of autonomous post-training as a step toward recursive self-improvement. Ten frontier models act as training agents, each starting from NVIDIA Nemotron 3.5 Lightning 30B-A3B Base. During a six-day first stage, each agent has 1,000 GPU-hours and $300 in API credit on a shared 64-GPU cluster, independently selecting data, implementing training procedures, and choosing checkpoints. We evaluate their models on 20 benchmarks and through blind human evaluations…",
+      "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+      "url": "https://arxiv.org/abs/2610.33624"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33375",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "inference",
+        "enterprise"
+      ],
+      "score": 10.1,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.33375v1 Announce Type: new Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead generates a complete executable workflow in advance and executes it without further LLM calls, substantially reducing inference overhead, but it remains less accurate than Step-by-Step. We study how close Global can come to Step-by-Step and what narrows the remaining gap. We introduce AgentOrch, a benchmark that directly compares global orchestration w…",
+      "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+      "url": "https://arxiv.org/abs/2610.33375"
+    },
+    {
+      "canonical_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27T07:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "agent"
+      ],
+      "score": 9.4,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33391",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training",
+        "gpu"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.33391v1 Announce Type: new Abstract: The frontier of large language model (LLM) performance has advanced rapidly in recent years, fueled by scaling laws for pretraining on large text corpora. However, mainstream LLMs have fundamental limitations: they generate text autoregressively, producing outputs sequentially from left to right one token at a time. This sequential process leaves parallel GPU hardware underutilized during inference--a bottleneck that has grown acute as progress shifts toward scaling post-training and inference-time compute--and commits irreversibly to each token without the ability to revise earlier mistakes. D…",
+      "title": "How To Build A Modern Diffusion Language Model",
+      "url": "https://arxiv.org/abs/2610.33391"
+    },
+    {
+      "canonical_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published": "2026-10-26T13:45:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "agent",
+        "security",
+        "developer"
+      ],
+      "score": 8.5,
+      "source": "OpenAI Blog",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33432",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "privacy"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive information, a problem we term memory misalignment. To study this problem, we construct \\textbf{MemAlign}, a benchmark comprising 1,079 curated memory cases grounded in synthetic, validated multi-session conversational contexts covering diverse misalignment taxonomies. We then propose ConMem, an algorithm that reframes retention decisions as pros…",
+      "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
+      "url": "https://arxiv.org/abs/2610.33432"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33799",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.33799v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have become strong visual reasoners, yet remain limited in open-world, multi-step search that requires grounding images, selecting tools, and integrating web evidence. Existing approaches typically construct and filter fixed offline corpora whose question distributions cannot adapt as the target deep-search agent improves. Building on MTA-Agent's image-grounded QA construction, we present MTA-Zero, an online multimodal QA-Solver co-training framework for self-improving multimodal deep-search agents that requires no precomputed multi-hop corpus. Starting…",
+      "title": "MTA-Zero: Self-Improving Multimodal Deep Search via Online QA-Solver Co-training",
+      "url": "https://arxiv.org/abs/2610.33799"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+      "published": "2026-10-27T16:30:57+00:00",
+      "reasons": [
+        "fresh <12h",
+        "deepmind",
+        "model",
+        "research"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "published": "2026-10-27T11:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "gpu",
+        "startup"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published": "2026-10-26T14:30:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "research"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.33112",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "regulation"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an auditor, and an enforcement point. We ask whether a declared context mixture can be made truthful; whether an audit can be unbiased against a system…",
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "url": "https://arxiv.org/abs/2610.33112"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.32997",
+      "published": "2026-10-27T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.32997v1 Announce Type: new Abstract: Automatic Speech Recognition (ASR) models such as OpenAIs Whisper have substantially improved speech recognition quality but remain expensive to fine-tune, especially when large amounts of transcribed audio are available. This makes it challenging for many practitioners to adapt these models to new languages or domains. In this work, we introduce an embedding-based subset selection approach for selecting smaller training sets for ASR fine-tuning. Using Whispers pretrained encoder, we map each audio sample into a fixed-dimensional embedding space and apply a greedy k-center algorithm to select d…",
+      "title": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.32997"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "published": "2026-10-27T17:08:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "published": "2026-10-27T17:00:39+00:00",
+      "reasons": [
+        "fresh <12h",
+        "benchmark",
+        "training"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
+      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "published": "2026-10-27T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "chip"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published": "2026-10-27T16:51:22+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "published": "2026-10-27T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "model"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+    }
+  ]
+}
