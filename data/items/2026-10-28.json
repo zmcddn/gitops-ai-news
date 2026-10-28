@@ -1,0 +1,279 @@
+{
+  "digest_date": "2026-10-28",
+  "generated_at": "2026-10-28T11:20:52.738689-07:00",
+  "items": [
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36589",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "inference",
+        "training",
+        "gpu"
+      ],
+      "score": 12.7,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge both correct and incorrect patches. We introduce InfraDev, a benchmark of 36 tasks built from real-world pull requests to Megatron-LM, vLLM, and verl, covering infrastructure development for training, inference, and reinforcement learning. Each task asks an agent to reimplement a real change that spans many files and must run correctly across many GPUs. To grade suc…",
+      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
+      "url": "https://arxiv.org/abs/2610.36589"
+    },
+    {
+      "canonical_url": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "gpt",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 12.0,
+      "source": "OpenAI Blog",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai"
+    },
+    {
+      "canonical_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "published": "2026-10-28T09:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "agent"
+      ],
+      "score": 11.1,
+      "source": "OpenAI Blog",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36325",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promising capabilities in medical question answering and clinical reasoning; however, even when achieving competitive performance on medical benchmarks, they often rely on pattern recognition learned from training data rather than grounded clinical evidence, and can generate plausible yet unsupported diagnostic conclusions. Their rea…",
+      "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+      "url": "https://arxiv.org/abs/2610.36325"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36298",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "training",
+        "machine learning"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the decision behavior of a target through black-box queries alone, without access to its parameters or training data. These attacks are well characterized for conventional artificial neural networks (ANNs), yet spiking neural networks (SNNs) process information in a fundamentally different way. SNNs communicate through sparse, discr…",
+      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+      "url": "https://arxiv.org/abs/2610.36298"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36484",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36484v1 Announce Type: new Abstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasingly open to contamination. We introduce CogArena, a benchmark of ten experimental paradigms from the social and behavioral sciences. Agents complete th…",
+      "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+      "url": "https://arxiv.org/abs/2610.36484"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "published": "2026-10-28T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "agent",
+        "developer"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36006",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36006v1 Announce Type: new Abstract: System One decision models such as Jev answer structured questions in a single forward pass without generating text, offering fast and computationally efficient clinical decision support. We evaluate MedJev, an open System One model that runs locally on a laptop, across ten medical benchmarks spanning medical knowledge, diagnosis, and patient level prediction using MIMIC IV and MIMIC IV ED. We compare MedJev against zero shot LLM baselines, published GPT results, and supervised models. MedJev achieves accuracies of 72.5 percent on MedQA, 75.4 percent on USMLE, and 80.1 percent on NEJM, approach…",
+      "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+      "url": "https://arxiv.org/abs/2610.36006"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36523",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36523v1 Announce Type: new Abstract: As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transition requires connecting the information preserved at handoff to how the receiver continues the work, a relationship that task-success and memory-retention scores alone do not capture. We introduce the Handoff State Continuity Benchmark (HSC-Bench), comprising 1,039 tasks that evaluate two complementary aspects of task takeover: recovering relevant…",
+      "title": "Benchmarking Task Takeover Across Agent Handoffs",
+      "url": "https://arxiv.org/abs/2610.36523"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36538",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36538v1 Announce Type: new Abstract: Multilingual automatic speech recognition (ASR) has achieved rapid progress with large-scale pretrained models and multilingual speech corpora. Previous studies have proved the pivotal role of data sampling in multilingual ASR performance. However, existing sampling strategies largely rely on time-consuming manual, heuristic-based designs. To address this, we propose a linguistic-aware agentic data sampling framework that introduces a data sampling LLM agent into the multilingual ASR training loop. The agent is driven by a linguistically grounded rubric that analyzes ASR errors from phonologica…",
+      "title": "Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization",
+      "url": "https://arxiv.org/abs/2610.36538"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36679",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36679v1 Announce Type: new Abstract: Modern language models are trained on far more language than children experience, but we know much less about learning from small, naturalistic datasets. We train small GPT-2 models on transcripts of speech with children from dense home recordings (BabyView) and on synthetic child-directed dialogue (TinyDialogues), varying the amount, source, and diversity of training data. Models trained on one child's language environment predict that environment substantially better than other children's environments. Much of this specialization is lexical and distributional: a simple 5-gram model reproduces…",
+      "title": "Specialization, Diversity, and Scaling in Child-Scale Language Models",
+      "url": "https://arxiv.org/abs/2610.36679"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2502.04309",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2502.04309v2 Announce Type: replace-cross Abstract: As algorithmic decision making has become increasingly ubiquitous even in high-stakes settings, significant effort has been invested in defining, detecting, and eliminating unfair model-driven outcomes. Prior work has largely focused on estimating the fairness properties of a given predictive model, and quantifying uncertainty based on variability in a fixed model's performance across evaluation datasets. Alternatively, we can also ask about uncertainty that the model inherits from its training data; here we evaluate data fairness - fairness in the data generating process used for tra…",
+      "title": "Targeted Learning for Inference on Data Fairness",
+      "url": "https://arxiv.org/abs/2502.04309"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "published": "2026-10-28T17:00:58+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "model"
+      ],
+      "score": 7.1,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.37398",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.37398v1 Announce Type: new Abstract: Density estimation with generative models is a common task in the physical sciences, for example in background estimation in particle physics. Existing machine learning techniques, however, lack methods to quantify uncertainties that can be propagated into a statistical test. That limits the validation of generative models to standard goodness-of-fit tests, in which the generative model is treated as exact (point-null hypothesis). But a model fitted to a finite training set is never exact, so if its uncertainties are neglected, any sufficiently powerful goodness-of-fit test will eventually reje…",
+      "title": "An end-to-end framework for uncertainty-aware validation of generative models",
+      "url": "https://arxiv.org/abs/2610.37398"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "published": "2026-10-27T23:34:27+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "gpt"
+      ],
+      "score": 6.1,
+      "source": "TechCrunch AI",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.35975",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.35975v1 Announce Type: cross Abstract: Wind farm layout optimization becomes increasingly difficult as turbine count grows, especially when high-fidelity aerodynamic models are used. Conventional Kriging-based Bayesian optimization often suffers from low sample efficiency in high-dimensional layout spaces because sparse training data provide limited domain coverage. We develop a Graph-informed Kriging framework that embeds reusable aerodynamic interaction information into the surrogate mean function. The wind farm is represented as a directed aerodynamic graph, where pairwise turbine interactions defined in a low-dimensional relat…",
+      "title": "A Graph-informed Kriging model for sample-efficient Bayesian optimization of wind farm layouts",
+      "url": "https://arxiv.org/abs/2610.35975"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36110",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.36110v1 Announce Type: cross Abstract: Semiparametric Bayesian networks (SPBNs) are flexible probabilistic graphical models for representing joint distributions of continuous variables through lower-dimensional conditional probability distributions (CPDs). Existing SPBN models use kernel density estimators (KDEs) for non-parametric CPD modeling, but their one-component-per-observation mixture representation can lead to increased inference costs and density estimation errors, which can be limiting. In this work, we define a new CPD modeling approach for non-parametric components based on Bayesian non-parametric Dirichlet Process Mi…",
+      "title": "Dirichlet Process Mixtures within Semiparametric Bayesian Networks: A Novel Conditional Density Estimation Approach",
+      "url": "https://arxiv.org/abs/2610.36110"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "published": "2026-10-28T18:12:13+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.",
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/"
+    }
+  ]
+}

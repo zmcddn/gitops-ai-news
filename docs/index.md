@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-27T11:00:47.829572-07:00._
+_Last updated: 2026-10-28T11:20:52.738689-07:00._
 
-[Read the latest digest](digests/2026-10-27.html)
+[Read the latest digest](digests/2026-10-28.html)
 
 ## Latest top links
 
-- [Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation](https://arxiv.org/abs/2610.33258) — arXiv cs.CL
-- [RSI Arena: Towards Recursive Self-Improvement with Human Feedback](https://arxiv.org/abs/2610.33624) — arXiv cs.CL
-- [AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?](https://arxiv.org/abs/2610.33375) — arXiv cs.AI
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — OpenAI Blog
-- [How To Build A Modern Diffusion Language Model](https://arxiv.org/abs/2610.33391) — arXiv cs.AI
-- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) — OpenAI Blog
-- [ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment](https://arxiv.org/abs/2610.33432) — arXiv cs.AI
-- [MTA-Zero: Self-Improving Multimodal Deep Search via Online QA-Solver Co-training](https://arxiv.org/abs/2610.33799) — arXiv cs.CL
+- [InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?](https://arxiv.org/abs/2610.36589) — arXiv cs.AI
+- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) — OpenAI Blog
+- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work) — OpenAI Blog
+- [Ontology-guided multi-agent reasoning for explainable differential diagnosis](https://arxiv.org/abs/2610.36325) — arXiv cs.AI
+- [Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks](https://arxiv.org/abs/2610.36298) — arXiv cs.AI
+- [CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments](https://arxiv.org/abs/2610.36484) — arXiv cs.AI
+- [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/) — TechCrunch AI
+- [MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine](https://arxiv.org/abs/2610.36006) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-27T11:00:47.829572-07:00._
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
-- [2026-09-27](digests/2026-09-27.html)
 
 ## About this site
 
