@@ -1,0 +1,207 @@
+{
+  "digest_date": "2026-10-30",
+  "generated_at": "2026-10-30T11:10:08.143042-07:00",
+  "items": [
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "published": "2026-10-30T17:27:45+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "model",
+        "inference",
+        "security"
+      ],
+      "score": 9.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use.",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "published": "2026-10-30T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "deepmind",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "training"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "research"
+      ],
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "published": "2026-10-30T17:47:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "published": "2026-10-30T17:32:20+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "published": "2026-10-30T13:54:25+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "published": "2026-10-29T19:56:19+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "security"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "published": "2026-10-29T20:16:40+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "published": "2026-10-29T18:20:27+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead.",
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "openai"
+      ],
+      "score": 4.4,
+      "source": "OpenAI Blog",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published": "2026-10-29T18:45:31+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.3,
+      "source": "The Verge AI",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published": "2026-10-30T17:57:24+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.5,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "published": "2026-10-30T17:38:04+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+    }
+  ]
+}
