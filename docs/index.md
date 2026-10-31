@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-10-30T11:10:08.143042-07:00._
+_Last updated: 2026-10-31T10:14:49.348631-07:00._
 
-[Read the latest digest](digests/2026-10-30.html)
+[Read the latest digest](digests/2026-10-31.html)
 
 ## Latest top links
 
-- [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/) — AWS Machine Learning Blog
-- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens) — OpenAI Blog
-- [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/) — TechCrunch AI
-- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright) — The Verge AI
-- [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview) — The Verge AI
-- [Zest’s new AI agent finds restaurants and books reservations over text](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/) — TechCrunch AI
-- [How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/) — AWS Machine Learning Blog
-- [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/) — TechCrunch AI
+- [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919) — arXiv cs.AI
+- [An Alignment Benchmark for Enterprise Agents on Era by Eon](https://arxiv.org/abs/2610.38544) — arXiv cs.AI
+- [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) — The Verge AI
+- [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) — arXiv cs.AI
+- [FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision](https://arxiv.org/abs/2610.37905) — arXiv cs.AI
+- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) — OpenAI Blog
+- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) — TechCrunch AI
+- [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-30T11:10:08.143042-07:00._
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
-- [2026-09-30](digests/2026-09-30.html)
 
 ## About this site
 
