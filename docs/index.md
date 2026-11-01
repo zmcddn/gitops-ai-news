@@ -1,22 +1,18 @@
 # Daily AI News
 
-_Last updated: 2026-10-31T10:14:49.348631-07:00._
+_Last updated: 2026-11-01T10:55:55.401277-07:00._
 
-[Read the latest digest](digests/2026-10-31.html)
+[Read the latest digest](digests/2026-11-01.html)
 
 ## Latest top links
 
-- [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919) — arXiv cs.AI
-- [An Alignment Benchmark for Enterprise Agents on Era by Eon](https://arxiv.org/abs/2610.38544) — arXiv cs.AI
-- [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) — The Verge AI
-- [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) — arXiv cs.AI
-- [FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision](https://arxiv.org/abs/2610.37905) — arXiv cs.AI
-- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) — OpenAI Blog
-- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) — TechCrunch AI
-- [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission) — The Verge AI
+- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) — TechCrunch AI
+- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) — TechCrunch AI
+- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
@@ -46,7 +42,6 @@ _Last updated: 2026-10-31T10:14:49.348631-07:00._
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
-- [2026-10-01](digests/2026-10-01.html)
 
 ## About this site
 
