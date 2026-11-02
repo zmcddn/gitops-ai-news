@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-01T10:55:55.401277-07:00._
+_Last updated: 2026-11-02T14:42:19.384808-07:00._
 
-[Read the latest digest](digests/2026-11-01.html)
+[Read the latest digest](digests/2026-11-02.html)
 
 ## Latest top links
 
-- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) — TechCrunch AI
-- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) — TechCrunch AI
-- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) — TechCrunch AI
+- [BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574) — arXiv cs.CL
+- [Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping](https://arxiv.org/abs/2610.40726) — arXiv cs.CL
+- [EDU-Jev Training System-One Decision Models for Education](https://arxiv.org/abs/2610.41079) — arXiv cs.CL
+- [TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents](https://arxiv.org/abs/2610.41177) — arXiv cs.CL
+- [Build efficient agents with knowledge distillation on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
+- [OpenAI is finally merging ChatGPT’s Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/) — TechCrunch AI
+- [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones) — The Verge AI
+- [New York Times and other outlets sue web browser Brave over alleged content scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-02](digests/2026-11-02.html)
 - [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-11-01T10:55:55.401277-07:00._
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
-- [2026-10-02](digests/2026-10-02.html)
 
 ## About this site
 
