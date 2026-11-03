@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-02T14:42:19.384808-07:00._
+_Last updated: 2026-11-03T12:29:14.259915-07:00._
 
-[Read the latest digest](digests/2026-11-02.html)
+[Read the latest digest](digests/2026-11-03.html)
 
 ## Latest top links
 
-- [BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574) — arXiv cs.CL
-- [Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping](https://arxiv.org/abs/2610.40726) — arXiv cs.CL
-- [EDU-Jev Training System-One Decision Models for Education](https://arxiv.org/abs/2610.41079) — arXiv cs.CL
-- [TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents](https://arxiv.org/abs/2610.41177) — arXiv cs.CL
-- [Build efficient agents with knowledge distillation on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
-- [OpenAI is finally merging ChatGPT’s Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/) — TechCrunch AI
-- [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones) — The Verge AI
-- [New York Times and other outlets sue web browser Brave over alleged content scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/) — TechCrunch AI
+- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden) — OpenAI Blog
+- [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/) — MIT Technology Review AI
+- [Building ultra-low-latency voice AI applications on AWS](https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/) — AWS Machine Learning Blog
+- [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) — TechCrunch AI
+- [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search) — The Verge AI
+- [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties) — OpenAI Blog
+- [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) — TechCrunch AI
+- [How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search](https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-11-03](digests/2026-11-03.html)
 - [2026-11-02](digests/2026-11-02.html)
 - [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-02T14:42:19.384808-07:00._
 - [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-04](digests/2026-10-04.html)
-- [2026-10-03](digests/2026-10-03.html)
 
 ## About this site
 
