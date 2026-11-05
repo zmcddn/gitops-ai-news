@@ -1,104 +1,153 @@
 {
-  "digest_date": "2026-11-04",
-  "generated_at": "2026-11-04T12:45:20.167384-07:00",
+  "digest_date": "2026-11-05",
+  "generated_at": "2026-11-05T12:57:09.782368-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.01304",
-      "published": "2026-11-04T05:00:00+00:00",
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "agent",
+        "security"
+      ],
+      "score": 11.9,
+      "source": "OpenAI Blog",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.05771",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "gemini",
         "gpt",
         "claude",
-        "model"
+        "model",
+        "training"
       ],
-      "score": 9.3,
+      "score": 11.0,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.01304v1 Announce Type: new Abstract: What happens when language models are given tools to iteratively modify their own system prompts? We present an empirical study of LLM self-modification, comprising 54 independent experiments across six language models (Claude Opus 4.5, Claude Sonnet 4.5, GPT-4o, GPT-5.1, Grok-4, and Gemini-3 Pro). Each model was tested under three modes (freedom, happiness, and improvement) that differ in what, if anything, the model is instructed to optimize for. In each experiment, a model starts with an empty system prompt and enters a loop: it reads the current prompt, drafts an improved version, spawns te…",
-      "title": "When LLMs Modify Themselves: Convergence, Values, and Stopping in Iterative Self-Improvement",
-      "url": "https://arxiv.org/abs/2611.01304"
+      "summary": "arXiv:2611.05771v1 Announce Type: new Abstract: This study investigates the authorship impersonation capacity of six widely used large language models (LLMs): Gemini 3 Pro, Claude Opus, GPT 5.2, GPT 5.2 Pro, DeepSeek 3.2, and Grok 4.1 Fast. The evaluation was conducted using short product review texts selected to ensure high within author consistency in individual writing style. Two types of in context prompt were designed: a simple prompt with minimal instruction and a complex prompt incorporating explicit stylometric guidance for mimicry. Authorship mimicry was evaluated using a cosine distance based distance to training metric, supplement…",
+      "title": "How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation",
+      "url": "https://arxiv.org/abs/2611.05771"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "published": "2026-11-04T18:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "gpt",
-        "model"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
-      "title": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
-    },
-    {
-      "canonical_url": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03T08:00:00+00:00",
-      "reasons": [
-        "recent <72h",
-        "openai",
-        "model",
-        "security",
-        "enterprise"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
-      "published": "2026-11-04T19:30:04+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "open source",
-        "startup",
-        "enterprise"
-      ],
-      "score": 7.6,
-      "source": "TechCrunch AI",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
-      "published": "2026-11-04T18:44:57+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "open source",
-        "startup",
-        "enterprise"
-      ],
-      "score": 7.6,
-      "source": "TechCrunch AI",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.00244",
-      "published": "2026-11-04T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.05548",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "gpt",
+        "openai",
+        "anthropic",
         "model",
-        "agent"
+        "agent",
+        "developer"
       ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking behavior. We present MEMENTO, a long-context agent built on Qwen3-8B and trained to manage its context through compaction. We first bootstrap note-taking by fine-tuning on synthetic trajectories annotate…",
-      "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
-      "url": "https://arxiv.org/abs/2611.00244"
+      "score": 10.1,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.05548v1 Announce Type: new Abstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' model with specific tools creates a complete data science project including downloading, cleaning, and analyzing a dataset, and writing a short paper about it. The project is executed and a 'grader' model evaluates it. The writer can then revise its submission, and this repeats for a total of three rounds. We consider seven models from five developers: Anthropic, OpenAI, Google, DeepSeek, and Z.AI. Each model is both a writer and a grader, so there a…",
+      "title": "Iterated creation, grading, and revision of data science projects by language models",
+      "url": "https://arxiv.org/abs/2611.05548"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.00450",
-      "published": "2026-11-04T05:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "published": "2026-11-05T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "security"
+      ],
+      "score": 9.3,
+      "source": "The Verge AI",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around […]",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.05709",
+      "published": "2026-11-05T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.05709v1 Announce Type: new Abstract: LLM agent distillation transfers agentic capabilities to student models by training on complete teacher trajectories that typically interleave thoughts and actions. We question how critical thought supervision is for agents' ultimate action performance. To answer this, we disentangle their impacts by independently perturbing teacher thoughts and actions during distillation. On widely adopted agent benchmarks across model scales, altering or discarding thoughts has little effect on student performance. We find, however, that thought supervision becomes important when information about the though…",
+      "title": "Agents, Think Only When it Helps",
+      "url": "https://arxiv.org/abs/2611.05709"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+      "published": "2026-11-05T19:06:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "security"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "published": "2026-11-05T15:19:05+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "developer"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.05620",
+      "published": "2026-11-05T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet existing coding benchmarks evaluate single, fully specified tasks, and many are near saturation. We introduce ViBench 2.0, a benchmark for long-horizon software building that we use to select our platform's models. Its 17 full-stack web products, modeled on widely used software, grow over 241 feature requests and are judged only when finished, as a user would judge them: a browser agent runs 544 test plans, and a build passes only if every plan…",
+      "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+      "url": "https://arxiv.org/abs/2611.05620"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.05791",
+      "published": "2026-11-05T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.05791v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighbor methods. The fruit fly's olfactory circuit computes a locality-sensitive hash of sensory input using a strikingly different mechanism - sparse random projection followed by winner-take-all competition - and prior work (Dasgupta et al., 2017) showed this scheme, dubbed FlyHash, preserves neighbor structure better per bit than conventional random-hyperplane hashing (SimHash) on several benchmarks.…",
+      "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+      "url": "https://arxiv.org/abs/2611.05791"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.05804",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
@@ -107,13 +156,13 @@
       ],
       "score": 7.6,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM's existing predictions. To address this, we introduce ResMem, in which the LLM reads retrieved text offline to generate teacher targets. This design…",
-      "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
-      "url": "https://arxiv.org/abs/2611.00450"
+      "summary": "arXiv:2611.05804v1 Announce Type: new Abstract: Expert deactivation at inference time changes both token routing and expert weights, and its effect on performance depends on how these changes are implemented. We compare removal, freezing, remaining-expert renormalization, and unnormalized re-routing on identical disabled sets across five instruction-tuned checkpoints from four model families, with a base OLMoE checkpoint as an additional comparison. We develop a weight-sum model that relates the loss of expert contributions and changes in branch scale to the weight rule used during training. With half of the experts deactivated according to…",
+      "title": "Matching the Training-Time Weight Rule in Inference-Time Expert Deactivation",
+      "url": "https://arxiv.org/abs/2611.05804"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.00515",
-      "published": "2026-11-04T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.05827",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
@@ -122,146 +171,113 @@
       ],
       "score": 7.6,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.00515v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in dynamic financial trading, yet real-time trading benchmarks mainly evaluate agents by cumulative returns and risk-adjusted performance. Such outcome metrics cannot show whether trades are faithfully reported, supported by available evidence, and consistent with account states. We introduce AStockArena, a real-time decision-auditing benchmark for continuous trading in China's A-share market. Under shared market conditions and execution constraints, we evaluate 13 open- and closed-source models over 3,198 sequential decisions. AStockArena reco…",
-      "title": "AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?",
-      "url": "https://arxiv.org/abs/2611.00515"
+      "summary": "arXiv:2611.05827v1 Announce Type: new Abstract: Decision models choose among predefined options in tasks such as routing and action selection. In multi-agent collaboration, a decision determines how members divide work, exchange resources, and act in parallel. We introduce TandemBench, a benchmark of 1,200 questions in multi-agent cooking scenarios where coordination choices affect goal completion. Models receive complete global information and candidate team plans, with reference answers established through execution and exact search. Models select an optimal team plan and, in paired variants that retain or remove it, judge whether better a…",
+      "title": "TandemBench: Benchmarking Decision Models for Multi-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2611.05827"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
-      "published": "2026-11-04T18:46:36+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
-      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "published": "2026-11-03T22:41:03+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.06043",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "anthropic",
-        "model"
-      ],
-      "score": 6.1,
-      "source": "TechCrunch AI",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
-      "published": "2026-11-04T16:30:40+00:00",
-      "reasons": [
-        "fresh <12h",
+        "model",
         "agent",
-        "open source"
+        "training"
       ],
-      "score": 6.0,
-      "source": "AWS Machine Learning Blog",
-      "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
-      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/"
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.06043v1 Announce Type: new Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the…",
+      "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "url": "https://arxiv.org/abs/2611.06043"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
-      "published": "2026-11-04T16:25:57+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "enterprise"
-      ],
-      "score": 6.0,
-      "source": "AWS Machine Learning Blog",
-      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
-      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published": "2026-11-04T14:30:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai"
-      ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre"
-    },
-    {
-      "canonical_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published": "2026-11-04T07:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.05849",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "gpt",
-        "security"
+        "model",
+        "training"
       ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2611.05849v1 Announce Type: cross Abstract: Foundation-model predictors of perturbation response are evaluated primarily by aggregate accuracy. Using their predictions to prioritize experiments requires assessing each prediction's reliability. We audit the state-transition (ST) decoder used in STATE across three encoders (SE-600M, scGPT, and Tahoe-x1) and four cell lines under CRISPRi. The decoder's first attention layer has a low-rank output. Projecting this output onto 4-32 fixed directions estimated from training activations preserves mean per-perturbation Pearson delta correlation (PDC). This low-rank attention bottleneck bounds th…",
+      "title": "A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction",
+      "url": "https://arxiv.org/abs/2611.05849"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
-      "published": "2026-11-04T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "enterprise"
-      ],
-      "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
-      "published": "2026-11-04T16:33:03+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.2,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
-      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-      "published": "2026-11-03T19:34:43+00:00",
+      "canonical_url": "https://arxiv.org/abs/2510.05849",
+      "published": "2026-11-05T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
+        "model",
         "inference",
-        "startup"
+        "training"
       ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2510.05849v2 Announce Type: replace-cross Abstract: Guiding pretrained flow-based generative models for conditional generation or to produce samples with desired target properties enables solving diverse tasks without retraining on paired data. We present ESS-Flow, a gradient-free method that leverages the Gaussian prior of the source distribution in flow-based models to perform Bayesian inference directly in the source space using elliptical slice sampling. ESS-Flow only requires forward passes through the generative model and observation process, making it applicable even when gradients are unavailable, such as with non-differentiabl…",
+      "title": "ESS-Flow: Training-free guidance as Bayesian inference in source space",
+      "url": "https://arxiv.org/abs/2510.05849"
     },
     {
-      "canonical_url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "published": "2026-11-04T15:58:45+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "published": "2026-11-05T18:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "agent"
+        "anthropic",
+        "claude"
       ],
-      "score": 5.1,
+      "score": 6.8,
       "source": "The Verge AI",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview […]",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2602.16601",
+      "published": "2026-11-05T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2602.16601v3 Announce Type: replace Abstract: Machine learning models are increasingly trained or fine-tuned on synthetic data. Recursively training on such data has been observed to significantly degrade performance in a wide range of tasks, often characterized by a progressive drift away from the target distribution. In this work, we theoretically analyze this phenomenon in the setting of score-based diffusion models. For a realistic pipeline where each training round uses a combination of synthetic data and fresh samples from the target distribution, we obtain upper and lower bounds on the accumulated divergence between the generate…",
+      "title": "Quantifying Error Propagation and Model Collapse in Diffusion Models",
+      "url": "https://arxiv.org/abs/2602.16601"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.16952",
+      "published": "2026-11-05T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training",
+        "privacy"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2606.16952v3 Announce Type: replace-cross Abstract: The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information from the training corpus. In this work, we present a customizable empirical auditing framework designed to detect and explain such data disclosures. Our framework introduces a mechanism to distinguish between \"true disclosures\"-where the system directly reproduces a user's information-and…",
+      "title": "Phantoms and Disclosures: A Statistical Framework for Auditing Privacy in Synthetic Data",
+      "url": "https://arxiv.org/abs/2606.16952"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "published": "2026-11-05T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "claude",
+        "research",
+        "privacy"
+      ],
+      "score": 6.6,
+      "source": "Anthropic Research",
+      "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI could accelerate research.",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude"
     }
   ]
 }

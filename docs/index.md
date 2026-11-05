@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-04T12:45:20.167384-07:00._
+_Last updated: 2026-11-05T12:57:09.782368-07:00._
 
-[Read the latest digest](digests/2026-11-04.html)
+[Read the latest digest](digests/2026-11-05.html)
 
 ## Latest top links
 
-- [When LLMs Modify Themselves: Convergence, Values, and Stopping in Iterative Self-Improvement](https://arxiv.org/abs/2611.01304) — arXiv cs.CL
-- [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6) — The Verge AI
-- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber) — OpenAI Blog
-- [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/) — TechCrunch AI
-- [Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs](https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/) — TechCrunch AI
-- [MEMENTO: Learning Context Management for Long Context Processing Agents](https://arxiv.org/abs/2611.00244) — arXiv cs.CL
-- [From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory](https://arxiv.org/abs/2611.00450) — arXiv cs.CL
-- [AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?](https://arxiv.org/abs/2611.00515) — arXiv cs.CL
+- [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber) — OpenAI Blog
+- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](https://arxiv.org/abs/2611.05771) — arXiv cs.CL
+- [Iterated creation, grading, and revision of data science projects by language models](https://arxiv.org/abs/2611.05548) — arXiv cs.AI
+- [OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch) — The Verge AI
+- [Agents, Think Only When it Helps](https://arxiv.org/abs/2611.05709) — arXiv cs.AI
+- [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) — TechCrunch AI
+- [Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/) — TechCrunch AI
+- [ViBench 2.0: A Benchmark for Long-Horizon Software Building](https://arxiv.org/abs/2611.05620) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-11-05](digests/2026-11-05.html)
 - [2026-11-04](digests/2026-11-04.html)
 - [2026-11-03](digests/2026-11-03.html)
 - [2026-11-02](digests/2026-11-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-04T12:45:20.167384-07:00._
 - [2026-10-09](digests/2026-10-09.html)
 - [2026-10-08](digests/2026-10-08.html)
 - [2026-10-07](digests/2026-10-07.html)
-- [2026-10-06](digests/2026-10-06.html)
 
 ## About this site
 
