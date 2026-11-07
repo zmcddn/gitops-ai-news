@@ -1,285 +1,198 @@
 {
-  "digest_date": "2026-11-06",
-  "generated_at": "2026-11-06T12:24:36.534239-07:00",
+  "digest_date": "2026-11-07",
+  "generated_at": "2026-11-07T10:44:31.146314-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.07461",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "claude",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 11.0,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.07461v1 Announce Type: new Abstract: How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%. These tasks fail at the step from reaching a resource to applying it, which we call the last mile to the real world. Existing approaches put the resource within reach but leave the competence to apply it with the caller, so each harness rebuilds that competence. We introduce agent-native primitives, reusable units that equip a resource with a re…",
-      "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
-      "url": "https://arxiv.org/abs/2611.07461"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.08116",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "claude",
-        "model",
-        "agent",
-        "inference",
-        "startup",
-        "developer"
-      ],
-      "score": 10.9,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.08116v1 Announce Type: new Abstract: Self-hosting AI is often presented as a way to reduce inference costs and increase control, but deployment introduces its own costs. We report our experience deploying a hybrid AI stack at Grayhat Developers, a small software company with an AI-intensive development workflow. Our initial motivation was to counter the growing cost of commercial AI usage: Claude/Codex incurred approximately \\$325 per month, with more than 25.93 billion recorded tokens. We experimented with local open-source models as replacements for commercial coding agents, but after learning that their performance and inferenc…",
-      "title": "Create Your Own Work Stack: Deploying Self-hosted AI and Tooling in a Tech Startup",
-      "url": "https://arxiv.org/abs/2611.08116"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
-      "published": "2026-11-06T17:13:13+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "published": "2026-11-07T12:30:00+00:00",
       "reasons": [
         "fresh <12h",
+        "anthropic",
         "model",
-        "agent",
-        "mcp",
-        "enterprise"
+        "ai safety",
+        "research"
       ],
-      "score": 9.4,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
-      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/"
+      "score": 9.3,
+      "source": "The Verge AI",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls",
-      "published": "2026-11-06T16:45:58+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T23:46:18+00:00",
       "reasons": [
-        "fresh <12h",
-        "claude",
-        "model",
+        "fresh <30h",
+        "openai",
+        "anthropic",
+        "funding"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "published": "2026-11-06T22:53:46+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "funding"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
+      "published": "2026-11-06T16:55:05+00:00",
+      "reasons": [
+        "fresh <30h",
         "agent",
         "security"
       ],
-      "score": 9.4,
+      "score": 5.2,
       "source": "AWS Machine Learning Blog",
-      "summary": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.",
-      "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
-      "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"
+      "summary": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
+      "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.07689",
-      "published": "2026-11-06T05:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore",
+      "published": "2026-11-06T16:49:42+00:00",
       "reasons": [
         "fresh <30h",
-        "model",
         "agent",
-        "benchmark",
-        "mcp"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.07689v1 Announce Type: new Abstract: Large language model agents are increasingly deployed through the Model Context Protocol (MCP), which allows them to discover and invoke tools across multiple servers at runtime. Existing MCP benchmarks primarily measure task completion; where they diagnose failures, they do so after execution rather than building specific reasoning, execution, and memory failure risks into task construction. We introduce MCPHallu, a benchmark for diagnosing hallucination-prone agent failures in MCP environments along three axes: reasoning, execution, and memory. MCPHallu contains 358 tasks across five capabili…",
-      "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
-      "url": "https://arxiv.org/abs/2611.07689"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07554",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "claude",
-        "model",
-        "agent"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.07554v1 Announce Type: new Abstract: Language agents increasingly use persistent memory to record user preferences and procedures across sessions. We show that memory from benign interactions can cause unsafe or unreliable behavior on later tasks. We call this failure the memory trap. To study this issue, we compare behavior in sessions with and without memory across six frontier models (including Claude Sonnet, Opus, and Fable models and GPT-5.6). We evaluate these models in a range of settings. First, in autonomy experiments, we find that requests to skip confirmation during low-stakes coding chores lead agents to skip confirmat…",
-      "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
-      "url": "https://arxiv.org/abs/2611.07554"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
-      "published": "2026-11-06T18:01:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "inference",
-        "gpu"
-      ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
-      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "published": "2026-11-06T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "agent",
-        "benchmark"
-      ],
-      "score": 8.6,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "published": "2026-11-05T22:26:50+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "anthropic",
-        "agent",
-        "startup"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07249",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "regulation",
-        "machine learning"
-      ],
-      "score": 8.4,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.07249v1 Announce Type: cross Abstract: This paper examines robustness and causal interpretation of panel estimates using double/debiased machine learning. The prototype treatment setup is the 2018 US banking regulation. Under common treatment timing, we characterize identification and nuisance restrictions and derive exact bank-level representations of specified \"within\" and \"first-difference\" scores. Simulations assess panel model transformation-induced specification bias and inference under weaker overlap. Empirically, estimates vary with asset-size classification and prior growth. Prior-growth adjustment reduces overlap-weighte…",
-      "title": "Double Machine Learning for Panel Data: Identification, Specification, and a Bank Regulation Effect",
-      "url": "https://arxiv.org/abs/2611.07249"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07051",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.07051v1 Announce Type: new Abstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is one-off: a benchmark run, a look at traces, a single score. Its conclusions neither check themselves nor reach the agent. We propose closed-loop evaluation, an evaluation method for deployed agents. It models evaluation as performance estimation under biased raters and censored outcomes, and it requires every level's conclusion to trace back to atomic data and to be computed by versioned rules. The method covers four levels of analysis (span, trace, conversation and e…",
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "url": "https://arxiv.org/abs/2611.07051"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07624",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.07624v1 Announce Type: new Abstract: Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield reliable, efficient, and transferable improvement. We evaluate four methods across harnesses, general and coding tasks. Repeated evaluations, controlled agent expansion, component interventions, and admission replays reveal recurring patterns. All sixteen evolved agents gain previously uncovered tasks while losing previously covered ones. In one general-task case, reliability rises by 5.2 points despite losing ten previously covered tasks. Most reliab…",
-      "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
-      "url": "https://arxiv.org/abs/2611.07624"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07558",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "inference"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.07558v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed under structured generation, where grammar constraints enforce output format at inference time. Whereas existing compression methods target unconstrained generation, we first identify a fundamental mismatch: under structured generation, grammar constraints reduce the model's output distribution to valid tokens, and the logits matter most at the small set of positions that decide the agent's action. Motivated by this finding, we propose SKIM (Selective Knowledge-Informed Masking), the first pruning and distillation framework for LLM age…",
-      "title": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
-      "url": "https://arxiv.org/abs/2611.07558"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.07812",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "llama",
-        "model",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.07812v1 Announce Type: new Abstract: Small language models are often trained under tight data budgets, where the choice of pretraining corpus may matter as much as model size or training recipe. We compare two contrasting corpora at matched 10-million- and 37-million-word budgets: the 1911 Encyclopaedia Britannica and the BabyLM 2026 strict pretraining corpus. For each corpus, we train teacher models, distilled 58-million-parameter Baby-Llama students, and no-distillation student ablations, using the same model families, training recipes, and evaluation protocol across corpora. Across BLiMP, BLiMP Supplement, EWoK, Entity Tracking…",
-      "title": "Different Corpora, Different Skills? A Paired Study of Small Language Models",
-      "url": "https://arxiv.org/abs/2611.07812"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-      "published": "2026-11-05T18:02:27+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "anthropic",
         "enterprise"
       ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
+      "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2609.06598",
-      "published": "2026-11-06T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "inference",
-        "training",
-        "machine learning"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2609.06598v2 Announce Type: replace-cross Abstract: The optimal transport (OT) map provides a geometric transformation for aligning probability distributions and has become a useful tool in machine learning. However, existing estimators of the OT map still exhibit a gap between sharp statistical guarantees and practical parametric estimation based on stable training objectives. Theoretical estimators achieve minimax optimal convergence rates, but they are typically nonparametric and can incur demanding implementation design or inference costs. Practical estimators are parametric and scalable, but their statistical guarantees remain und…",
-      "title": "Deep Barycentric Regression for Optimal Transport Map Estimation and Its Statistical Optimality",
-      "url": "https://arxiv.org/abs/2609.06598"
-    },
-    {
-      "canonical_url": "https://openai.com/index/merge-builds-with-openai",
-      "published": "2026-11-05T08:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "published": "2026-11-06T06:28:32+00:00",
       "reasons": [
         "recent <72h",
-        "openai",
-        "gpt"
+        "agent",
+        "startup",
+        "security"
       ],
-      "score": 6.1,
-      "source": "OpenAI Blog",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai"
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2",
-      "published": "2026-11-06T17:09:23+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00",
       "reasons": [
         "fresh <12h",
-        "agent",
-        "enterprise"
+        "chip"
       ],
-      "score": 6.0,
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T23:00:44+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip",
+        "security"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "published": "2026-11-06T18:44:20+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
+      "published": "2026-11-06T17:34:45+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
       "source": "AWS Machine Learning Blog",
-      "summary": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.",
-      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/"
+      "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1",
+      "published": "2026-11-06T17:09:18+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
+      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "published": "2026-11-06T15:54:47+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06T08:00:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "openai"
+      ],
+      "score": 4.4,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T14:00:48+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
     }
   ]
 }

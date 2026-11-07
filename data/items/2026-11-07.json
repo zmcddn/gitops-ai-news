@@ -1,0 +1,198 @@
+{
+  "digest_date": "2026-11-07",
+  "generated_at": "2026-11-07T10:44:31.146314-07:00",
+  "items": [
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "published": "2026-11-07T12:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model",
+        "ai safety",
+        "research"
+      ],
+      "score": 9.3,
+      "source": "The Verge AI",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T23:46:18+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "anthropic",
+        "funding"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "published": "2026-11-06T22:53:46+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "funding"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
+      "published": "2026-11-06T16:55:05+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "security"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
+      "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore",
+      "published": "2026-11-06T16:49:42+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
+      "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "published": "2026-11-06T06:28:32+00:00",
+      "reasons": [
+        "recent <72h",
+        "agent",
+        "startup",
+        "security"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T23:00:44+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip",
+        "security"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "published": "2026-11-06T18:44:20+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
+      "published": "2026-11-06T17:34:45+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1",
+      "published": "2026-11-06T17:09:18+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
+      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "published": "2026-11-06T15:54:47+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06T08:00:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "openai"
+      ],
+      "score": 4.4,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T14:00:48+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    }
+  ]
+}
