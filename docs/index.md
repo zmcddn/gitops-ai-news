@@ -1,22 +1,20 @@
 # Daily AI News
 
-_Last updated: 2026-11-07T10:44:31.146314-07:00._
+_Last updated: 2026-11-08T10:55:41.125393-07:00._
 
-[Read the latest digest](digests/2026-11-07.html)
+[Read the latest digest](digests/2026-11-08.html)
 
 ## Latest top links
 
-- [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development) — The Verge AI
-- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) — The Verge AI
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) — TechCrunch AI
-- [How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) — TechCrunch AI
-- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) — The Verge AI
-- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) — The Verge AI
+- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) — TechCrunch AI
+- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) — The Verge AI
+- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos) — The Verge AI
+- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) — TechCrunch AI
+- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-08](digests/2026-11-08.html)
 - [2026-11-07](digests/2026-11-07.html)
 - [2026-11-06](digests/2026-11-06.html)
 - [2026-11-05](digests/2026-11-05.html)
@@ -46,7 +44,6 @@ _Last updated: 2026-11-07T10:44:31.146314-07:00._
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
-- [2026-10-09](digests/2026-10-09.html)
 
 ## About this site
 
