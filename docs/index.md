@@ -1,19 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-08T10:55:41.125393-07:00._
+_Last updated: 2026-11-09T15:21:46.386202-07:00._
 
-[Read the latest digest](digests/2026-11-08.html)
+[Read the latest digest](digests/2026-11-09.html)
 
 ## Latest top links
 
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) — TechCrunch AI
-- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) — The Verge AI
-- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos) — The Verge AI
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) — TechCrunch AI
-- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) — The Verge AI
+- [NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/) — AWS Machine Learning Blog
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — OpenAI Blog
+- [Does Reasoning Improve Psychological Depth in Large Language Models?](https://arxiv.org/abs/2611.09061) — arXiv cs.CL
+- [The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed](https://arxiv.org/abs/2611.09085) — arXiv cs.CL
+- [On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish](https://arxiv.org/abs/2611.09506) — arXiv cs.CL
+- [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak) — OpenAI Blog
+- [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2) — The Verge AI
+- [Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP](https://arxiv.org/abs/2611.08639) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-09](digests/2026-11-09.html)
 - [2026-11-08](digests/2026-11-08.html)
 - [2026-11-07](digests/2026-11-07.html)
 - [2026-11-06](digests/2026-11-06.html)
@@ -43,7 +47,6 @@ _Last updated: 2026-11-08T10:55:41.125393-07:00._
 - [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
-- [2026-10-10](digests/2026-10-10.html)
 
 ## About this site
 

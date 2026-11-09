@@ -1,68 +1,274 @@
 {
-  "digest_date": "2026-11-08",
-  "generated_at": "2026-11-08T10:55:41.125393-07:00",
+  "digest_date": "2026-11-09",
+  "generated_at": "2026-11-09T15:21:46.386202-07:00",
   "items": [
     {
-      "canonical_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-      "published": "2026-11-07T21:17:08+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
+      "published": "2026-11-09T20:01:20+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
+        "model",
+        "agent",
+        "inference",
+        "multimodal"
+      ],
+      "score": 9.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
+      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/control-room",
+      "published": "2026-11-09T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "research",
         "security"
       ],
-      "score": 3.5,
-      "source": "TechCrunch AI",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+      "score": 9.3,
+      "source": "OpenAI Blog",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "published": "2026-11-08T17:23:19+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "published": "2026-11-07T15:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.09061",
+      "published": "2026-11-09T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "security"
+        "gpt",
+        "model",
+        "benchmark",
+        "training"
       ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09061v1 Announce Type: new Abstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of reader experience. We tested this assumption through the lens of psychological depth in short stories. We compared DeepSeek-R1 vs. DeepSeek-V3, our closest available contrast for reasoning-oriented post-training, and GPT-5 vs. GPT-4o, through 60 blinded pairwise evaluations in which seven human annotators and an ensemble LLM-as-a-Judge rated prompt-ma…",
+      "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.09061"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
-      "published": "2026-11-07T22:07:22+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.09085",
+      "published": "2026-11-09T05:00:00+00:00",
       "reasons": [
-        "fresh <30h"
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
+        "benchmark"
       ],
-      "score": 2.7,
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09085v1 Announce Type: new Abstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstrate that automatic metrics (BGE-M3, BERTScore) systematically misrepresent the quality of romanized Hindi, Telugu, and Kannada generation. We evaluate four LLMs (Claude Opus 4.8, GPT-5.5, Gemini 2.5-flash, Qwen3.5-35B) on 142 OpenAssistant query-response pairs. On a 72-response diagnostic subset, native speakers rate GPT-5.5 1.43 points higher than…",
+      "title": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+      "url": "https://arxiv.org/abs/2611.09085"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.09506",
+      "published": "2026-11-09T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "mistral",
+        "model",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09506v1 Announce Type: new Abstract: We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task. We evaluate four model families (Llama, Mistral, Gemma, and Qwen) across eleven prompting strategies spanning five design categories, cross-prompt generalization, Danish orthographic variation, and robustness under balanced and naturally imbalanced class distributions. We compare against three BERT-family baselines with distinct pre-training strategies, evaluated via both masked language model prompting and supervised fine-tuning. Eve…",
+      "title": "On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish",
+      "url": "https://arxiv.org/abs/2611.09506"
+    },
+    {
+      "canonical_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09T08:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "agent"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "published": "2026-11-09T19:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude",
+        "model"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.08639",
+      "published": "2026-11-09T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "model",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.08639v1 Announce Type: new Abstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide a first mechanistic explanation of this effect on the Weapons of Mass Destruction Proxy (WMDP) dataset across two models - Llama-3.1-8B and Qwen3-8B. First, we use the tuned lens technique to show that when processing MCQ the model commits to an answer-letter token very quickly, which is in contrast to the gradual refusal build-up in open-ended fo…",
+      "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+      "url": "https://arxiv.org/abs/2611.08639"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.21729",
+      "published": "2026-11-09T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2608.21729v2 Announce Type: replace Abstract: Simulation-Based Inference (SBI) serves as a vital framework for parameter inference in scientific fields where simulators involve intractable likelihoods, yet while amortized generative models offer rapid posterior estimation, they are often restricted by the specific priors used during training, thereby limiting their flexibility as prior knowledge evolves. To address this prior dependency, PriorGuide was introduced as an inference-time guidance method, but due to its intractable formulation, it relies on Gaussian approximations of the reverse transition kernel and Gaussian mixture model…",
+      "title": "Guidance for Prior Change via Density Ratio Estimation",
+      "url": "https://arxiv.org/abs/2608.21729"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+      "published": "2026-11-09T20:04:37+00:00",
+      "reasons": [
+        "fresh <12h",
+        "claude",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+      "published": "2026-11-09T19:24:51+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model"
+      ],
+      "score": 6.9,
       "source": "TechCrunch AI",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
     },
     {
-      "canonical_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "published": "2026-11-07T15:50:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore",
+      "published": "2026-11-09T18:55:43+00:00",
       "reasons": [
-        "fresh <30h"
+        "fresh <12h",
+        "model",
+        "agent"
       ],
-      "score": 2.6,
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses.",
+      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+      "published": "2026-11-09T18:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "published": "2026-11-09T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "claude",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "Anthropic News",
+      "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "canonical_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "enterprise"
+      ],
+      "score": 6.8,
+      "source": "OpenAI Blog",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "published": "2026-11-09T15:50:38+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "ai safety"
+      ],
+      "score": 6.8,
       "source": "The Verge AI",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2505.15417",
+      "published": "2026-11-09T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "inference",
+        "training",
+        "multimodal"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2505.15417v2 Announce Type: replace Abstract: Real-world multimodal systems routinely face missing-input scenarios, and in reality, robots lose audio in a factory or a clinical record omits lab tests at inference time. Standard fusion layers either preserve robustness or calibration but never both. We introduce Adaptive Entropy-Gated Contrastive Fusion (AECF), a single light-weight layer that (i) adapts its entropy coefficient per instance, (ii) enforces monotone calibration across all modality subsets, and (iii) drives a curriculum mask directly from training-time entropy. On AV-MNIST and MS-COCO, AECF improves masked-input mAP by +18…",
+      "title": "Robust Multimodal Learning via Entropy-Gated Contrastive Fusion",
+      "url": "https://arxiv.org/abs/2505.15417"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2604.18820",
+      "published": "2026-11-09T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "research"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2604.18820v3 Announce Type: replace Abstract: Recovering latent structure from count data has received considerable attention in network inference, particularly when one seeks both cross-group interactions and within-group similarity patterns in bipartite networks, which are widely used in ecology research. Such networks are often sparse and prone to imperfect detection. Existing models mainly focus on interaction recovery, while the induced similarity graphs are much less studied. Moreover, existing models for under-counted data place sparsity, if at all, on the detection model rather than on these graphs. To address these issues, we…",
+      "title": "Sparse Network Inference under Imperfect Detection and its Application to Ecological Networks",
+      "url": "https://arxiv.org/abs/2604.18820"
     }
   ]
 }
