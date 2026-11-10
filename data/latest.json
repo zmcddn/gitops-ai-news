@@ -1,274 +1,269 @@
 {
-  "digest_date": "2026-11-09",
-  "generated_at": "2026-11-09T15:21:46.386202-07:00",
+  "digest_date": "2026-11-10",
+  "generated_at": "2026-11-10T12:43:46.859008-07:00",
   "items": [
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
-      "published": "2026-11-09T20:01:20+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "inference",
-        "multimodal"
-      ],
-      "score": 9.4,
-      "source": "AWS Machine Learning Blog",
-      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
-      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/control-room",
-      "published": "2026-11-09T13:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "published": "2026-11-10T16:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "openai",
+        "anthropic",
+        "gemini",
         "model",
-        "research",
+        "agent",
         "security"
       ],
-      "score": 9.3,
-      "source": "OpenAI Blog",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room"
+      "score": 12.7,
+      "source": "The Verge AI",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.09061",
-      "published": "2026-11-09T05:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "published": "2026-11-10T17:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "anthropic",
+        "claude",
+        "enterprise"
+      ],
+      "score": 9.3,
+      "source": "The Verge AI",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+      "published": "2026-11-10T15:54:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "training",
+        "chip"
+      ],
+      "score": 8.6,
+      "source": "TechCrunch AI",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published": "2026-11-10T12:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.08892",
+      "published": "2026-11-10T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "gpt",
         "model",
-        "benchmark",
         "training"
       ],
-      "score": 9.3,
+      "score": 7.6,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.09061v1 Announce Type: new Abstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of reader experience. We tested this assumption through the lens of psychological depth in short stories. We compared DeepSeek-R1 vs. DeepSeek-V3, our closest available contrast for reasoning-oriented post-training, and GPT-5 vs. GPT-4o, through 60 blinded pairwise evaluations in which seven human annotators and an ensemble LLM-as-a-Judge rated prompt-ma…",
-      "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
-      "url": "https://arxiv.org/abs/2611.09061"
+      "summary": "arXiv:2611.08892v1 Announce Type: new Abstract: Recursive self-training of language models, a setting studied in model collapse, can reduce vocabulary while making frequent words, mostly function words, less dominant. We fine-tune English GPT-2 on its own output for nine generations, vary the training-data sampling temperature, and measure every model with one fixed sampler. As training temperature rises, Renyi entropy changes turn from loss to gain at distinct temperatures: min-entropy first, then collision entropy, Shannon entropy and observed richness. Between the outer crossings, word types fall while the most-common word becomes less do…",
+      "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
+      "url": "https://arxiv.org/abs/2611.08892"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.09085",
-      "published": "2026-11-09T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.09027",
+      "published": "2026-11-10T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09027v1 Announce Type: new Abstract: Code-trained language models produce positive brain scores, which raises the question of whether abstract structure learned from programming languages can substitute for natural-language training. We trained 25 GPT-2-small models on TinyStories, Python, C functions, x86-64 assembly, and the corresponding machine code, and scored them using a shared tokenizer and encoding procedure against matched random-weight models. On Pereira-243 and Tuckute2024, TinyStories exceeds the mean of the four code models by $\\Delta r = 0.053$ and $0.059$ (Holm-corrected $p<0.001$), while code training leaves align…",
+      "title": "Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry",
+      "url": "https://arxiv.org/abs/2611.09027"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.09042",
+      "published": "2026-11-10T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09042v1 Announce Type: new Abstract: Training smaller language models on reasoning solutions generated by a larger teacher model is the prevailing approach for transferring mathematical reasoning capabilities. However, the student tends to overfit the output distribution of the teacher and generalizes poorly when its own behavior at inference time deviates from the training data. Recent methods attempt to bridge this gap by incorporating error data, yet the corrective trajectories still reflect the reasoning patterns of the teacher, which the student cannot reliably reproduce, leaving the distribution mismatch largely unresolved.…",
+      "title": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2611.09042"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.09090",
+      "published": "2026-11-10T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.09090v1 Announce Type: new Abstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retrieval errors and indexing overhead. In this paper, we explore retriever-free multilingual search, where the model directly interacts with raw corpora through executable shell commands. This paradigm shifts the bottleneck to multilingual search action generation, where exact search is sensitive to entity surface forms and outcome-only supervision provides limited guidance for multi-turn search. To address t…",
+      "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+      "url": "https://arxiv.org/abs/2611.09090"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "published": "2026-11-09T19:51:47+00:00",
       "reasons": [
         "fresh <30h",
         "gemini",
-        "gpt",
-        "claude",
+        "model",
+        "robotics"
+      ],
+      "score": 7.4,
+      "source": "Google DeepMind Blog",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "published": "2026-11-10T19:03:52+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+      "published": "2026-11-10T18:49:52+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+      "published": "2026-11-10T17:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "published": "2026-11-10T16:59:43+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
         "benchmark"
       ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.09085v1 Announce Type: new Abstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstrate that automatic metrics (BGE-M3, BERTScore) systematically misrepresent the quality of romanized Hindi, Telugu, and Kannada generation. We evaluate four LLMs (Claude Opus 4.8, GPT-5.5, Gemini 2.5-flash, Qwen3.5-35B) on 142 OpenAssistant query-response pairs. On a 72-response diagnostic subset, native speakers rate GPT-5.5 1.43 points higher than…",
-      "title": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
-      "url": "https://arxiv.org/abs/2611.09085"
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.09506",
-      "published": "2026-11-09T05:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "published": "2026-11-10T18:00:00+00:00",
       "reasons": [
-        "fresh <30h",
-        "llama",
-        "mistral",
-        "model",
-        "training"
+        "fresh <12h",
+        "gpt",
+        "agent"
       ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.09506v1 Announce Type: new Abstract: We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task. We evaluate four model families (Llama, Mistral, Gemma, and Qwen) across eleven prompting strategies spanning five design categories, cross-prompt generalization, Danish orthographic variation, and robustness under balanced and naturally imbalanced class distributions. We compare against three BERT-family baselines with distinct pre-training strategies, evaluated via both masked language model prompting and supervised fine-tuning. Eve…",
-      "title": "On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish",
-      "url": "https://arxiv.org/abs/2611.09506"
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
     },
     {
-      "canonical_url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published": "2026-11-09T08:00:00+00:00",
+      "canonical_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published": "2026-11-10T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "research"
+      ],
+      "score": 6.8,
+      "source": "OpenAI Blog",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "published": "2026-11-10T18:11:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T10:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    },
+    {
+      "canonical_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "2026-11-10T07:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "openai",
-        "model",
-        "agent"
-      ],
-      "score": 8.6,
-      "source": "OpenAI Blog",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "published": "2026-11-09T19:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "claude",
-        "model"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.08639",
-      "published": "2026-11-09T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "llama",
-        "model",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.08639v1 Announce Type: new Abstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide a first mechanistic explanation of this effect on the Weapons of Mass Destruction Proxy (WMDP) dataset across two models - Llama-3.1-8B and Qwen3-8B. First, we use the tuned lens technique to show that when processing MCQ the model commits to an answer-letter token very quickly, which is in contrast to the gradual refusal build-up in open-ended fo…",
-      "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
-      "url": "https://arxiv.org/abs/2611.08639"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.21729",
-      "published": "2026-11-09T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.21729v2 Announce Type: replace Abstract: Simulation-Based Inference (SBI) serves as a vital framework for parameter inference in scientific fields where simulators involve intractable likelihoods, yet while amortized generative models offer rapid posterior estimation, they are often restricted by the specific priors used during training, thereby limiting their flexibility as prior knowledge evolves. To address this prior dependency, PriorGuide was introduced as an inference-time guidance method, but due to its intractable formulation, it relies on Gaussian approximations of the reverse transition kernel and Gaussian mixture model…",
-      "title": "Guidance for Prior Change via Density Ratio Estimation",
-      "url": "https://arxiv.org/abs/2608.21729"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
-      "published": "2026-11-09T20:04:37+00:00",
-      "reasons": [
-        "fresh <12h",
-        "claude",
-        "model"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-      "title": "Introducing Claude Fable 5.2 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
-      "published": "2026-11-09T19:24:51+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "model"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore",
-      "published": "2026-11-09T18:55:43+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses.",
-      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-      "published": "2026-11-09T18:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-    },
-    {
-      "canonical_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "published": "2026-11-09T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "claude",
-        "model"
-      ],
-      "score": 6.9,
-      "source": "Anthropic News",
-      "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-    },
-    {
-      "canonical_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published": "2026-11-09T19:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "enterprise"
-      ],
-      "score": 6.8,
-      "source": "OpenAI Blog",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "published": "2026-11-09T15:50:38+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "ai safety"
-      ],
-      "score": 6.8,
-      "source": "The Verge AI",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2505.15417",
-      "published": "2026-11-09T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "inference",
-        "training",
-        "multimodal"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2505.15417v2 Announce Type: replace Abstract: Real-world multimodal systems routinely face missing-input scenarios, and in reality, robots lose audio in a factory or a clinical record omits lab tests at inference time. Standard fusion layers either preserve robustness or calibration but never both. We introduce Adaptive Entropy-Gated Contrastive Fusion (AECF), a single light-weight layer that (i) adapts its entropy coefficient per instance, (ii) enforces monotone calibration across all modality subsets, and (iii) drives a curriculum mask directly from training-time entropy. On AV-MNIST and MS-COCO, AECF improves masked-input mAP by +18…",
-      "title": "Robust Multimodal Learning via Entropy-Gated Contrastive Fusion",
-      "url": "https://arxiv.org/abs/2505.15417"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2604.18820",
-      "published": "2026-11-09T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
         "research"
       ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2604.18820v3 Announce Type: replace Abstract: Recovering latent structure from count data has received considerable attention in network inference, particularly when one seeks both cross-group interactions and within-group similarity patterns in bipartite networks, which are widely used in ecology research. Such networks are often sparse and prone to imperfect detection. Existing models mainly focus on interaction recovery, while the induced similarity graphs are much less studied. Moreover, existing models for under-counted data place sparsity, if at all, on the detection model rather than on these graphs. To address these issues, we…",
-      "title": "Sparse Network Inference under Imperfect Detection and its Application to Ecological Networks",
-      "url": "https://arxiv.org/abs/2604.18820"
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
     }
   ]
 }
