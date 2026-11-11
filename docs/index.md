@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-10T12:43:46.859008-07:00._
+_Last updated: 2026-11-11T12:35:42.037332-07:00._
 
-[Read the latest digest](digests/2026-11-10.html)
+[Read the latest digest](digests/2026-11-11.html)
 
 ## Latest top links
 
-- [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout) — The Verge AI
-- [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now) — The Verge AI
-- [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/) — TechCrunch AI
-- [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) — OpenAI Blog
-- [Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training](https://arxiv.org/abs/2611.08892) — arXiv cs.CL
-- [Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry](https://arxiv.org/abs/2611.09027) — arXiv cs.CL
-- [Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation](https://arxiv.org/abs/2611.09042) — arXiv cs.CL
-- [MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition](https://arxiv.org/abs/2611.09090) — arXiv cs.CL
+- [Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation](https://arxiv.org/abs/2611.13329) — arXiv cs.AI
+- [Beyond Passive Imitation: On-Policy Mid-Training Distillation for Language Models](https://arxiv.org/abs/2611.13855) — arXiv cs.CL
+- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) — TechCrunch AI
+- [BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research](https://arxiv.org/abs/2611.12966) — arXiv cs.AI
+- [Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams](https://arxiv.org/abs/2611.13217) — arXiv cs.AI
+- [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) — Google AI Blog
+- [Introducing Kimi K3.1 Pro on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Google’s AlphaGenome 2 zooms in on the cellular roots of disease](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-11](digests/2026-11-11.html)
 - [2026-11-10](digests/2026-11-10.html)
 - [2026-11-09](digests/2026-11-09.html)
 - [2026-11-08](digests/2026-11-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-10T12:43:46.859008-07:00._
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
-- [2026-10-12](digests/2026-10-12.html)
 
 ## About this site
 
