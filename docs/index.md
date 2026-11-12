@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-11T12:35:42.037332-07:00._
+_Last updated: 2026-11-12T12:54:20.363154-07:00._
 
-[Read the latest digest](digests/2026-11-11.html)
+[Read the latest digest](digests/2026-11-12.html)
 
 ## Latest top links
 
-- [Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation](https://arxiv.org/abs/2611.13329) — arXiv cs.AI
-- [Beyond Passive Imitation: On-Policy Mid-Training Distillation for Language Models](https://arxiv.org/abs/2611.13855) — arXiv cs.CL
-- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) — TechCrunch AI
-- [BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research](https://arxiv.org/abs/2611.12966) — arXiv cs.AI
-- [Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams](https://arxiv.org/abs/2611.13217) — arXiv cs.AI
-- [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) — Google AI Blog
-- [Introducing Kimi K3.1 Pro on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Google’s AlphaGenome 2 zooms in on the cellular roots of disease](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model) — The Verge AI
+- [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/) — AWS Machine Learning Blog
+- [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) — AWS Machine Learning Blog
+- [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations) — The Verge AI
+- [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) — TechCrunch AI
+- [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/) — TechCrunch AI
+- [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-11-12](digests/2026-11-12.html)
 - [2026-11-11](digests/2026-11-11.html)
 - [2026-11-10](digests/2026-11-10.html)
 - [2026-11-09](digests/2026-11-09.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-11T12:35:42.037332-07:00._
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
-- [2026-10-13](digests/2026-10-13.html)
 
 ## About this site
 
