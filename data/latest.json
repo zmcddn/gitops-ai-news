@@ -1,254 +1,252 @@
 {
-  "digest_date": "2026-11-12",
-  "generated_at": "2026-11-12T12:54:20.363154-07:00",
+  "digest_date": "2026-11-13",
+  "generated_at": "2026-11-13T12:41:58.541956-07:00",
   "items": [
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
-      "published": "2026-11-11T21:05:59+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "published": "2026-11-13T18:01:15+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
         "model",
-        "agent",
         "inference",
-        "chip"
+        "training"
       ],
-      "score": 9.5,
+      "score": 8.6,
       "source": "AWS Machine Learning Blog",
-      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
-      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/"
+      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
-      "published": "2026-11-11T23:35:47+00:00",
+      "canonical_url": "https://openai.com/business/customer-stories/amplitude",
+      "published": "2026-11-12T20:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "openai",
-        "model",
-        "security",
-        "developer",
-        "enterprise"
-      ],
-      "score": 8.5,
-      "source": "AWS Machine Learning Blog",
-      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
-      "title": "OpenAI Codex on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
-      "published": "2026-11-12T18:41:12+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "model",
-        "developer"
-      ],
-      "score": 7.7,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "published": "2026-11-12T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini",
-        "gpt",
-        "research"
-      ],
-      "score": 7.6,
-      "source": "The Verge AI",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
-      "published": "2026-11-12T18:43:19+00:00",
-      "reasons": [
-        "fresh <12h",
         "model",
         "agent"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "published": "2026-11-13T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "published": "2026-11-13T18:40:30+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "chip",
+        "research"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "published": "2026-11-13T19:35:35+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "gpu"
       ],
       "score": 6.9,
       "source": "AWS Machine Learning Blog",
-      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
-      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/"
+      "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
-      "published": "2026-11-12T18:39:23+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "published": "2026-11-13T16:00:12+00:00",
       "reasons": [
         "fresh <12h",
-        "model",
-        "open source"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-      "published": "2026-11-12T17:17:58+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "security"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/children-first-declaration",
-      "published": "2026-11-12T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "research"
-      ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "published": "2026-11-12T19:42:40+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "research"
-      ],
-      "score": 5.9,
-      "source": "The Verge AI",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-    },
-    {
-      "canonical_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "published": "2026-11-12T18:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini"
-      ],
-      "score": 5.7,
-      "source": "Google AI Blog",
-      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
-    },
-    {
-      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "published": "2026-11-12T18:00:50+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini"
-      ],
-      "score": 5.4,
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
-      "published": "2026-11-12T19:27:45+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-      "published": "2026-11-12T19:11:00+00:00",
-      "reasons": [
-        "fresh <12h",
+        "gpt",
         "agent"
       ],
-      "score": 5.2,
+      "score": 6.9,
       "source": "TechCrunch AI",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published": "2026-11-12T00:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "published": "2026-11-12T15:40:24+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "mcp"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "published": "2026-11-13T18:44:02+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "developer"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "published": "2026-11-12T21:55:32+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "model"
+      ],
+      "score": 6.0,
+      "source": "The Verge AI",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "2026-11-13T14:05:22+00:00",
+      "reasons": [
+        "fresh <12h",
+        "llama"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "published": "2026-11-12T20:16:24+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip",
+        "security"
+      ],
+      "score": 5.1,
+      "source": "MIT Technology Review AI",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "published": "2026-11-12T21:27:10+00:00",
       "reasons": [
         "fresh <30h",
         "model"
       ],
       "score": 4.4,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning"
+      "source": "TechCrunch AI",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
     },
     {
-      "canonical_url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published": "2026-11-11T08:00:00+00:00",
+      "canonical_url": "https://openai.com/business/customer-stories/gondola",
+      "published": "2026-11-12T12:00:00+00:00",
       "reasons": [
         "recent <72h",
         "gpt"
       ],
       "score": 4.4,
       "source": "OpenAI Blog",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola"
     },
     {
-      "canonical_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published": "2026-11-12T09:30:00+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 4.3,
-      "source": "OpenAI Blog",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "published": "2026-11-12T17:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "published": "2026-11-13T15:58:00+00:00",
       "reasons": [
         "fresh <12h",
-        "developer"
+        "security"
       ],
-      "score": 4.2,
-      "source": "The Verge AI",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+      "score": 4.3,
+      "source": "TechCrunch AI",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "published": "2026-11-12T19:07:35+00:00",
+      "canonical_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published": "2026-11-13T18:00:39+00:00",
       "reasons": [
         "fresh <12h"
       ],
       "score": 3.5,
       "source": "Hugging Face Blog",
       "summary": "",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/xybench",
+      "published": "2026-11-13T17:02:35+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.5,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "published": "2026-11-13T14:47:16+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
     }
   ]
 }

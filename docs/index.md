@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-12T12:54:20.363154-07:00._
+_Last updated: 2026-11-13T12:41:58.541956-07:00._
 
-[Read the latest digest](digests/2026-11-12.html)
+[Read the latest digest](digests/2026-11-13.html)
 
 ## Latest top links
 
-- [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/) — AWS Machine Learning Blog
-- [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) — AWS Machine Learning Blog
-- [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations) — The Verge AI
-- [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) — TechCrunch AI
-- [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/) — TechCrunch AI
-- [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration) — OpenAI Blog
+- [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/) — AWS Machine Learning Blog
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) — OpenAI Blog
+- [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on) — The Verge AI
+- [Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) — TechCrunch AI
+- [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) — OpenAI Blog
+- [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/) — AWS Machine Learning Blog
+- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) — TechCrunch AI
+- [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-11-13](digests/2026-11-13.html)
 - [2026-11-12](digests/2026-11-12.html)
 - [2026-11-11](digests/2026-11-11.html)
 - [2026-11-10](digests/2026-11-10.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-12T12:54:20.363154-07:00._
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
-- [2026-10-14](digests/2026-10-14.html)
 
 ## About this site
 
