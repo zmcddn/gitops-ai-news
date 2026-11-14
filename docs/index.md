@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-13T12:41:58.541956-07:00._
+_Last updated: 2026-11-14T11:01:19.046395-07:00._
 
-[Read the latest digest](digests/2026-11-13.html)
+[Read the latest digest](digests/2026-11-14.html)
 
 ## Latest top links
 
-- [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/) — AWS Machine Learning Blog
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) — OpenAI Blog
-- [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on) — The Verge AI
-- [Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) — TechCrunch AI
-- [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) — OpenAI Blog
-- [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/) — AWS Machine Learning Blog
-- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) — TechCrunch AI
-- [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/) — AWS Machine Learning Blog
+- [Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924) — arXiv cs.AI
+- [Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training](https://arxiv.org/abs/2611.14942) — arXiv cs.AI
+- [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) — The Verge AI
+- [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) — The Verge AI
+- [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681) — arXiv cs.AI
+- [RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving](https://arxiv.org/abs/2611.14949) — arXiv cs.AI
+- [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/) — AWS Machine Learning Blog
+- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-14](digests/2026-11-14.html)
 - [2026-11-13](digests/2026-11-13.html)
 - [2026-11-12](digests/2026-11-12.html)
 - [2026-11-11](digests/2026-11-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-13T12:41:58.541956-07:00._
 - [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
-- [2026-10-15](digests/2026-10-15.html)
 
 ## About this site
 
