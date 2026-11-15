@@ -1,249 +1,44 @@
 {
-  "digest_date": "2026-11-14",
-  "generated_at": "2026-11-14T11:01:19.046395-07:00",
+  "digest_date": "2026-11-15",
+  "generated_at": "2026-11-15T11:51:23.267584-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.14924",
-      "published": "2026-11-14T05:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "published": "2026-11-15T00:08:07+00:00",
       "reasons": [
         "fresh <30h",
-        "gpt",
-        "model",
-        "gpu",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Tesla T4). Our system-level analysis identifies a critical trade-off: while generative pre-trained transformer quantization (GPTQ) offers superior throu…",
-      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "url": "https://arxiv.org/abs/2611.14924"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.14942",
-      "published": "2026-11-14T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.14942v1 Announce Type: new Abstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-manipulation tasks solvable by symbolic rules alone. We identify a vision-language axis in hidden-state space and ablate its projection at inference. In Chameleon-7B, this ablation drops accuracy on BIG-Bench Hard (BBH) navigate by 27.6 pp while leavi…",
-      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
-      "url": "https://arxiv.org/abs/2611.14942"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "published": "2026-11-13T20:45:10+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "gpt",
-        "agent"
-      ],
-      "score": 7.7,
-      "source": "The Verge AI",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "published": "2026-11-14T15:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "ai safety",
+        "chip",
         "security"
       ],
-      "score": 7.6,
-      "source": "The Verge AI",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.14681",
-      "published": "2026-11-14T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "inference"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff between measurement throughput and fidelity. Many systems use agents to optimize individual kernels from the inference forward pass using offline benchma…",
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "url": "https://arxiv.org/abs/2611.14681"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.14949",
-      "published": "2026-11-14T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.14949v1 Announce Type: new Abstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation templates, including both classical and fractional PDEs. It provides three evaluation settings: Full evaluates performance on noise-free solution data…",
-      "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
-      "url": "https://arxiv.org/abs/2611.14949"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
-      "published": "2026-11-13T21:53:40+00:00",
-      "reasons": [
-        "fresh <30h",
-        "inference",
-        "gpu",
-        "privacy"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
-      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-      "published": "2026-11-13T19:37:57+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "startup"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
-      "published": "2026-11-13T23:22:09+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference"
-      ],
-      "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
-      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
-      "published": "2026-11-13T22:30:12+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent"
-      ],
-      "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
-      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/shield",
-      "published": "2026-11-13T08:00:00+00:00",
-      "reasons": [
-        "recent <72h",
-        "openai",
-        "agent"
-      ],
-      "score": 6.1,
-      "source": "OpenAI Blog",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "published": "2026-11-14T17:30:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "startup"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-      "published": "2026-11-14T16:34:15+00:00",
-      "reasons": [
-        "fresh <12h",
-        "chip"
-      ],
       "score": 5.2,
       "source": "TechCrunch AI",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
-      "published": "2026-11-13T22:02:39+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent",
-        "startup"
-      ],
-      "score": 5.2,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
-      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
-      "published": "2026-11-13T22:43:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "startup",
-        "funding"
-      ],
-      "score": 4.3,
-      "source": "TechCrunch AI",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "published": "2026-11-14T12:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "published": "2026-11-15T13:00:00+00:00",
       "reasons": [
         "fresh <12h"
       ],
       "score": 3.4,
       "source": "The Verge AI",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
     },
     {
-      "canonical_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "published": "2026-11-13T23:49:11+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "published": "2026-11-14T21:41:22+00:00",
       "reasons": [
         "fresh <30h"
       ],
-      "score": 2.6,
-      "source": "The Verge AI",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      "score": 2.7,
+      "source": "TechCrunch AI",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     }
   ]
 }
