@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-15T11:51:23.267584-07:00._
+_Last updated: 2026-11-16T15:01:23.051435-07:00._
 
-[Read the latest digest](digests/2026-11-15.html)
+[Read the latest digest](digests/2026-11-16.html)
 
 ## Latest top links
 
-- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) — TechCrunch AI
-- [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) — The Verge AI
-- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) — TechCrunch AI
+- [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359) — arXiv cs.CL
+- [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) — arXiv cs.AI
+- [Aligning AI Teams](https://arxiv.org/abs/2611.17820) — arXiv cs.AI
+- [AI Reviews Are Biased Towards the Appendix](https://arxiv.org/abs/2611.17811) — arXiv cs.CL
+- [BLiMP-RO: A Benchmark of Linguistic Minimal Pairs for Romanian](https://arxiv.org/abs/2611.17836) — arXiv cs.CL
+- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) — OpenAI Blog
+- [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339) — arXiv cs.AI
+- [AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning](https://arxiv.org/abs/2611.17790) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-11-16](digests/2026-11-16.html)
 - [2026-11-15](digests/2026-11-15.html)
 - [2026-11-14](digests/2026-11-14.html)
 - [2026-11-13](digests/2026-11-13.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-11-15T11:51:23.267584-07:00._
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
-- [2026-10-17](digests/2026-10-17.html)
 
 ## About this site
 
