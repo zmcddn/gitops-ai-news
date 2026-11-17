@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-16T15:01:23.051435-07:00._
+_Last updated: 2026-11-17T13:55:32.650929-07:00._
 
-[Read the latest digest](digests/2026-11-16.html)
+[Read the latest digest](digests/2026-11-17.html)
 
 ## Latest top links
 
-- [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359) — arXiv cs.CL
-- [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) — arXiv cs.AI
-- [Aligning AI Teams](https://arxiv.org/abs/2611.17820) — arXiv cs.AI
-- [AI Reviews Are Biased Towards the Appendix](https://arxiv.org/abs/2611.17811) — arXiv cs.CL
-- [BLiMP-RO: A Benchmark of Linguistic Minimal Pairs for Romanian](https://arxiv.org/abs/2611.17836) — arXiv cs.CL
-- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) — OpenAI Blog
-- [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339) — arXiv cs.AI
-- [AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning](https://arxiv.org/abs/2611.17790) — arXiv cs.AI
+- [Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows](https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/) — AWS Machine Learning Blog
+- [Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free) — The Verge AI
+- [How Duco transforms financial data automation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/) — TechCrunch AI
+- [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/) — AWS Machine Learning Blog
+- [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/) — TechCrunch AI
+- [Govern and discover records with common metadata in AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/) — AWS Machine Learning Blog
+- [How Revolut raises ambition without lowering the bar](https://openai.com/business/customer-stories/revolut) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-11-17](digests/2026-11-17.html)
 - [2026-11-16](digests/2026-11-16.html)
 - [2026-11-15](digests/2026-11-15.html)
 - [2026-11-14](digests/2026-11-14.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-16T15:01:23.051435-07:00._
 - [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
-- [2026-10-18](digests/2026-10-18.html)
 
 ## About this site
 
