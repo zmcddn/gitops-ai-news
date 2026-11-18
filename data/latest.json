@@ -1,261 +1,283 @@
 {
-  "digest_date": "2026-11-17",
-  "generated_at": "2026-11-17T13:55:32.650929-07:00",
+  "digest_date": "2026-11-18",
+  "generated_at": "2026-11-18T13:31:11.008226-07:00",
   "items": [
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
-      "published": "2026-11-17T19:40:01+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "published": "2026-11-18T15:44:02+00:00",
       "reasons": [
         "fresh <12h",
+        "openai",
+        "anthropic",
+        "model",
+        "agent",
+        "training",
+        "chip",
+        "security"
+      ],
+      "score": 14.4,
+      "source": "The Verge AI",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used […]",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+    },
+    {
+      "canonical_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "gpt",
+        "model",
+        "chip"
+      ],
+      "score": 10.3,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection",
+      "published": "2026-11-18T19:05:45+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "mcp",
+        "enterprise"
+      ],
+      "score": 9.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource gateway in the network account so every hop crosses the firewall.",
+      "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.21799",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
         "model",
         "agent",
         "training"
       ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from your own notebook or IDE.",
-      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though training contains no monitor-evasion examples. In covert side-task evaluations, traces in which a gpt-oss-20b model organism completes the hidden side t…",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799"
     },
     {
-      "canonical_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "published": "2026-11-17T18:58:01+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini",
-        "model",
-        "agent"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
-      "published": "2026-11-16T22:06:08+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.22115",
+      "published": "2026-11-18T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
-        "mcp"
-      ],
-      "score": 7.8,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
-      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
-      "published": "2026-11-17T19:32:11+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "startup"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart",
-      "published": "2026-11-17T18:06:44+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
         "training",
-        "open source"
+        "chip"
       ],
-      "score": 7.7,
-      "source": "AWS Machine Learning Blog",
-      "summary": "OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time endpoint and fine-tune it on your own data with TimeNet and a SageMaker training job.",
-      "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.22115v1 Announce Type: new Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperPara…",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "url": "https://arxiv.org/abs/2611.22115"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
-      "published": "2026-11-17T17:32:25+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.22148",
+      "published": "2026-11-18T05:00:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "gpt",
-        "claude",
-        "privacy"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry",
-      "published": "2026-11-17T20:31:04+00:00",
-      "reasons": [
-        "fresh <12h",
+        "fresh <30h",
+        "model",
         "agent",
-        "mcp"
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.22148v1 Announce Type: new Abstract: Open-weight language models are widely observed to get worse the longer they generate. Often, attempts to fix this involve more training. At high temperature, The sampler, i.e. the rule that picks the next token out of the model's probabilities, decides whether long and agentic generation survives and/or thrives. We test 29 open-weight models from 1B to 122B parameters on ten established benchmarks plus needle retrieval out to one million tokens, covering SWE-bench Verified coding agents, long chain-of-thought reasoning, long-form writing, long structured output and long-context reading. Sample…",
+      "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+      "url": "https://arxiv.org/abs/2611.22148"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.22177",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after bad news, if the market's fall went too far. However, studies of LLMs and earnings read documents published with or after the announcement, and studies of reversal sort monthly portfolios, so neither tells whether an agent can trade these moments after costs. In this paper, we tes…",
+      "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.22425",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.22425v1 Announce Type: new Abstract: Small language model agents have limited space to read the memory needed for multi-hop questions. Relevant facts are often scattered across records whose surrounding text consumes much of that space. We propose LMMR, a learned multigranular memory retrieval method that selects both the next source and how much of it to read. LMMR links paragraphs and sentence fragments to their original sources and pairs views that supply the same missing support during training. Relevant distractors and repeated information provide contrasting examples. At inference, the reranker scores what each candidate add…",
+      "title": "LMMR: Learned Multigranular Memory Retrieval for Small Language Model Agents",
+      "url": "https://arxiv.org/abs/2611.22425"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.21974",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "inference",
+        "gpu"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.21974v1 Announce Type: cross Abstract: Low-bit LLM quantization is useful only if a model preserves service-relevant accuracy, executes through supported GPU kernels, and meets measured memory and latency limits. We study Qwen3-8B on NVIDIA B200 with vLLM, including INT2/INT3, GPTQ, NVFP4, and mixed-precision configurations. We verify native packed execution and precision on all 144 fused linear modules and evaluate Korean, English, numerical, and reasoning quality under preregistered gates. Packed INT2 and INT3 execute, but all seven tested INT2 grids degenerate on generation. Isolated module-restoration effects are strongly non-…",
+      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+      "url": "https://arxiv.org/abs/2611.21974"
+    },
+    {
+      "canonical_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published": "2026-11-18T06:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "training"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.21646",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.21646v1 Announce Type: new Abstract: We present Limite 1B - Violetto, a one-billion-parameter model designed for high-throughput mathematical reasoning. Limite is trained from scratch on 237 billion tokens from a carefully curated, mathematics-centric corpus and supports context lengths of up to 131k tokens. Its architecture and training recipe were developed together to maximize reasoning capability while keeping training and inference costs low. Post-training combines knowledge distillation, targeted supervised fine-tuning, and RLVR on a curated curriculum. Limite achieves 94.01% on AIME 2026 and 74.25% on BeyondAIME, placing it…",
+      "title": "Limite 1B - Violetto: Technical Report",
+      "url": "https://arxiv.org/abs/2611.21646"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.21653",
+      "published": "2026-11-18T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.21653v1 Announce Type: new Abstract: Financial sentiment analysis is critical for automated trading, portfolio management, and risk assessment, heavily relying on models like FinBERT. Despite high benchmark accuracy, these models remain vulnerable to subtle adversarial text modifications, threatening the integrity of algorithmic decision-making. In this paper, we propose Agent-driven Semantic Inversion (ASI), a novel adversarial attack framework targeting financial sentiment models through domain-specific semantic manipulation. Utilizing an LLM-powered multi-agent pipeline, our approach identifies eligible financial news sentences…",
+      "title": "Evaluating Semantic Insensitivity in Financial Sentiment Analysis: Implications for Sustainable Financial Decision-Making",
+      "url": "https://arxiv.org/abs/2611.21653"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "published": "2026-11-18T20:13:18+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "inference"
       ],
       "score": 6.9,
       "source": "AWS Machine Learning Blog",
-      "summary": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.",
-      "title": "Govern and discover records with common metadata in AWS Agent Registry",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+      "summary": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while keeping its data residency commitments, and sees per request where each call was served and why.",
+      "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
     },
     {
-      "canonical_url": "https://openai.com/business/customer-stories/revolut",
-      "published": "2026-11-16T09:30:00+00:00",
+      "canonical_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published": "2026-11-18T00:00:00+00:00",
       "reasons": [
-        "recent <72h",
+        "fresh <30h",
         "openai",
-        "model",
-        "security"
+        "gpt"
       ],
       "score": 6.9,
       "source": "OpenAI Blog",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut"
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
-      "canonical_url": "https://openai.com/index/lvmh-media-division-partnership",
-      "published": "2026-11-16T09:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "published": "2026-11-18T12:00:00+00:00",
       "reasons": [
-        "recent <72h",
-        "openai",
-        "gpt"
+        "fresh <12h",
+        "agent",
+        "startup",
+        "enterprise"
+      ],
+      "score": 6.8,
+      "source": "TechCrunch AI",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
+      "published": "2026-11-17T23:33:26+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
       ],
       "score": 6.1,
-      "source": "OpenAI Blog",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership"
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.",
+      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/"
     },
     {
-      "canonical_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "published": "2026-11-17T17:45:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
+      "published": "2026-11-17T21:11:51+00:00",
       "reasons": [
-        "fresh <12h",
-        "gpt"
-      ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
-      "published": "2026-11-17T17:20:41+00:00",
-      "reasons": [
-        "fresh <12h",
+        "fresh <30h",
         "model",
-        "startup"
+        "inference"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.",
+      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "published": "2026-11-18T19:56:39+00:00",
+      "reasons": [
+        "fresh <12h",
+        "claude",
+        "developer"
       ],
       "score": 6.0,
       "source": "TechCrunch AI",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
-      "published": "2026-11-17T14:50:58+00:00",
-      "reasons": [
-        "fresh <12h",
-        "deepmind",
-        "funding"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/introducing-openai-for-chile",
-      "published": "2026-11-17T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "startup"
-      ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "published": "2026-11-16T20:46:01+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "agent"
-      ],
-      "score": 6.0,
-      "source": "The Verge AI",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
-      "published": "2026-11-16T16:04:28+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "agent"
-      ],
-      "score": 6.0,
-      "source": "MIT Technology Review AI",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-    },
-    {
-      "canonical_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "published": "2026-11-17T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini"
-      ],
-      "score": 5.7,
-      "source": "Google AI Blog",
-      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "published": "2026-11-16T20:41:28+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai"
-      ],
-      "score": 4.3,
-      "source": "The Verge AI",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "published": "2026-11-16T19:23:45+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai"
-      ],
-      "score": 4.3,
-      "source": "The Verge AI",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering […]",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
     }
   ]
 }
