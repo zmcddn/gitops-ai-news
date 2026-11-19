@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-18T13:31:11.008226-07:00._
+_Last updated: 2026-11-19T13:37:38.620886-07:00._
 
-[Read the latest digest](digests/2026-11-18.html)
+[Read the latest digest](digests/2026-11-19.html)
 
 ## Latest top links
 
-- [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models) — The Verge AI
-- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models) — OpenAI Blog
-- [Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/) — AWS Machine Learning Blog
-- [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) — arXiv cs.AI
-- [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115) — arXiv cs.AI
-- [Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)](https://arxiv.org/abs/2611.22148) — arXiv cs.AI
-- [The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News](https://arxiv.org/abs/2611.22177) — arXiv cs.AI
-- [LMMR: Learned Multigranular Memory Retrieval for Small Language Model Agents](https://arxiv.org/abs/2611.22425) — arXiv cs.CL
+- [Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents](https://arxiv.org/abs/2611.22033) — arXiv cs.AI
+- [A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises](https://arxiv.org/abs/2611.24039) — arXiv stat.ML
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) — arXiv cs.AI
+- [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](https://arxiv.org/abs/2611.22017) — arXiv cs.AI
+- [What Does an Agent Need? Bundle-Aware Agent Resource Composition](https://arxiv.org/abs/2611.22030) — arXiv cs.AI
+- [When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic Signal Control](https://arxiv.org/abs/2611.22926) — arXiv cs.CL
+- [Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts](https://arxiv.org/abs/2609.18366) — arXiv stat.ML
+- [Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-11-19](digests/2026-11-19.html)
 - [2026-11-18](digests/2026-11-18.html)
 - [2026-11-17](digests/2026-11-17.html)
 - [2026-11-16](digests/2026-11-16.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-18T13:31:11.008226-07:00._
 - [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
-- [2026-10-20](digests/2026-10-20.html)
 
 ## About this site
 
