@@ -1,10 +1,107 @@
 {
-  "digest_date": "2026-11-19",
-  "generated_at": "2026-11-19T13:37:38.620886-07:00",
+  "digest_date": "2026-11-20",
+  "generated_at": "2026-11-20T13:20:26.491219-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.22033",
-      "published": "2026-11-19T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.24324",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "inference",
+        "gpu"
+      ],
+      "score": 11.0,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.24324v1 Announce Type: new Abstract: AI coding agents have become one of the most popular applications of large language models. Yet, agentic AI comes at the cost of a tremendous amount of GPU compute resources, which limits its profitability and its viability at scale. In this paper, we investigate whether smaller, cheaper models can cut this cost without sacrificing accuracy. We evaluate 36 popular large and small open-weight models released since 2024 on a software engineering benchmark, and find that recent small models are closing the accuracy gap compared to their large counterparts. We investigate the structure of this gap…",
+      "title": "Reducing Inference Cost of Coding Agents with Timeout Cascades",
+      "url": "https://arxiv.org/abs/2611.24324"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.25071",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "mistral",
+        "model",
+        "agent",
+        "mcp",
+        "research"
+      ],
+      "score": 10.1,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.25071v1 Announce Type: new Abstract: Large language models (LLMs) write fluent financial analyses but miscompute ratios, recall stale prices, and route questions to the wrong tool with high confidence. We ask which component should do each job in a financial question-answering assistant, and study it with FinVeriQA, an open-source multi-agent research prototype over SEC filings and live market data: a compact typed-decision model (Laya) routes each question and screens out advice requests, Python computes every number, retrieval and tools fetch evidence, Mistral-7B writes a cited answer, a code validator checks that cited IDs exis…",
+      "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+      "url": "https://arxiv.org/abs/2611.25071"
+    },
+    {
+      "canonical_url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "2026-11-20T10:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "training"
+      ],
+      "score": 9.4,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.24347",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "claude",
+        "model",
+        "agent"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.24347v1 Announce Type: new Abstract: The search for better models, whether expressed as analytical equations or neural architectures, has increasingly shifted from manual design toward data-driven automation. While a multitude of algorithms exist, ranging from exhaustive search to AlphaEvolve, recent advances in general-purpose coding agents such as Claude Code and OpenAI Codex raise the question: could providing such systems with a \"model discovery recipe\" be enough to discover or improve models? We present automodel, an agent skill for general model discovery. With case studies in astrophysics, cardiovascular dynamics, precision…",
+      "title": "automodel: A Skill for Agentic Model Discovery",
+      "url": "https://arxiv.org/abs/2611.24347"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.24969",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "inference",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.24969v1 Announce Type: new Abstract: Memory consumption of the key-value (KV) cache remains a central bottleneck for long-context LLM inference. We introduce PRKV, a training-free KV eviction method that estimates multi-hop global token importance by applying Personalized PageRank over attention-induced transition graphs. This enables importance propagation beyond recency or instantaneous attention, without modifying the model. We benchmark PRKV on long-context understanding, sparse retrieval, and chain-of-thought reasoning tasks using multiple LLM families. Under moderate to aggressive compression ratios, including up to 90%, PRK…",
+      "title": "Global Importance Estimation for KV Cache Eviction",
+      "url": "https://arxiv.org/abs/2611.24969"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.23910",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "machine learning"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.23910v1 Announce Type: new Abstract: The typical workflow for improving large-scale ranking and recommendation models is slow and tedious: an engineer forms a hypothesis, implements it as a code change, trains a model, and evaluates it both offline and online, often relying on their own intuition and experience along the way. Autonomous LLM agents promise to speed this up by running the loop on their own, but it is still unclear whether they can do this in industry-scale systems rather than on benchmarks or small proxy tasks. We build human-on-the-loop machine learning engineer (MLE) agents that propose, implement, train, and eval…",
+      "title": "MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems",
+      "url": "https://arxiv.org/abs/2611.23910"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.24294",
+      "published": "2026-11-20T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
@@ -14,259 +111,175 @@
       ],
       "score": 8.4,
       "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking power would make higher-quality purchasing decisions. To test this belief, we ask two questions about such agents: does asking a model to think harder make it choose better products, and does the confidence it reports tell us the likelihood it may be wrong? We benchmark ten frontier models on three product-choice benchmarks built…",
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "url": "https://arxiv.org/abs/2611.22033"
+      "summary": "arXiv:2611.24294v1 Announce Type: new Abstract: Knowledge engineering (KE) turns raw files into a reasoning-ready knowledge base, a task now within reach of LLM agents. KE has progressed from chunk and graph retrieval-augmented generation (RAG) to memory agents, agentic KE and multimodal KE. However, a live knowledge base needs omnimodality, a closed-loop lifecycle and multi-granular application at once, yet existing systems meet at most two and no benchmark measures all three. We formalize Omnimodal Knowledge Engineering (OmniKE) and release OmniKE-Bench, six tasks with 1,829 model-free items over 3,960 real files in five modalities. We fur…",
+      "title": "KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs",
+      "url": "https://arxiv.org/abs/2611.24294"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.24039",
-      "published": "2026-11-19T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.25086",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "model",
+        "inference",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.25086v1 Announce Type: cross Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference running entirely on the device. These browser-embedded models provide new living-off-the-land opportunities for attackers, each instance a potential post-exploitation engine already installed, signed by the vendor, and invisible to network monitoring. The Gemini model is multimodal, capable of processing files, analyzing screenshots, or conversing with an attacker. We show that it can be driven from the host using only inter…",
+      "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
+      "url": "https://arxiv.org/abs/2611.25086"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2605.03799",
+      "published": "2026-11-20T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
-        "benchmark",
-        "enterprise"
+        "machine learning",
+        "multimodal",
+        "research"
       ],
-      "score": 8.4,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.24039v1 Announce Type: cross Abstract: Agentic AI platforms-systems in which LLM agents plan, invoke tools, retain memory and coordinate to change the state of enterprise systems-are being procured faster than they can be measured. Public agent benchmarks score models in fixed harnesses; enterprises buy integrated platforms whose orchestration, memory, governance and tooling layers dominate outcomes, and they buy them largely on the strength of vendor demonstrations. We report an industrial evaluation programme (\"bakeoff\") run by the innovation laboratory of a global bank in which ten platforms-spanning open-source frameworks, pro…",
-      "title": "A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises",
-      "url": "https://arxiv.org/abs/2611.24039"
+      "score": 8.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2605.03799v4 Announce Type: replace Abstract: This preprint presents a systematic, research-oriented guide to modern natural language processing, covering the full NLP pipeline from tokenisation, text normalisation, vector representations, and classical machine learning to transformer architectures, large language models, retrieval-augmented generation, preference-based alignment, and multimodal systems. The material comprises eighteen practical works combining theoretical foundations, reproducible implementation examples, detailed experimental procedures, evaluation metrics, and research-oriented assignments. Each work includes three…",
+      "title": "Natural Language Processing: An Applied Research Practicum From Classical Text Processing to Multimodal and Agentic Systems",
+      "url": "https://arxiv.org/abs/2605.03799"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.21885",
-      "published": "2026-11-19T05:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "published": "2026-11-20T00:56:01+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "claude",
+        "agent"
+      ],
+      "score": 7.8,
+      "source": "TechCrunch AI",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "published": "2026-11-20T00:34:07+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "inference",
-        "training"
+        "gpu"
       ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and…",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.22017",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.22017v1 Announce Type: new Abstract: Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the task and the agent starts from a blank slate. Neither holds in deployment, where an agent chooses from whatever library happens to be installed and frequently carries memory from earlier work. We present SkillBuffBench, a benchmark and paired evaluation protocol that treats Skill access as a three-level factor (no Skil…",
-      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
-      "url": "https://arxiv.org/abs/2611.22017"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.22030",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks. We formulate Task-Conditioned Agent Resource Composition (AgentComposition): jointly selecting a backbone model and a tool-skill bundle to maximize end-to-end execution utility. Our Retrieval-Grounded Bundle-Aware Agent Generation retrieves candidate resources and past configurations of similar tasks. A fine-tuned generator reads…",
-      "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
-      "url": "https://arxiv.org/abs/2611.22030"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.22926",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "model",
-        "inference"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.22926v1 Announce Type: new Abstract: Typed decision models combine natural-language understanding with a structured interface that returns a selected action and an option-level probability distribution without generating lengthy textual responses. Their low inference cost and response latency make them attractive for transportation problems with predefined alternatives. This paper investigates their effectiveness, robustness, and efficiency in two representative transportation tasks: individual travel-mode choice prediction and sequential traffic signal control. We systematically evaluate TypeSafe Jev and GPT-6 Luna Decisions agai…",
-      "title": "When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic Signal Control",
-      "url": "https://arxiv.org/abs/2611.22926"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2609.18366",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2609.18366v4 Announce Type: replace-cross Abstract: An optimized agent harness can improve on held-out tasks by relying on formatting conventions that those tasks share with the rest of the benchmark. We introduce Counterfactual Harness Search and Evolution (CHASE) to test whether harness improvements survive changes to the evaluation protocol. A Proposer edits the harness around a fixed foundation model. A Challenger then searches for a protocol change that preserves the tasks but reduces the updated harness's gain over the initial harness. Executable checks test whether the transformation preserves task semantics. If the gain loss is…",
-      "title": "Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts",
-      "url": "https://arxiv.org/abs/2609.18366"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
-      "published": "2026-11-19T20:01:06+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent"
-      ],
-      "score": 6.9,
+      "score": 7.8,
       "source": "AWS Machine Learning Blog",
-      "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
-      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/"
+      "summary": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
-      "published": "2026-11-19T18:14:36+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
+      "published": "2026-11-19T21:28:18+00:00",
       "reasons": [
-        "fresh <12h",
-        "model",
-        "agent"
+        "fresh <30h",
+        "benchmark",
+        "inference",
+        "gpu"
       ],
-      "score": 6.9,
+      "score": 7.8,
       "source": "AWS Machine Learning Blog",
-      "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
-      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"
+      "summary": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply any change.",
+      "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
-      "published": "2026-11-19T18:09:11+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "published": "2026-11-20T12:30:47+00:00",
       "reasons": [
         "fresh <12h",
         "gemini",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published": "2026-11-19T08:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "gpt"
-      ],
-      "score": 6.9,
-      "source": "OpenAI Blog",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.21622",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
+        "agent",
         "privacy"
       ],
-      "score": 6.7,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.21622v1 Announce Type: new Abstract: Background: Crisis helplines are essential to mental health systems but are often understaffed and underfunded. LLMs could support counselors, but existing benchmarks do not capture the escalation, risk assessment, and de-escalation central to crisis conversations, while privacy restrictions limit use of real transcripts. Methods: We present CrisisBench, a privacy-preserving suite for single- and multi-turn crisis counseling evaluation. It includes 1,085 single-turn tasks from 200 de-identified conversations and 1,185 patient LLMs derived from hotline metadata. Patient models and a 23-item LLM…",
-      "title": "CrisisBench: an evaluation suite for crisis counseling AI",
-      "url": "https://arxiv.org/abs/2611.21622"
+      "score": 7.6,
+      "source": "The Verge AI",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.21644",
-      "published": "2026-11-19T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2511.11927",
+      "published": "2026-11-20T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "benchmark",
-        "multimodal"
+        "inference"
       ],
-      "score": 6.7,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.21644v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) excel in vision-language tasks; yet, whether they maintain consistent understanding of information-rich visuals (InfoVis) when the surface language changes remains unclear. To quantify this capability, we introduce MInfoVisQA, a parallel benchmark with 8,960 QA configurations derived from 128 seed instances across 24 languages. We construct seed-matched, language-parallel visuals and QA pairs by disentangling numerical-structural data from text and programmatically synchronizing translated labels. We evaluate 25 MLLMs under two settings: Language-Aligned…",
-      "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
-      "url": "https://arxiv.org/abs/2611.21644"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.22262",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent",
-        "benchmark",
-        "enterprise"
-      ],
-      "score": 6.7,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.22262v1 Announce Type: new Abstract: Broad workplace scores can mix competence within one business function with the extra cost of coordinating across functions and systems, making failures hard to localize. OfficePrism evaluates this prerequisite through 420 single-domain enterprise tasks spanning seven business functions under shared, benchmark-defined L1--L3 task-structure levels. Each task runs in a fresh environment combining a shared synthetic organization with one function-specific domain and yped state access. Our pipeline uses grounded records, business rules, and tool schemas to jointly construct a Chinese-language ticke…",
-      "title": "OfficePrism: Benchmarking Agents on Single-Domain Operations Across Enterprise Business Functions",
-      "url": "https://arxiv.org/abs/2611.22262"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.23886",
-      "published": "2026-11-19T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "training",
-        "multimodal"
-      ],
-      "score": 6.7,
+      "score": 7.6,
       "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.23886v1 Announce Type: cross Abstract: A deployed multimodal predictor may face missing modalities after its weights can no longer be changed. This raises a question that training-time repair does not answer: what part of the resulting error is still correctable from the information that remains? We show that this part is characterized by the Bayes gap, the difference between the model's prediction and the Bayes prediction given the observed modalities. For cross-entropy and squared error, excess risk measures this gap in the geometry of the loss; ambiguity in the observed modalities cannot be removed. Thus, a badly degraded predi…",
-      "title": "Risk-Controlled Correction for Frozen Multimodal Models under Missing Modalities",
-      "url": "https://arxiv.org/abs/2611.23886"
+      "summary": "arXiv:2511.11927v3 Announce Type: replace Abstract: Principal Component Analysis (PCA) is a standard tool for extracting a low-rank signal from noisy observations. It is known that when applying PCA to a rank-one signal corrupted by a dense, homogeneous noise, in the large matrix size limit, the BBP transition occurs, where the emergence of an outlying eigenvalue and the alignment of the corresponding eigenvector occur at the same critical signal strength. Here we study the case of sparse noise corruption. The noise matrix is modelled as the adjacency matrix of a weighted undirected graph with finite average connectivity. Using the replica m…",
+      "title": "Sparse corruption in low-rank matrix inference: the PCA benchmark",
+      "url": "https://arxiv.org/abs/2511.11927"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.10923",
-      "published": "2026-11-19T05:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues",
+      "published": "2026-11-20T18:24:06+00:00",
+      "reasons": [
+        "fresh <12h",
+        "training",
+        "gpu"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "published": "2026-11-20T00:33:30+00:00",
       "reasons": [
         "fresh <30h",
         "model",
-        "training",
+        "agent",
+        "open source"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "published": "2026-11-20T16:34:13+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2605.08963",
+      "published": "2026-11-20T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
         "machine learning"
       ],
       "score": 6.7,
       "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.10923v2 Announce Type: replace-cross Abstract: Binary decision-making under uncertainty arises across a wide range of applications, including energy systems scheduling, transportation, and workforce planning. While machine learning has been increasingly applied to accelerate or replace mixed-integer solvers in such settings, existing approaches rely on predictive learning, training models to reproduce optimal decisions from labeled data, which lacks knowledge of counterfactual outcomes and provides no guarantees that the resulting decisions will be feasible. This limitation is further compounded under distributional shift, where p…",
-      "title": "Prescriptive Learning of Linear Policies with Feasibility Guarantees for Binary Decision-Making",
-      "url": "https://arxiv.org/abs/2611.10923"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
-      "published": "2026-11-19T00:15:58+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark"
-      ],
-      "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.",
-      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
-      "published": "2026-11-18T23:58:22+00:00",
-      "reasons": [
-        "fresh <30h",
-        "inference",
-        "chip"
-      ],
-      "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
-      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/"
+      "summary": "arXiv:2605.08963v2 Announce Type: replace Abstract: Machine Learning (ML) models trained on complex health surveys such as the National Health and Nutrition Examination Survey (NHANES) often ignore primary sampling units, stratification variables, and sampling weights. This practice violates the independence assumptions of standard evaluation methods. As a result, estimates become biased, uncertainty is underestimated, and fairness assessments fail to reflect population-level disparities. We propose Survey-aware Machine Learning (SaML), a nine-step guideline that incorporates survey design metadata across the ML lifecycle. Through a scoping…",
+      "title": "Survey-aware Machine Learning: A Guideline for Valid Population Health Inference based on Scoping Review",
+      "url": "https://arxiv.org/abs/2605.08963"
     }
   ]
 }

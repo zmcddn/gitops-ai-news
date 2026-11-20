@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-19T13:37:38.620886-07:00._
+_Last updated: 2026-11-20T13:20:26.491219-07:00._
 
-[Read the latest digest](digests/2026-11-19.html)
+[Read the latest digest](digests/2026-11-20.html)
 
 ## Latest top links
 
-- [Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents](https://arxiv.org/abs/2611.22033) — arXiv cs.AI
-- [A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises](https://arxiv.org/abs/2611.24039) — arXiv stat.ML
-- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) — arXiv cs.AI
-- [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](https://arxiv.org/abs/2611.22017) — arXiv cs.AI
-- [What Does an Agent Need? Bundle-Aware Agent Resource Composition](https://arxiv.org/abs/2611.22030) — arXiv cs.AI
-- [When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic Signal Control](https://arxiv.org/abs/2611.22926) — arXiv cs.CL
-- [Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts](https://arxiv.org/abs/2609.18366) — arXiv stat.ML
-- [Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/) — AWS Machine Learning Blog
+- [Reducing Inference Cost of Coding Agents with Timeout Cascades](https://arxiv.org/abs/2611.24324) — arXiv cs.AI
+- [FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification](https://arxiv.org/abs/2611.25071) — arXiv cs.CL
+- [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) — OpenAI Blog
+- [automodel: A Skill for Agentic Model Discovery](https://arxiv.org/abs/2611.24347) — arXiv cs.AI
+- [Global Importance Estimation for KV Cache Eviction](https://arxiv.org/abs/2611.24969) — arXiv cs.CL
+- [MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems](https://arxiv.org/abs/2611.23910) — arXiv cs.AI
+- [KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs](https://arxiv.org/abs/2611.24294) — arXiv cs.AI
+- [Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation](https://arxiv.org/abs/2611.25086) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-20](digests/2026-11-20.html)
 - [2026-11-19](digests/2026-11-19.html)
 - [2026-11-18](digests/2026-11-18.html)
 - [2026-11-17](digests/2026-11-17.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-19T13:37:38.620886-07:00._
 - [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
-- [2026-10-21](digests/2026-10-21.html)
 
 ## About this site
 
