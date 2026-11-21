@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-20T13:20:26.491219-07:00._
+_Last updated: 2026-11-21T12:16:05.992235-07:00._
 
-[Read the latest digest](digests/2026-11-20.html)
+[Read the latest digest](digests/2026-11-21.html)
 
 ## Latest top links
 
-- [Reducing Inference Cost of Coding Agents with Timeout Cascades](https://arxiv.org/abs/2611.24324) — arXiv cs.AI
-- [FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification](https://arxiv.org/abs/2611.25071) — arXiv cs.CL
-- [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) — OpenAI Blog
-- [automodel: A Skill for Agentic Model Discovery](https://arxiv.org/abs/2611.24347) — arXiv cs.AI
-- [Global Importance Estimation for KV Cache Eviction](https://arxiv.org/abs/2611.24969) — arXiv cs.CL
-- [MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems](https://arxiv.org/abs/2611.23910) — arXiv cs.AI
-- [KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs](https://arxiv.org/abs/2611.24294) — arXiv cs.AI
-- [Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation](https://arxiv.org/abs/2611.25086) — arXiv cs.CL
+- [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/) — AWS Machine Learning Blog
+- [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure) — The Verge AI
+- [Announcing Amazon Textract Insights: Verifiable generative AI for documents](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/) — AWS Machine Learning Blog
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
+- [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/) — AWS Machine Learning Blog
+- [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/) — AWS Machine Learning Blog
+- [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/) — TechCrunch AI
+- [The fallout from Nvidia’s Jensen Huang scandal continues](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-21](digests/2026-11-21.html)
 - [2026-11-20](digests/2026-11-20.html)
 - [2026-11-19](digests/2026-11-19.html)
 - [2026-11-18](digests/2026-11-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-20T13:20:26.491219-07:00._
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
-- [2026-10-22](digests/2026-10-22.html)
 
 ## About this site
 
