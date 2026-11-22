@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-21T12:16:05.992235-07:00._
+_Last updated: 2026-11-22T12:40:40.298343-07:00._
 
-[Read the latest digest](digests/2026-11-21.html)
+[Read the latest digest](digests/2026-11-22.html)
 
 ## Latest top links
 
-- [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/) — AWS Machine Learning Blog
-- [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure) — The Verge AI
-- [Announcing Amazon Textract Insights: Verifiable generative AI for documents](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/) — AWS Machine Learning Blog
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/) — AWS Machine Learning Blog
-- [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/) — AWS Machine Learning Blog
-- [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/) — TechCrunch AI
-- [The fallout from Nvidia’s Jensen Huang scandal continues](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/) — TechCrunch AI
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) — OpenAI Blog
+- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) — The Verge AI
+- [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/) — TechCrunch AI
+- [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera) — The Verge AI
+- [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/) — AWS Machine Learning Blog
+- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) — TechCrunch AI
+- [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) — TechCrunch AI
+- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-22](digests/2026-11-22.html)
 - [2026-11-21](digests/2026-11-21.html)
 - [2026-11-20](digests/2026-11-20.html)
 - [2026-11-19](digests/2026-11-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-21T12:16:05.992235-07:00._
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
-- [2026-10-23](digests/2026-10-23.html)
 
 ## About this site
 

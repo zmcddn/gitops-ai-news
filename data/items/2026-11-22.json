@@ -1,0 +1,105 @@
+{
+  "digest_date": "2026-11-22",
+  "generated_at": "2026-11-22T12:40:40.298343-07:00",
+  "items": [
+    {
+      "canonical_url": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-22T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "developer"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "published": "2026-11-22T17:25:20+00:00",
+      "reasons": [
+        "fresh <12h",
+        "developer"
+      ],
+      "score": 4.2,
+      "source": "The Verge AI",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "published": "2026-11-22T18:08:43+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.5,
+      "source": "TechCrunch AI",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "published": "2026-11-22T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
+      "published": "2026-11-22T01:59:13+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+      "title": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "published": "2026-11-21T21:37:10+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "TechCrunch AI",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "published": "2026-11-21T21:07:42+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "TechCrunch AI",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.6,
+      "source": "The Verge AI",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    }
+  ]
+}
