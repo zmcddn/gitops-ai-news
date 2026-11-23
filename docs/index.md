@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-22T12:40:40.298343-07:00._
+_Last updated: 2026-11-23T16:53:41.293422-07:00._
 
-[Read the latest digest](digests/2026-11-22.html)
+[Read the latest digest](digests/2026-11-23.html)
 
 ## Latest top links
 
-- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) — OpenAI Blog
-- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) — The Verge AI
-- [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/) — TechCrunch AI
-- [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera) — The Verge AI
-- [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/) — AWS Machine Learning Blog
-- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) — TechCrunch AI
-- [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) — TechCrunch AI
-- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) — The Verge AI
+- [How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction](https://arxiv.org/abs/2611.26875) — arXiv cs.CL
+- [CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](https://arxiv.org/abs/2611.27116) — arXiv cs.AI
+- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/) — TechCrunch AI
+- [Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders](https://arxiv.org/abs/2611.27721) — arXiv cs.CL
+- [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734) — arXiv cs.CL
+- [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](https://arxiv.org/abs/2611.26717) — arXiv cs.AI
+- [Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers](https://arxiv.org/abs/2611.26906) — arXiv cs.AI
+- [Dynamic Token Merging for Efficient Vision-Language Models](https://arxiv.org/abs/2611.27064) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-11-23](digests/2026-11-23.html)
 - [2026-11-22](digests/2026-11-22.html)
 - [2026-11-21](digests/2026-11-21.html)
 - [2026-11-20](digests/2026-11-20.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-22T12:40:40.298343-07:00._
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
-- [2026-10-24](digests/2026-10-24.html)
 
 ## About this site
 
