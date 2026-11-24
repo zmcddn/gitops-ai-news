@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-23T16:53:41.293422-07:00._
+_Last updated: 2026-11-24T15:26:35.291263-07:00._
 
-[Read the latest digest](digests/2026-11-23.html)
+[Read the latest digest](digests/2026-11-24.html)
 
 ## Latest top links
 
-- [How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction](https://arxiv.org/abs/2611.26875) — arXiv cs.CL
-- [CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](https://arxiv.org/abs/2611.27116) — arXiv cs.AI
-- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/) — TechCrunch AI
-- [Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders](https://arxiv.org/abs/2611.27721) — arXiv cs.CL
-- [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734) — arXiv cs.CL
-- [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](https://arxiv.org/abs/2611.26717) — arXiv cs.AI
-- [Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers](https://arxiv.org/abs/2611.26906) — arXiv cs.AI
-- [Dynamic Token Merging for Efficient Vision-Language Models](https://arxiv.org/abs/2611.27064) — arXiv cs.AI
+- [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/) — TechCrunch AI
+- [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning Blog
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) — OpenAI Blog
+- [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/) — TechCrunch AI
+- [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/) — MIT Technology Review AI
+- [How Gemini is changing the game for Golden State's organization and fans.](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/) — Google AI Blog
+- [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/) — TechCrunch AI
+- [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-24](digests/2026-11-24.html)
 - [2026-11-23](digests/2026-11-23.html)
 - [2026-11-22](digests/2026-11-22.html)
 - [2026-11-21](digests/2026-11-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-23T16:53:41.293422-07:00._
 - [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
-- [2026-10-25](digests/2026-10-25.html)
 
 ## About this site
 

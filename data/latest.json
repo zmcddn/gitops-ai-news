@@ -1,275 +1,241 @@
 {
-  "digest_date": "2026-11-23",
-  "generated_at": "2026-11-23T16:53:41.293422-07:00",
+  "digest_date": "2026-11-24",
+  "generated_at": "2026-11-24T15:26:35.291263-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.26875",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "inference",
-        "training",
-        "gpu",
-        "research"
-      ],
-      "score": 11.8,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.26875v1 Announce Type: new Abstract: Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the job and ask. We introduce PreRun, a benchmark for predicting deep learning training and inference runtime from information available before execution. PreRun contains 801 training and 1,884 inference records of language and vision models collected on a GPU cluster, paired with workload configurations and explicitly defined timing targets. It also includes 64 text-generation config…",
-      "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-      "url": "https://arxiv.org/abs/2611.26875"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.27116",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "training",
-        "research"
-      ],
-      "score": 10.1,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.27116v1 Announce Type: new Abstract: The performance of an LLM agent depends on both its model and its harness, the code that mediates its interaction with tools and environments. Can LLM researchers drive this co-evolution as a recursive improvement process, deciding round after round which component to change when each change alters the value of the other? Existing benchmarks evaluate post-training or data research with the harness out of scope, or harness optimization with the model fixed, leaving this joint decision unmeasured. We introduce CoEvoBench, a benchmark that evaluates LLMs as researchers co-evolving the model and ha…",
-      "title": "CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?",
-      "url": "https://arxiv.org/abs/2611.27116"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "published": "2026-11-23T22:05:50+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "published": "2026-11-24T21:33:29+00:00",
       "reasons": [
         "fresh <12h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 8.6,
+      "source": "TechCrunch AI",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "published": "2026-11-24T05:01:14+00:00",
+      "reasons": [
+        "fresh <30h",
         "anthropic",
         "claude",
-        "agent",
-        "developer"
-      ],
-      "score": 9.4,
-      "source": "TechCrunch AI",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.27721",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "gpt",
         "model",
-        "training"
+        "enterprise"
       ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.27721v1 Announce Type: new Abstract: Decision models receive a question with a closed list of answers and return a probability for each answer instead of free text. They promise low latency and robustness to prompt wording, but no study has compared several of them with fine-tuned encoders across languages. We ask whether systems used without training on labelled data (zero-shot) can replace fine-tuning, and what the decision format adds over a general-purpose large language model (LLM). We compare three decision models (Jev, OpenAI Decisions, Strands Decider 2B) and two LLMs (GPT-6 Luna, Qwen3.5-2B), given Italian instructions, w…",
-      "title": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
-      "url": "https://arxiv.org/abs/2611.27721"
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.",
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.27734",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.27734v1 Announce Type: new Abstract: Foundation-model agents are increasingly extending beyond software engineering (SWE) into autonomous scientific research, where acquiring and integrating domain knowledge remains a critical challenge. Recent industrial advances have increasingly adopted knowledge graphs and ontology-based semantic layers to organize heterogeneous knowledge into reusable representations. We ask: Can autonomous agents construct ontologies that help them solve real tasks, and do they offer measurable benefits over alternative knowledge representations? Existing benchmarks evaluate ontology correctness or agent tas…",
-      "title": "AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering",
-      "url": "https://arxiv.org/abs/2611.27734"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.26717",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose intent and a deterministic referee resolves outcomes against an explicit world model, so a relation is emitted only when the event it represents occurs, m…",
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "url": "https://arxiv.org/abs/2611.26717"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.26906",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "inference"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware predict-and-verify system that allocates computation across unresolved subgoals and heterogeneous LLM solvers. BudgetPV uses a cross-solver predictor to guide solver selection for each subgoal and revises the allocation as verification feedback becomes…",
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "url": "https://arxiv.org/abs/2611.26906"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.27064",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the image. Dynamic Token Merging (DTM), introduced in MrT5 for byte-level text encoders, learns which tokens to remove: a lightweight delete gate scores contextualized hidden states, acts as a differentiable attention bias during training, and physically removes tokens at inference. We argue that DTM is a general token deletion framework rather than a byte-level technique, and extend it to the vision modality and to decoder-only models. Ap…",
-      "title": "Dynamic Token Merging for Efficient Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.27064"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.26776",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.26776v1 Announce Type: new Abstract: Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the decision, and which evidence matters. On the XD-Violence test set (799 clips) we fix one set of perception agents (video description, object detection, sound tagging, speech recognition and speech tagging) and one reasoning model, and compare three interfaces: messages between agents, a typed evidence graph explored with tools, and flat text read in on…",
-      "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
-      "url": "https://arxiv.org/abs/2611.26776"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "published": "2026-11-23T08:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "OpenAI Blog",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "published": "2026-11-23T20:00:00+00:00",
+      "canonical_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "2026-11-24T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "anthropic",
-        "claude"
-      ],
-      "score": 6.8,
-      "source": "The Verge AI",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
-      "published": "2026-11-23T17:36:08+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
+        "gpt",
         "model"
       ],
-      "score": 6.8,
-      "source": "MIT Technology Review AI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.27815",
-      "published": "2026-11-23T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "training",
-        "machine learning"
-      ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.27815v1 Announce Type: cross Abstract: Quantum machine learning models typically rely on repeated quantum measurements and classical optimization during training, making the quantum-to-classical information-extraction process a fundamental bottleneck for scalability. We propose a framework for autonomous self-training quantum machine learning, based on Riemannian gradient optimization, in which the optimization proceeds entirely within the quantum domain without requiring quantum measurements or classical feedback. We derive the Riemannian gradient update rules for a broad class of learning tasks and identify sufficient conditions…",
-      "title": "Autonomous quantum machine learning via Riemannian gradient-based optimization",
-      "url": "https://arxiv.org/abs/2611.27815"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
-      "published": "2026-11-23T22:02:05+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "published": "2026-11-24T18:30:42+00:00",
       "reasons": [
         "fresh <12h",
-        "agent",
+        "anthropic",
         "startup"
       ],
       "score": 6.0,
       "source": "TechCrunch AI",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
     },
     {
-      "canonical_url": "https://openai.com/index/introducing-shirudo",
-      "published": "2026-11-23T21:20:00+00:00",
+      "canonical_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "published": "2026-11-24T15:15:16+00:00",
       "reasons": [
         "fresh <12h",
-        "openai"
+        "agent",
+        "enterprise"
       ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo"
+      "score": 5.9,
+      "source": "MIT Technology Review AI",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
-      "published": "2026-11-23T17:14:23+00:00",
+      "canonical_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "published": "2026-11-24T16:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "chip",
+        "gemini"
+      ],
+      "score": 5.7,
+      "source": "Google AI Blog",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "published": "2026-11-24T21:32:38+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "published": "2026-11-24T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    },
+    {
+      "canonical_url": "https://openai.com/business/customer-stories/ifood",
+      "published": "2026-11-24T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.9,
+      "source": "OpenAI Blog",
+      "summary": "",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "published": "2026-11-23T16:59:40+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.9,
+      "source": "Google DeepMind Blog",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "2026-11-24T11:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 4.3,
+      "source": "OpenAI Blog",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    },
+    {
+      "canonical_url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "2026-11-24T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
         "research"
       ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      "score": 4.3,
+      "source": "OpenAI Blog",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.27666",
-      "published": "2026-11-23T05:00:00+00:00",
+      "canonical_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "2026-11-24T16:34:13+00:00",
       "reasons": [
-        "fresh <30h",
-        "model",
-        "inference"
+        "fresh <12h"
       ],
-      "score": 5.9,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.27666v1 Announce Type: new Abstract: Semiparametric models provide a broad framework for statistical inference, yet efficient estimation typically relies on influence function correction tailored to each estimand and on nuisance estimation repeated for every sample. We show that a single pretrained Transformer can deliver efficient estimation and valid inference for a family of estimands in one forward pass, without deriving efficient influence functions or estimating nuisance functions. Pretrained on simulated data with the true parameter as the only label, the Transformer learns the posterior mean and covariance of the queried e…",
-      "title": "Can pretrained Transformers deliver semiparametrically efficient inference?",
-      "url": "https://arxiv.org/abs/2611.27666"
+      "score": 3.5,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2604.26841",
-      "published": "2026-11-23T05:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "published": "2026-11-24T20:02:03+00:00",
       "reasons": [
-        "fresh <30h",
-        "model",
-        "training"
+        "fresh <12h"
       ],
-      "score": 5.9,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2604.26841v2 Announce Type: cross Abstract: When do language diffusion models memorize their training data, and how to quantitatively assess their true generative regime? We address these questions by showing that Uniform-based Discrete Diffusion Models (UDDMs) fundamentally behave as Associative Memories (AMs) $\\textit{with emergent creative capabilities}$. The core idea of an AM is to reliably recover stored data points as $\\textit{memories}$ by establishing distinct basins of attraction around them. Historically, models like Hopfield networks use an explicit energy function to guarantee these stable attractors. We broaden this persp…",
-      "title": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
-      "url": "https://arxiv.org/abs/2604.26841"
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "published": "2026-11-24T18:15:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "published": "2026-11-24T17:17:09+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "published": "2026-11-24T16:30:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+    },
+    {
+      "canonical_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "published": "2026-11-23T17:00:00+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 3.2,
+      "source": "Google AI Blog",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
     }
   ]
 }
