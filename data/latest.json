@@ -1,241 +1,189 @@
 {
-  "digest_date": "2026-11-24",
-  "generated_at": "2026-11-24T15:26:35.291263-07:00",
+  "digest_date": "2026-11-25",
+  "generated_at": "2026-11-25T14:42:07.673685-07:00",
   "items": [
     {
-      "canonical_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
-      "published": "2026-11-24T21:33:29+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 8.6,
-      "source": "TechCrunch AI",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
-      "published": "2026-11-24T05:01:14+00:00",
-      "reasons": [
-        "fresh <30h",
-        "anthropic",
-        "claude",
-        "model",
-        "enterprise"
-      ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.",
-      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "published": "2026-11-24T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "model"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
-      "published": "2026-11-24T18:30:42+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "published": "2026-11-25T19:44:24+00:00",
       "reasons": [
         "fresh <12h",
         "anthropic",
-        "startup"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
-      "published": "2026-11-24T15:15:16+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "enterprise"
-      ],
-      "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
-    },
-    {
-      "canonical_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "published": "2026-11-24T16:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gemini"
-      ],
-      "score": 5.7,
-      "source": "Google AI Blog",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
-      "published": "2026-11-24T21:32:38+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
-      "published": "2026-11-24T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/ifood",
-      "published": "2026-11-24T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent"
-      ],
-      "score": 4.9,
-      "source": "OpenAI Blog",
-      "summary": "",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/business/customer-stories/ifood"
-    },
-    {
-      "canonical_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "published": "2026-11-23T16:59:40+00:00",
-      "reasons": [
-        "fresh <30h",
-        "agent"
-      ],
-      "score": 4.9,
-      "source": "Google DeepMind Blog",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "published": "2026-11-24T11:00:00+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 4.3,
-      "source": "OpenAI Blog",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-      "title": "Searching for distant planets with Astra",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/intentful-dots",
-      "published": "2026-11-24T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
+        "model",
         "research"
       ],
-      "score": 4.3,
-      "source": "OpenAI Blog",
-      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "title": "How Intentful uses dots to make more time for growth",
-      "url": "https://openai.com/business/customer-stories/intentful-dots"
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "published": "2026-11-24T16:34:13+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "published": "2026-11-25T20:03:27+00:00",
       "reasons": [
-        "fresh <12h"
+        "fresh <12h",
+        "openai",
+        "gpt"
       ],
-      "score": 3.5,
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "published": "2026-11-25T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "open source"
+      ],
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T18:52:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
       "source": "Hugging Face Blog",
       "summary": "",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
     },
     {
-      "canonical_url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "published": "2026-11-24T20:02:03+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "published": "2026-11-25T14:10:18+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "published": "2026-11-25T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published": "2026-11-25T10:22:09+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "published": "2026-11-25T17:44:51+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "published": "2026-11-25T14:12:33+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "published": "2026-11-25T10:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "training"
+      ],
+      "score": 5.1,
+      "source": "MIT Technology Review AI",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published": "2026-11-25T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "inference"
+      ],
+      "score": 4.4,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "published": "2026-11-25T16:00:59+00:00",
       "reasons": [
         "fresh <12h"
       ],
       "score": 3.4,
       "source": "The Verge AI",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
     },
     {
-      "canonical_url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "published": "2026-11-24T18:15:00+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "published": "2026-11-24T17:17:09+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-      "title": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "published": "2026-11-24T16:30:00+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
-    },
-    {
-      "canonical_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "published": "2026-11-23T17:00:00+00:00",
+      "canonical_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "published": "2026-11-25T00:00:00+00:00",
       "reasons": [
         "fresh <30h"
       ],
-      "score": 3.2,
-      "source": "Google AI Blog",
-      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      "score": 3.3,
+      "source": "Anthropic Research",
+      "summary": "How we migrated our Messages API from Python to Rust.",
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "published": "2026-11-24T13:07:53+00:00",
+      "reasons": [
+        "recent <72h"
+      ],
+      "score": 2.4,
+      "source": "Google DeepMind Blog",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
     }
   ]
 }

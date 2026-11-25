@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-24T15:26:35.291263-07:00._
+_Last updated: 2026-11-25T14:42:07.673685-07:00._
 
-[Read the latest digest](digests/2026-11-24.html)
+[Read the latest digest](digests/2026-11-25.html)
 
 ## Latest top links
 
-- [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/) — TechCrunch AI
-- [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning Blog
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) — OpenAI Blog
-- [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/) — TechCrunch AI
-- [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/) — MIT Technology Review AI
-- [How Gemini is changing the game for Golden State's organization and fans.](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/) — Google AI Blog
-- [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/) — TechCrunch AI
-- [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/) — TechCrunch AI
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — TechCrunch AI
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — TechCrunch AI
+- [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware) — The Verge AI
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) — Hugging Face Blog
+- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/) — TechCrunch AI
+- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/) — TechCrunch AI
+- [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) — Hugging Face Blog
+- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-25](digests/2026-11-25.html)
 - [2026-11-24](digests/2026-11-24.html)
 - [2026-11-23](digests/2026-11-23.html)
 - [2026-11-22](digests/2026-11-22.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-24T15:26:35.291263-07:00._
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
-- [2026-10-26](digests/2026-10-26.html)
 
 ## About this site
 
