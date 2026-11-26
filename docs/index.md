@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-11-25T14:42:07.673685-07:00._
+_Last updated: 2026-11-26T14:31:54.260985-07:00._
 
-[Read the latest digest](digests/2026-11-25.html)
+[Read the latest digest](digests/2026-11-26.html)
 
 ## Latest top links
 
-- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — TechCrunch AI
-- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — TechCrunch AI
-- [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware) — The Verge AI
-- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) — Hugging Face Blog
-- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/) — TechCrunch AI
-- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/) — TechCrunch AI
-- [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) — Hugging Face Blog
-- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers) — The Verge AI
+- [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://arxiv.org/abs/2611.31974) — arXiv cs.AI
+- [LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering](https://arxiv.org/abs/2611.33510) — arXiv cs.CL
+- [Building a Unified Inline Code Editing Model for GitHub Copilot](https://arxiv.org/abs/2611.33314) — arXiv cs.CL
+- [Conformal Prediction and Conditional Coverage for Tabular Foundation Models](https://arxiv.org/abs/2609.34887) — arXiv stat.ML
+- [Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training](https://arxiv.org/abs/2611.31427) — arXiv cs.AI
+- [Off-the-Shelf Autonomous Agents for Game Playtesting](https://arxiv.org/abs/2611.31570) — arXiv cs.AI
+- [PRETZEL: A Benchmark for Cyclic Peptide Structure Prediction](https://arxiv.org/abs/2611.31708) — arXiv cs.AI
+- [Verified experience improves materials prediction with large language models](https://arxiv.org/abs/2611.33195) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-26](digests/2026-11-26.html)
 - [2026-11-25](digests/2026-11-25.html)
 - [2026-11-24](digests/2026-11-24.html)
 - [2026-11-23](digests/2026-11-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-25T14:42:07.673685-07:00._
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
-- [2026-10-27](digests/2026-10-27.html)
 
 ## About this site
 
