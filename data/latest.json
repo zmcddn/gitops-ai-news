@@ -1,149 +1,59 @@
 {
-  "digest_date": "2026-11-26",
-  "generated_at": "2026-11-26T14:31:54.260985-07:00",
+  "digest_date": "2026-11-27",
+  "generated_at": "2026-11-27T14:17:05.400940-07:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.31974",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "inference"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.31974v1 Announce Type: new Abstract: Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring repeated inference cost and, in real-time games, acting while the environment continues to evolve. We ask whether coding agents can learn from game interaction to develop standalone game-playing programs that run without language model inference. We thus introduce Coding4Games, a benchmark for evaluating whether coding…",
-      "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
-      "url": "https://arxiv.org/abs/2611.31974"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.33510",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "inference"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.33510v1 Announce Type: new Abstract: Detailed knowledge of a user's persona is valuable for personalizing generative AI models and agents, yet such details are difficult to obtain and change over time. We address the task of inferring persona attributes from a single day of mobile activity logs. No suitable publicly available benchmark exists for this task, so we introduce a synthetic benchmark of 1,600 persona-log pairs. We target on-device inference so that raw logs never leave the phone, which makes memory rather than speed the limiting constraint: a day of activity yields roughly 30K tokens, whose key-value cache alone exceeds…",
-      "title": "LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering",
-      "url": "https://arxiv.org/abs/2611.33510"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.33314",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "github copilot",
-        "developer"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.33314v1 Announce Type: cross Abstract: AI-assisted coding ranges from fully agentic coding to inline code suggestions in the editor. Inline suggestions require predicting a developer's most likely next edit from an editing session. The next edit may lie at the cursor, in nearby lines, or farther away, and one editing intent can span several of these. The preceding system queries separate completion, nearby edit, and long-distance edit models, each with its own output format, in a fixed sequence; it thus cannot express intents spanning distant locations in one response, can require several sequential model calls per suggestion, and…",
-      "title": "Building a Unified Inline Code Editing Model for GitHub Copilot",
-      "url": "https://arxiv.org/abs/2611.33314"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2609.34887",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2609.34887v2 Announce Type: replace Abstract: Tabular foundation models (TFMs) provide predictive distributions for regression, but their prediction regions can exhibit undercoverage or overcoverage even when point predictions are accurate. We introduce C-USIM (Conditionally-Uniformized Score Integration Method), a lightweight application of highest predictive density split conformal prediction that accommodates multimodal predictions. Given calibration and test outputs, it requires no additional training or model inference. It provides finite-sample marginal validity under our assumptions. We bound conditional-marginal coverage gaps u…",
-      "title": "Conformal Prediction and Conditional Coverage for Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2609.34887"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.31427",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task competence, the knowledge and reasoning needed to solve a task, and interface competence, the ability to act on that knowledge through a given harness.…",
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "url": "https://arxiv.org/abs/2611.31427"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.31570",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.31570v1 Announce Type: new Abstract: In playtesting games, a human operator is typically required to test most gameplay elements. In this work we present Buddy, an autonomous game solving agent which can solve long time horizon objectives in an unseen 3D role-playing game using off-the-shelf language model systems. Buddy will take actions, receive feedback on those actions, and pursue a goal across many turns. No written walkthrough or model training of any kind is required, and we show that this paradigm holds in a novel environment where the agent must discover solutions via exploration rather than recalling them from pretrainin…",
-      "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
-      "url": "https://arxiv.org/abs/2611.31570"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.31708",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.31708v1 Announce Type: new Abstract: Macrocyclic peptides are a growing therapeutic modality, and co-folding models are increasingly used to predict their structures. Yet published evaluations rely on small, loosely curated target sets that differ from paper to paper, so results are not comparable, and most report pose RMSD alone, without checking whether the predicted molecule is chemically correct. We introduce PRETZEL (Prediction of Ring-Enclosed Topology: Zero-shot Evaluation of cycLic peptides), a benchmark of 285 curated cyclic peptide-protein complexes spanning three cyclization chemistries, all post-dating the training cut…",
-      "title": "PRETZEL: A Benchmark for Cyclic Peptide Structure Prediction",
-      "url": "https://arxiv.org/abs/2611.31708"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.33195",
-      "published": "2026-11-26T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.33195v1 Announce Type: new Abstract: Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors are specialized single-task models fixed after training. Large language models have recently emerged as predictors across heterogeneous tasks but generally underperform specialized models, and retrieval-augmented variants discard their own outcomes. Benchmarks also score queries in isolation, leaving improvement from outcomes untested. Here we construct MatMemBench, a sequential benchmark of 22 materials tasks that reveals outcomes only after predi…",
-      "title": "Verified experience improves materials prediction with large language models",
-      "url": "https://arxiv.org/abs/2611.33195"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.33428",
-      "published": "2026-11-26T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.33639",
+      "published": "2026-11-27T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "claude",
-        "llama",
-        "model"
+        "model",
+        "agent",
+        "benchmark"
       ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.33428v1 Announce Type: new Abstract: Assistants that answer from supplied reference material often receive material that covers some parts of a user's question and not others. Existing evaluations of insufficient context mostly score one answer per question, and often treat partially sufficient context as simply insufficient. We describe a small, open evaluation that scores each part of a three-part question separately, with a verdict for parts that are answered correctly from the material but carry an added unsupported claim. On 30 cases (five scenarios, six coverage patterns, five samples each) we test claude-haiku-4-5 and llama…",
-      "title": "When the Knowledge Runs Out: A Part-Level Pilot Evaluation of How Language Models Handle Partially Covered Questions",
-      "url": "https://arxiv.org/abs/2611.33428"
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.33639v1 Announce Type: new Abstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong patches, which pass a benchmark's tests but fail stronger ones. Claude Opus 5.5 (preregistered), Sonnet 5.5 and Haiku 5.5 (exploratory) each reviewed the same 90 agent-written Django patches from SWE-bench Verified at low, medium and high effort. By strengthened SWE-ABS tests, 55 patches were wrong and 35 correct. In every model, high effort accepted…",
+      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+      "url": "https://arxiv.org/abs/2611.33639"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2606.31126",
-      "published": "2026-11-26T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.34254",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.34254v1 Announce Type: new Abstract: Large language models (LLMs) perform well on chemistry knowledge benchmarks, which mainly assess question answering and isolated tasks. Chemical research, however, requires using specialized tools and interpreting their outputs to obtain chemically valid results. To address this gap, we introduce Crucible Bench to evaluate this ability across all four stages of the design-make-test-analyze (DMTA) cycle. The benchmark contains 1,078 tasks in 12 task families curated from 18 published datasets, covering molecular design, synthesis planning, experimental execution, closed-loop optimization, simula…",
+      "title": "Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments",
+      "url": "https://arxiv.org/abs/2611.34254"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34147",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "machine learning",
+        "open source",
+        "research"
+      ],
+      "score": 8.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.34147v1 Announce Type: new Abstract: Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, \\emph{model-driven} context management, in which the model itself decides when and what to compact through a context API. We gave models control over their own context in \\nooa, NVIDIA's open source agent harness, and compared the two strategies on document research and machine learning engineering across context budgets from 8K to 512K tokens. Models that use the context API effectively reach higher accuracy, often with fewe…",
+      "title": "Letting Models Manage Their Own Context: Where We Stand",
+      "url": "https://arxiv.org/abs/2611.34147"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33160",
+      "published": "2026-11-27T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
@@ -151,119 +61,106 @@
         "training"
       ],
       "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2606.31126v3 Announce Type: replace-cross Abstract: Predicting biomolecular properties from limited labeled data is a central bottleneck in protein engineering and small-molecule design. As strong pretrained encoders now supply rich fixed-length representations, the difficulty has shifted from representation learning to building a data-efficient predictor for the few-shot regime. Tabular foundation models such as TabPFN and TabICL perform this prediction through in-context inference after pretraining on synthetic tables. We test whether they can act as flexible interpolators over informative fixed biomolecular representations. Treating…",
-      "title": "Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?",
-      "url": "https://arxiv.org/abs/2606.31126"
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budgets: training $B_\\theta$, decision-time $B_d$, and context-infrastructure $B_c$. Pretraining scaling invests in $\\theta$; decision-time scaling searche…",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "published": "2026-11-26T11:37:17+00:00",
-      "reasons": [
-        "fresh <12h",
-        "llama",
-        "benchmark"
-      ],
-      "score": 6.9,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.33246",
-      "published": "2026-11-26T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.34341",
+      "published": "2026-11-27T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "model",
-        "inference",
-        "machine learning"
+        "agent",
+        "benchmark",
+        "training"
       ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.33246v1 Announce Type: cross Abstract: Estimating covariate-dependent treatment effects is a central challenge in personalized medicine. Existing approaches often emphasize either fully parametric models, risking misspecification, or flexible machine learning methods, which may require large samples to detect the small treatment effect heterogeneity common in medical settings. We propose B-SLIM (BART Sparse Linear Interaction Model), a semi-parametric model for causal inference that combines a flexible Bayesian Additive Regression Trees (BART) prognostic component with a sparse linear treatment effect component. This hybrid struct…",
-      "title": "B-SLIM: BART Sparse Linear Interactions Model for Heterogeneous Treatment Effects",
-      "url": "https://arxiv.org/abs/2611.33246"
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34341v1 Announce Type: new Abstract: Even a correct operator reply can be an unreliable training target for a customer-support agent. About a quarter of the factual claims in these replies lacked full support in the agent's knowledge base and tool records. We treat operator replies as claims to verify rather than answers to imitate. Unverified claims guide revisions to the knowledge base and tools. Verified claims serve as coverage targets in a claim-level GRPO reward that scores factual precision against the evidence the agent retrieved for its answer. On an offline benchmark, 8.6% of the GRPO agent's text answers were flagged fo…",
+      "title": "Learning from Unreliable Operator References: Claim-Level Rewards for Customer Support Agents",
+      "url": "https://arxiv.org/abs/2611.34341"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2608.02826",
-      "published": "2026-11-26T05:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.34373",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34373v1 Announce Type: new Abstract: Influence functions are a promising way to identify which training examples are responsible for a model's output. However, so far empirical evaluations on LLM pretraining level only assumed that they work as intended. This is the first work to systematically evaluate whether the 'influential' examples actually have properties relevant to a language model output, based on re-training with controlled data splits. We investigate three prominent Hessian approximation methods (GradSim, TrackStar, K-FAC) in two settings (linguistic phenomena and factual knowledge) in GPT-2 type models (68M-5.6B train…",
+      "title": "Under the Influence -- of What? A Controlled Evaluation of Influence Functions",
+      "url": "https://arxiv.org/abs/2611.34373"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34398",
+      "published": "2026-11-27T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
-        "machine learning"
+        "training"
       ],
-      "score": 6.7,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.02826v2 Announce Type: replace-cross Abstract: Reinforcement learning is a subfield of machine learning that studies how an agent interacts with an environment in order to extract as large a reward as possible. A standard approach to study such interaction is through Markov Decision Processes (MDPs) and the task of choosing an optimal policy---a function that tells the agent which action to take. In this work, we study two types of time-dependent MDP---finite-horizon and infinite-horizon discounted---and propose new quantum algorithms for computing approximate optimal policies. Our quantum algorithms are based on a new combination…",
-      "title": "Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model",
-      "url": "https://arxiv.org/abs/2608.02826"
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34398v1 Announce Type: new Abstract: Skill acquisition alone does not establish a reusable skill library: task proficiency does not specify a compositional interface. Motivated by agents that acquire and refine skills, we study independently learned soft-prompt skills on frozen language models, with skill identities and execution order supplied. Across four digit-task bases and three record-editing models, mean composition accuracy in one call is at most 7.6%, compared with 88.2% to 100% over two calls that add computation and an explicit intermediate output. Neutral-insertion training improves robustness but leaves substantial in…",
+      "title": "When Skills Fail to Compose: Compatibility and Retention in Language Models",
+      "url": "https://arxiv.org/abs/2611.34398"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
-      "published": "2026-11-26T20:03:54+00:00",
-      "reasons": [
-        "fresh <12h",
-        "chip"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-      "published": "2026-11-26T16:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
-    },
-    {
-      "canonical_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "published": "2026-11-26T05:05:36+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.34529",
+      "published": "2026-11-27T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "inference"
+        "model",
+        "agent",
+        "training"
       ],
-      "score": 4.4,
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34529v1 Announce Type: new Abstract: We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under the Apache 2.0 license. The model combines Kimi Delta Attention with full attention, uses Attention Residuals, and is trained with Muon. Training comprises general pretraining on 17.5 trillion tokens, two context-extension stages, and a dedicated stage for reasoning and agentic interaction. We describe the data collection and augmentation pipelines, evaluation protocols, archite…",
+      "title": "AliceAI-Foundation-80B-A3B-Base",
+      "url": "https://arxiv.org/abs/2611.34529"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "published": "2026-11-27T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
       "source": "Hugging Face Blog",
       "summary": "",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/training-swarms",
-      "published": "2026-11-26T00:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "published": "2026-11-26T09:54:40+00:00",
       "reasons": [
-        "fresh <30h",
-        "agent"
+        "recent <72h"
       ],
-      "score": 4.4,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "url": "https://huggingface.co/blog/training-swarms"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
-      "published": "2026-11-25T18:11:46+00:00",
-      "reasons": [
-        "fresh <30h",
-        "research"
-      ],
-      "score": 3.5,
-      "source": "TechCrunch AI",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+      "score": 1.8,
+      "source": "The Verge AI",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
     }
   ]
 }

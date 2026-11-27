@@ -1,0 +1,166 @@
+{
+  "digest_date": "2026-11-27",
+  "generated_at": "2026-11-27T14:17:05.400940-07:00",
+  "items": [
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33639",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "claude",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.33639v1 Announce Type: new Abstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong patches, which pass a benchmark's tests but fail stronger ones. Claude Opus 5.5 (preregistered), Sonnet 5.5 and Haiku 5.5 (exploratory) each reviewed the same 90 agent-written Django patches from SWE-bench Verified at low, medium and high effort. By strengthened SWE-ABS tests, 55 patches were wrong and 35 correct. In every model, high effort accepted…",
+      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+      "url": "https://arxiv.org/abs/2611.33639"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34254",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.34254v1 Announce Type: new Abstract: Large language models (LLMs) perform well on chemistry knowledge benchmarks, which mainly assess question answering and isolated tasks. Chemical research, however, requires using specialized tools and interpreting their outputs to obtain chemically valid results. To address this gap, we introduce Crucible Bench to evaluate this ability across all four stages of the design-make-test-analyze (DMTA) cycle. The benchmark contains 1,078 tasks in 12 task families curated from 18 published datasets, covering molecular design, synthesis planning, experimental execution, closed-loop optimization, simula…",
+      "title": "Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments",
+      "url": "https://arxiv.org/abs/2611.34254"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34147",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "machine learning",
+        "open source",
+        "research"
+      ],
+      "score": 8.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.34147v1 Announce Type: new Abstract: Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, \\emph{model-driven} context management, in which the model itself decides when and what to compact through a context API. We gave models control over their own context in \\nooa, NVIDIA's open source agent harness, and compared the two strategies on document research and machine learning engineering across context budgets from 8K to 512K tokens. Models that use the context API effectively reach higher accuracy, often with fewe…",
+      "title": "Letting Models Manage Their Own Context: Where We Stand",
+      "url": "https://arxiv.org/abs/2611.34147"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33160",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budgets: training $B_\\theta$, decision-time $B_d$, and context-infrastructure $B_c$. Pretraining scaling invests in $\\theta$; decision-time scaling searche…",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34341",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "benchmark",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34341v1 Announce Type: new Abstract: Even a correct operator reply can be an unreliable training target for a customer-support agent. About a quarter of the factual claims in these replies lacked full support in the agent's knowledge base and tool records. We treat operator replies as claims to verify rather than answers to imitate. Unverified claims guide revisions to the knowledge base and tools. Verified claims serve as coverage targets in a claim-level GRPO reward that scores factual precision against the evidence the agent retrieved for its answer. On an offline benchmark, 8.6% of the GRPO agent's text answers were flagged fo…",
+      "title": "Learning from Unreliable Operator References: Claim-Level Rewards for Customer Support Agents",
+      "url": "https://arxiv.org/abs/2611.34341"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34373",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34373v1 Announce Type: new Abstract: Influence functions are a promising way to identify which training examples are responsible for a model's output. However, so far empirical evaluations on LLM pretraining level only assumed that they work as intended. This is the first work to systematically evaluate whether the 'influential' examples actually have properties relevant to a language model output, based on re-training with controlled data splits. We investigate three prominent Hessian approximation methods (GradSim, TrackStar, K-FAC) in two settings (linguistic phenomena and factual knowledge) in GPT-2 type models (68M-5.6B train…",
+      "title": "Under the Influence -- of What? A Controlled Evaluation of Influence Functions",
+      "url": "https://arxiv.org/abs/2611.34373"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34398",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34398v1 Announce Type: new Abstract: Skill acquisition alone does not establish a reusable skill library: task proficiency does not specify a compositional interface. Motivated by agents that acquire and refine skills, we study independently learned soft-prompt skills on frozen language models, with skill identities and execution order supplied. Across four digit-task bases and three record-editing models, mean composition accuracy in one call is at most 7.6%, compared with 88.2% to 100% over two calls that add computation and an explicit intermediate output. Neutral-insertion training improves robustness but leaves substantial in…",
+      "title": "When Skills Fail to Compose: Compatibility and Retention in Language Models",
+      "url": "https://arxiv.org/abs/2611.34398"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.34529",
+      "published": "2026-11-27T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.34529v1 Announce Type: new Abstract: We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under the Apache 2.0 license. The model combines Kimi Delta Attention with full attention, uses Attention Residuals, and is trained with Muon. Training comprises general pretraining on 17.5 trillion tokens, two context-extension stages, and a dedicated stage for reasoning and agentic interaction. We describe the data collection and augmentation pipelines, evaluation protocols, archite…",
+      "title": "AliceAI-Foundation-80B-A3B-Base",
+      "url": "https://arxiv.org/abs/2611.34529"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "published": "2026-11-27T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "published": "2026-11-26T09:54:40+00:00",
+      "reasons": [
+        "recent <72h"
+      ],
+      "score": 1.8,
+      "source": "The Verge AI",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    }
+  ]
+}
